@@ -1,0 +1,218 @@
+[
+{
+"uuid": "ab7e3b7f-2648-4369-8506-7df16d36eb2d",
+"tool": "Clari",
+"kind": "company",
+"url": "https://clari.com",
+"status": "fetched",
+"chars": 3783,
+"date": "2026-11-13"
+},
+{
+"uuid": "da417a13-1b1e-4f3a-a3ff-4c1599fb5c50",
+"tool": "Claude / Anthropic",
+"kind": "company",
+"url": "https://anthropic.com",
+"status": "fetched",
+"chars": 3167,
+"date": "2026-11-13"
+},
+{
+"uuid": "b729c8c5-5120-44bc-8b0b-b53f62281a0a",
+"tool": "Claude Agent SDK",
+"kind": "company",
+"url": "https://anthropic.com",
+"status": "fetched",
+"chars": 3167,
+"date": "2026-11-13"
+},
+{
+"uuid": "58871959-b679-455d-9a32-52127fc38bc1",
+"tool": "Claude Code",
+"kind": "company",
+"url": "https://anthropic.com",
+"status": "fetched",
+"chars": 3167,
+"date": "2026-11-13"
+},
+{
+"uuid": "e80df2fb-2513-40eb-8047-3554bf0a34a6",
+"tool": "Claude Cowork",
+"kind": "company",
+"url": "https://anthropic.com",
+"status": "fetched",
+"chars": 3167,
+"date": "2026-11-13"
+},
+{
+"uuid": "da417a13-1b1e-4f3a-a3ff-4c1599fb5c50",
+"tool": "Claude / Anthropic",
+"kind": "product",
+"url": "https://claude.com",
+"status": "fetched",
+"chars": 18628,
+"date": "2026-11-13"
+},
+{
+"uuid": "1cda11dc-be76-4346-8135-7ec2956bf710",
+"tool": "Clay API (unofficial)",
+"kind": "company",
+"url": "https://claygenius.io",
+"status": "failed",
+"error": "Error fetching content",
+"date": "2026-11-13"
+},
+{
+"uuid": "d74164ef-d885-4789-9615-e2deef22e187",
+"tool": "Clay Chrome extension (Frontier)",
+"kind": "company",
+"url": "https://clay.com",
+"status": "fetched",
+"chars": 8281,
+"date": "2026-11-13"
+},
+{
+"uuid": "9d27aecb-5408-406e-ad22-488bbffca5f2",
+"tool": "Claygent",
+"kind": "company",
+"url": "https://clay.com",
+"status": "fetched",
+"chars": 8281,
+"date": "2026-11-13"
+},
+{
+"uuid": "9d27aecb-5408-406e-ad22-488bbffca5f2",
+"tool": "Claygent",
+"kind": "product",
+"url": "https://www.clay.com/claygent",
+"status": "fetched",
+"chars": 39120,
+"date": "2026-11-13"
+},
+{
+"uuid": "0914c9cc-b79d-49bf-b0d2-2f52922a5f88",
+"tool": "Clearbit",
+"kind": "company",
+"url": "https://clearbit.com",
+"status": "fetched",
+"chars": 2490,
+"date": "2026-11-13"
+},
+{
+"uuid": "850dd538-7bc8-4bfc-9012-0a1e9d4b5dec",
+"tool": "Clearcue",
+"kind": "company",
+"url": "https://clearcue.ai",
+"status": "fetched",
+"chars": 14925,
+"date": "2026-11-13"
+},
+{
+"uuid": "ca01bb3f-2386-457d-975f-50d6b2f2a3d3",
+"tool": "Close CRM",
+"kind": "company",
+"url": "https://close.com",
+"status": "fetched",
+"chars": 26866,
+"date": "2026-11-13"
+},
+{
+"uuid": "1ffdbc61-d59b-4d8f-a5a2-9a5659749ba4",
+"tool": "Closely",
+"kind": "company",
+"url": "https://closelyhq.com",
+"status": "fetched",
+"chars": 16658,
+"date": "2026-11-13"
+},
+{
+"uuid": "6ce484a6-64fe-4bfc-92c7-a2bcdf8e1e39",
+"tool": "CloudTalk",
+"kind": "company",
+"url": "https://cloudtalk.io",
+"status": "fetched",
+"chars": 27689,
+"date": "2026-11-13"
+},
+{
+"uuid": "fa159f36-684f-4b40-93a6-1b2e9adddb29",
+"tool": "Cognee",
+"kind": "company",
+"url": "https://cognee.ai",
+"status": "fetched",
+"chars": 20058,
+"date": "2026-11-13"
+},
+{
+"uuid": "1f728191-7949-4748-bdaa-5541887a5efd",
+"tool": "Cognism",
+"kind": "company",
+"url": "https://cognism.com",
+"status": "fetched",
+"chars": 16593,
+"date": "2026-11-13"
+},
+{
+"uuid": "54b9f59c-df82-4f27-a4da-2da754dadcda",
+"tool": "Confluence",
+"kind": "company",
+"url": "https://atlassian.com",
+"status": "fetched",
+"chars": 9106,
+"date": "2026-11-13"
+},
+{
+"uuid": "54b9f59c-df82-4f27-a4da-2da754dadcda",
+"tool": "Confluence",
+"kind": "product",
+"url": "https://www.atlassian.com/software/confluence/knowledge-base",
+"status": "fetched",
+"chars": 5934,
+"date": "2026-11-13"
+},
+{
+"uuid": "2c684fcc-f87f-4061-b14f-126c0a205a3a",
+"tool": "copy.ai",
+"kind": "company",
+"url": "https://copy.ai",
+"status": "fetched",
+"chars": 12204,
+"date": "2026-11-13"
+},
+{
+"uuid": "2c684fcc-f87f-4061-b14f-126c0a205a3a",
+"tool": "copy.ai",
+"kind": "product",
+"url": "https://www.copy.ai/platform/building-workflows",
+"status": "fetched",
+"chars": 4365,
+"date": "2026-11-13"
+},
+{
+"uuid": "c97f2ec7-2bd4-4daf-be12-6b1224f1b714",
+"tool": "Cost",
+"kind": "company",
+"url": "https://lcobuilder.com",
+"status": "fetched",
+"chars": 15089,
+"date": "2026-11-13"
+},
+{
+"uuid": "8aa14c0f-1b00-4fd4-8e88-aa4f5bebddd6",
+"tool": "Cursor",
+"kind": "company",
+"url": "https://cursor.com",
+"status": "fetched",
+"chars": 23317,
+"date": "2026-11-13"
+},
+{
+"uuid": "52a1b2e5-b718-425d-ad6f-69891c6c96fe",
+"tool": "DataCamp",
+"kind": "company",
+"url": "https://datacamp.com",
+"status": "fetched",
+"chars": 20600,
+"date": "2026-11-13"
+}
+]

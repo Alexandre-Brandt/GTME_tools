@@ -1,0 +1,203 @@
+[
+{
+"uuid": "1ffdbc61-d59b-4d8f-a5a2-9a5659749ba4",
+"tool": "Closely",
+"kind": "pricing",
+"url": "https://closelyhq.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 27158,
+"date": "2026-11-13"
+},
+{
+"uuid": "6ce484a6-64fe-4bfc-92c7-a2bcdf8e1e39",
+"tool": "CloudTalk",
+"kind": "pricing",
+"url": "https://cloudtalk.io/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 54609,
+"date": "2026-11-13"
+},
+{
+"uuid": "fa159f36-684f-4b40-93a6-1b2e9adddb29",
+"tool": "Cognee",
+"kind": "pricing",
+"url": "https://cognee.ai/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 9721,
+"date": "2026-11-13"
+},
+{
+"uuid": "1f728191-7949-4748-bdaa-5541887a5efd",
+"tool": "Cognism",
+"kind": "pricing",
+"url": "https://www.cognism.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 8984,
+"date": "2026-11-13"
+},
+{
+"uuid": "54b9f59c-df82-4f27-a4da-2da754dadcda",
+"tool": "Confluence",
+"kind": "pricing",
+"url": "https://atlassian.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 17722,
+"date": "2026-11-13"
+},
+{
+"uuid": "2c684fcc-f87f-4061-b14f-126c0a205a3a",
+"tool": "copy.ai",
+"kind": "pricing",
+"url": "https://copy.ai/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 7239,
+"date": "2026-11-13"
+},
+{
+"uuid": "c97f2ec7-2bd4-4daf-be12-6b1224f1b714",
+"tool": "Cost",
+"kind": "pricing",
+"url": "https://lcobuilder.com/pricing",
+"how": "guess",
+"status": "failed",
+"chars": 6321,
+"error": "not a pricing page (low pricing signal)",
+"date": "2026-11-13"
+},
+{
+"uuid": "8aa14c0f-1b00-4fd4-8e88-aa4f5bebddd6",
+"tool": "Cursor",
+"kind": "pricing",
+"url": "https://cursor.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 17000,
+"date": "2026-11-13"
+},
+{
+"uuid": "52a1b2e5-b718-425d-ad6f-69891c6c96fe",
+"tool": "DataCamp",
+"kind": "pricing",
+"url": "https://datacamp.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "e754e054-7a98-44bc-8996-24b0144de975",
+"tool": "Datagma",
+"kind": "pricing",
+"url": "https://datagma.com/en/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 5908,
+"date": "2026-11-13"
+},
+{
+"uuid": "975da191-77af-4428-b136-ddcb2e6ccae7",
+"tool": "Day.ai",
+"kind": "pricing",
+"url": "https://day.ai/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 7528,
+"date": "2026-11-13"
+},
+{
+"uuid": "16119bcf-a849-4162-98a0-5d7bbe1b8c15",
+"tool": "Dealfront",
+"kind": "pricing",
+"url": "https://dealfront.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 13142,
+"date": "2026-11-13"
+},
+{
+"uuid": "43b7da90-a6df-4673-a108-282daa6931b9",
+"tool": "DealHub",
+"kind": "pricing",
+"url": "https://dealhub.io/pricing/",
+"how": "link",
+"status": "fetched",
+"chars": 26356,
+"date": "2026-11-13"
+},
+{
+"uuid": "71b7d99b-e6d0-4838-ba40-f0f9bf7a0b62",
+"tool": "Default",
+"kind": "pricing",
+"url": "https://default.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 11072,
+"date": "2026-11-13"
+},
+{
+"uuid": "2ea0308e-be94-4f4f-a76b-4a8287fc79ed",
+"tool": "Delphi.ai",
+"kind": "pricing",
+"url": "https://delphi.ai/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 3504,
+"date": "2026-11-13"
+},
+{
+"uuid": "c0971dea-5cca-46a1-aad5-75428afa3b03",
+"tool": "Demodesk",
+"kind": "pricing",
+"url": "https://demodesk.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 8619,
+"date": "2026-11-13"
+},
+{
+"uuid": "87fc909a-6c81-4ab4-882a-7824643e6b34",
+"tool": "Dialfire",
+"kind": "pricing",
+"url": "https://dialfire.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "0de3321d-8e3a-4a11-bf6d-2f4f84323541",
+"tool": "DMARCDKIM.com",
+"kind": "pricing",
+"url": "https://dmarcdkim.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 4064,
+"date": "2026-11-13"
+},
+{
+"uuid": "a1e5eb0e-84ae-423c-9814-344374966564",
+"tool": "DocuSign (docgen)",
+"kind": "pricing",
+"url": "https://ecom.docusign.com/plans-and-pricing/iam",
+"how": "link",
+"status": "fetched",
+"chars": 8938,
+"date": "2026-11-13"
+},
+{
+"uuid": "d8fd4ac7-e0de-4781-85d0-0641a7a1925b",
+"tool": "Drift",
+"kind": "pricing",
+"url": "https://drift.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+}
+]

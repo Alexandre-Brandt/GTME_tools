@@ -1,0 +1,202 @@
+[
+{
+"uuid": "d8532335-060c-43ec-843f-53c88fe1cb32",
+"tool": "11x",
+"kind": "pricing",
+"url": "https://11x.ai/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "1127cd0f-a8ff-432e-9014-05b5a078cefb",
+"tool": "AgentGPT",
+"kind": "pricing",
+"url": "https://reworkd.ai/pricing",
+"how": "link",
+"status": "failed",
+"error": "empty/short content",
+"date": "2026-11-13"
+},
+{
+"uuid": "d3cb64fa-15c7-442a-9c0c-0985a7e287c7",
+"tool": "Aimfox",
+"kind": "pricing",
+"url": "https://aimfox.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 10738,
+"date": "2026-11-13"
+},
+{
+"uuid": "07d1434a-223e-4cc6-9031-bb361976fadc",
+"tool": "Aircall",
+"kind": "pricing",
+"url": "https://aircall.io/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 16971,
+"date": "2026-11-13"
+},
+{
+"uuid": "053fddb9-d2ae-42c2-a13d-dc0dcdf85230",
+"tool": "Airtable",
+"kind": "pricing",
+"url": "https://airtable.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 4109,
+"date": "2026-11-13"
+},
+{
+"uuid": "c276428e-2a78-4cd5-8625-bd41007b84e1",
+"tool": "Airtop",
+"kind": "pricing",
+"url": "https://airtop.ai/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 1961,
+"date": "2026-11-13"
+},
+{
+"uuid": "a86a6990-a205-4644-94fa-459384dc4b56",
+"tool": "Albacross",
+"kind": "pricing",
+"url": "https://albacross.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 22987,
+"date": "2026-11-13"
+},
+{
+"uuid": "5f0c0f63-d894-433e-a4ea-74be5cd0bffe",
+"tool": "Alfa",
+"kind": "pricing",
+"url": "https://getalfa.ai/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 7396,
+"date": "2026-11-13"
+},
+{
+"uuid": "6c8a867d-ec47-4039-9a3c-0f1c13a45a10",
+"tool": "AlignedUp",
+"kind": "pricing",
+"url": "https://alignedup.com/pricing/",
+"how": "link",
+"status": "fetched",
+"chars": 45000,
+"date": "2026-11-13"
+},
+{
+"uuid": "ba17332e-1bf3-4e01-a6cb-eedfd3950609",
+"tool": "Along",
+"kind": "pricing",
+"url": "https://alongspace.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 56479,
+"date": "2026-11-13"
+},
+{
+"uuid": "fac0a812-40ca-4e02-bdf9-54403726dab3",
+"tool": "Amplemarket",
+"kind": "pricing",
+"url": "https://amplemarket.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 23761,
+"date": "2026-11-13"
+},
+{
+"uuid": "081c5701-061a-455d-9914-f1c8e163cef2",
+"tool": "Apify",
+"kind": "pricing",
+"url": "https://apify.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 18867,
+"date": "2026-11-13"
+},
+{
+"uuid": "f1f3f3f8-6a86-4cb0-a0ad-de2bb50f470e",
+"tool": "Apollo.io",
+"kind": "pricing",
+"url": "https://apollo.io/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 8479,
+"date": "2026-11-13"
+},
+{
+"uuid": "3685af13-bc0a-4e6d-8662-61d2bb37ecb1",
+"tool": "AskElephant",
+"kind": "pricing",
+"url": "https://askelephant.ai/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 4197,
+"date": "2026-11-13"
+},
+{
+"uuid": "0acc11e8-705f-450a-901f-507666838eb8",
+"tool": "Attention",
+"kind": "pricing",
+"url": "https://attention.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "cd48c8bf-ea97-457b-a359-8b9f84b98de4",
+"tool": "axiom.ai",
+"kind": "pricing",
+"url": "https://axiom.ai/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 15374,
+"date": "2026-11-13"
+},
+{
+"uuid": "c94269d0-fab9-4049-ba75-c5623c25f592",
+"tool": "BetterContact",
+"kind": "pricing",
+"url": "https://bettercontact.rocks/pricing/",
+"how": "link",
+"status": "fetched",
+"chars": 6389,
+"date": "2026-11-13"
+},
+{
+"uuid": "fc41dcab-deeb-4cfd-86d0-f1f1f9be59fb",
+"tool": "Bison",
+"kind": "pricing",
+"url": "https://emailbison.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 1187,
+"date": "2026-11-13"
+},
+{
+"uuid": "db005d74-2616-44e7-a744-968a7373d6bb",
+"tool": "BlitzAPI",
+"kind": "pricing",
+"url": "https://blitz-api.ai/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 14264,
+"date": "2026-11-13"
+},
+{
+"uuid": "4e3d1031-a7bf-4670-a2c0-bb08de486a11",
+"tool": "Booking.com",
+"kind": "pricing",
+"url": "https://booking.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+}
+]

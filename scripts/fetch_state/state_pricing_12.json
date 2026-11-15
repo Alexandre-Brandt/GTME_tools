@@ -1,0 +1,132 @@
+[
+{
+"uuid": "5bf136fe-c1d4-4c73-a338-7250d15e3aa7",
+"tool": "Wix",
+"kind": "pricing",
+"url": "https://wix.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 18837,
+"date": "2026-11-13"
+},
+{
+"uuid": "5e6dc06a-e565-45c9-9b71-503d1f9953a7",
+"tool": "Xing",
+"kind": "pricing",
+"url": "https://xing.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "ecd4c740-9dd1-47b2-a978-ee6a36bc97cd",
+"tool": "XLR8",
+"kind": "pricing",
+"url": "https://getxlr8.ai/pricing",
+"how": "guess",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "08ca8c7c-26ee-46c0-a606-529841a770da",
+"tool": "yothere",
+"kind": "pricing",
+"url": "https://yothere.ai/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 2345,
+"date": "2026-11-13"
+},
+{
+"uuid": "cea06783-8127-4d41-acb4-559bae4d74ed",
+"tool": "Zapier",
+"kind": "pricing",
+"url": "https://zapier.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 25429,
+"date": "2026-11-13"
+},
+{
+"uuid": "5f7143f9-82c8-4164-aad7-46d6570f9ed5",
+"tool": "Zapier Central",
+"kind": "pricing",
+"url": "https://zapier.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 25429,
+"date": "2026-11-13"
+},
+{
+"uuid": "0c757686-1147-4d0e-87d6-4ef249c49575",
+"tool": "Zapmail",
+"kind": "pricing",
+"url": "https://zapmail.ai/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 7346,
+"date": "2026-11-13"
+},
+{
+"uuid": "1db6986c-8ae0-4115-b382-2a925f626393",
+"tool": "ZenRows",
+"kind": "pricing",
+"url": "https://zenrows.com/use-cases/price-scraping",
+"how": "link",
+"status": "fetched",
+"chars": 9021,
+"date": "2026-11-13"
+},
+{
+"uuid": "77b1f8c1-8cc7-4928-a455-0d8b53d39b69",
+"tool": "Zero",
+"kind": "pricing",
+"url": "https://zero.inc/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 5007,
+"date": "2026-11-13"
+},
+{
+"uuid": "f042ce19-645f-4903-829f-7ff9aa94663d",
+"tool": "ZeroBounce",
+"kind": "pricing",
+"url": "https://zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=64,metadata=none/top-pages/assets_next/generic-icons/pricing_api.webp",
+"how": "link",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "fd8f1d42-e5f7-4560-b5e0-da8d2b3dd98b",
+"tool": "Zoom Phone",
+"kind": "pricing",
+"url": "https://zoom.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "Error fetching content",
+"date": "2026-11-13"
+},
+{
+"uuid": "fd30c375-831c-449f-ba74-9897b26fcac0",
+"tool": "ZoomInfo",
+"kind": "pricing",
+"url": "https://www.zoominfo.com/pricing",
+"how": "known",
+"status": "fetched",
+"chars": 12763,
+"date": "2026-11-13"
+},
+{
+"uuid": "114b1afc-7d4e-4713-96e2-a921693e8126",
+"tool": "Zuora (written 'Zoura')",
+"kind": "pricing",
+"url": "https://www.zuora.com/wp-content/uploads/2026/02/Pricing-1-1.webp",
+"how": "link",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+}
+]

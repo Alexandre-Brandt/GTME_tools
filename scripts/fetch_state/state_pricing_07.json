@@ -1,0 +1,203 @@
+[
+{
+"uuid": "781e4265-c89e-416e-a242-c999bbed5177",
+"tool": "Mixmax",
+"kind": "pricing",
+"url": "https://mixmax.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 10826,
+"date": "2026-11-13"
+},
+{
+"uuid": "fe2ace94-3ef9-4344-b6fe-e6533310b133",
+"tool": "Modern Relay",
+"kind": "pricing",
+"url": "https://modernrelay.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "01a3fa06-c9b2-4099-bfd3-ee3c6f44224f",
+"tool": "Momentum",
+"kind": "pricing",
+"url": "https://momentum.io/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 8339,
+"date": "2026-11-13"
+},
+{
+"uuid": "76f109e1-512c-4da1-8f84-d2cbac7c3177",
+"tool": "Monaco",
+"kind": "pricing",
+"url": "https://monaco.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 4383,
+"date": "2026-11-13"
+},
+{
+"uuid": "44937709-5871-4612-a358-e59063a5a350",
+"tool": "MyHammer",
+"kind": "pricing",
+"url": "https://my-hammer.de/pricing",
+"how": "guess",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "ebcf0035-3692-4885-b191-2ad2ac4b5845",
+"tool": "n8n",
+"kind": "pricing",
+"url": "https://n8n.io/pricing",
+"how": "known",
+"status": "fetched",
+"chars": 15352,
+"date": "2026-11-13"
+},
+{
+"uuid": "9e030fa2-ac58-4bdd-85fa-00275debb3c3",
+"tool": "n8n MCP",
+"kind": "pricing",
+"url": "https://n8n-mcp.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "87bb5e57-73d9-4c2f-8fc1-ae755127405f",
+"tool": "Nationalize API",
+"kind": "pricing",
+"url": "https://nationalize.io/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 2684,
+"date": "2026-11-13"
+},
+{
+"uuid": "0c83a168-8e7d-4814-9ab4-01e637166b43",
+"tool": "Needle",
+"kind": "pricing",
+"url": "https://needle.app/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 4149,
+"date": "2026-11-13"
+},
+{
+"uuid": "f11cc109-61b3-465a-b8b2-10b7ca6e0dc8",
+"tool": "Neon",
+"kind": "pricing",
+"url": "https://neon.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 25423,
+"date": "2026-11-13"
+},
+{
+"uuid": "9a07e461-f615-412f-af70-ec2360863b49",
+"tool": "Nooks",
+"kind": "pricing",
+"url": "https://nooks.ai/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 14481,
+"date": "2026-11-13"
+},
+{
+"uuid": "d763211f-1400-408e-abe4-5a3febbe3669",
+"tool": "North Data",
+"kind": "pricing",
+"url": "https://northdata.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "a1330b90-4f92-4dea-9b32-f65f5af2675a",
+"tool": "Notion",
+"kind": "pricing",
+"url": "https://notion.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 21734,
+"date": "2026-11-13"
+},
+{
+"uuid": "02ddc16f-6a2d-4802-a9d1-c07b890d40c6",
+"tool": "Nuacom",
+"kind": "pricing",
+"url": "https://nuacom.com/pricing-and-packages/?utm_source=home-page&utm_medium=website&utm_campaign=home-page-refresh",
+"how": "link",
+"status": "fetched",
+"chars": 10912,
+"date": "2026-11-13"
+},
+{
+"uuid": "fa5819c1-af95-4d8c-b26a-69474738c0d4",
+"tool": "Nue",
+"kind": "pricing",
+"url": "https://nue.io/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "ba9e2e2b-8640-4bd0-b04f-6da8b62f8a6b",
+"tool": "Octave",
+"kind": "pricing",
+"url": "https://octavehq.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 4477,
+"date": "2026-11-13"
+},
+{
+"uuid": "9578ee6b-c8cc-4fe0-88f2-937a9380ec7f",
+"tool": "Octoparse",
+"kind": "pricing",
+"url": "https://octoparse.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 7043,
+"date": "2026-11-13"
+},
+{
+"uuid": "e6760576-5ca2-490b-9332-b37aab61b043",
+"tool": "Odoo",
+"kind": "pricing",
+"url": "https://odoo.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 14859,
+"date": "2026-11-13"
+},
+{
+"uuid": "03dfb0a7-e656-430b-8820-12e35a2627b6",
+"tool": "Offene Register",
+"kind": "pricing",
+"url": "https://offeneregister.de/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "5480d459-bae7-4b72-965f-12d1790dee37",
+"tool": "Ontora",
+"kind": "pricing",
+"url": "https://ontora.com/pricing",
+"how": "guess",
+"status": "failed",
+"chars": 9528,
+"error": "not a pricing page (low pricing signal)",
+"date": "2026-11-13"
+}
+]

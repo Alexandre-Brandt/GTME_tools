@@ -1,0 +1,191 @@
+[
+{
+"uuid": "ad14578a-d5a8-4bee-89f2-2d90a15aaaa8",
+"tool": "SalesQL",
+"kind": "company",
+"url": "https://salesql.com",
+"status": "fetched",
+"chars": 17461,
+"date": "2026-11-13"
+},
+{
+"uuid": "72523157-cf1a-45dd-b687-124d10b0f4ab",
+"tool": "SalesRobot",
+"kind": "company",
+"url": "https://salesrobot.co",
+"status": "fetched",
+"chars": 18855,
+"date": "2026-11-13"
+},
+{
+"uuid": "72523157-cf1a-45dd-b687-124d10b0f4ab",
+"tool": "SalesRobot",
+"kind": "product",
+"url": "https://www.salesrobot.co/linkedin-automation",
+"status": "fetched",
+"chars": 26755,
+"date": "2026-11-13"
+},
+{
+"uuid": "7854ceac-4a6b-482b-ab71-58ce1f4ddb7c",
+"tool": "SAP Analytics Cloud",
+"kind": "company",
+"url": "https://sap.com",
+"status": "fetched",
+"chars": 23354,
+"date": "2026-11-13"
+},
+{
+"uuid": "967dbb1b-2814-49d0-b25b-701be1106b81",
+"tool": "SAP C4C",
+"kind": "company",
+"url": "https://sap.com",
+"status": "fetched",
+"chars": 23354,
+"date": "2026-11-13"
+},
+{
+"uuid": "1bfad073-89f6-44c5-8758-1e3a3e512605",
+"tool": "ScaledMail",
+"kind": "company",
+"url": "https://scaledmail.com",
+"status": "fetched",
+"chars": 25064,
+"date": "2026-11-13"
+},
+{
+"uuid": "74472259-1aa9-441e-aebd-680c92e4aab1",
+"tool": "Scripe",
+"kind": "company",
+"url": "https://scripe.io",
+"status": "fetched",
+"chars": 18200,
+"date": "2026-11-13"
+},
+{
+"uuid": "25d858c0-f4c5-402f-b4c1-0081b8c43913",
+"tool": "Sectorlens",
+"kind": "company",
+"url": "https://sectorlens.de",
+"status": "fetched",
+"chars": 7900,
+"date": "2026-11-13"
+},
+{
+"uuid": "a4cba862-66df-43c8-8fef-081b3d178ca1",
+"tool": "Semrush",
+"kind": "company",
+"url": "https://semrush.com",
+"status": "fetched",
+"chars": 12084,
+"date": "2026-11-13"
+},
+{
+"uuid": "a4cba862-66df-43c8-8fef-081b3d178ca1",
+"tool": "Semrush",
+"kind": "product",
+"url": "https://www.semrush.com/website/",
+"status": "fetched",
+"chars": 23934,
+"date": "2026-11-13"
+},
+{
+"uuid": "c37662bf-c153-4a55-b653-48b3e61084db",
+"tool": "Sendoso",
+"kind": "company",
+"url": "https://sendoso.com",
+"status": "fetched",
+"chars": 18569,
+"date": "2026-11-13"
+},
+{
+"uuid": "6d75784e-add9-46d4-acf3-b731df968c57",
+"tool": "Sentra",
+"kind": "company",
+"url": "https://sentra.app",
+"status": "fetched",
+"chars": 12099,
+"date": "2026-11-13"
+},
+{
+"uuid": "9dc63446-f442-4f81-b81c-d30bd182f7e8",
+"tool": "Serper",
+"kind": "company",
+"url": "https://serper.dev",
+"status": "fetched",
+"chars": 100979,
+"date": "2026-11-13"
+},
+{
+"uuid": "22fb79ee-b7d1-4a85-ab84-d5e2cec74bb3",
+"tool": "Serpstat",
+"kind": "company",
+"url": "https://serpstat.com",
+"status": "fetched",
+"chars": 5631,
+"date": "2026-11-13"
+},
+{
+"uuid": "22fb79ee-b7d1-4a85-ab84-d5e2cec74bb3",
+"tool": "Serpstat",
+"kind": "product",
+"url": "https://serpstat.com/features",
+"status": "fetched",
+"chars": 10916,
+"date": "2026-11-13"
+},
+{
+"uuid": "a56be7d8-eaba-48c0-8780-4dc22c3b158b",
+"tool": "Shopify",
+"kind": "company",
+"url": "https://shopify.com",
+"status": "fetched",
+"chars": 7823,
+"date": "2026-11-13"
+},
+{
+"uuid": "11cdcfe2-7a91-4b8b-86e6-ddc39ddde6fe",
+"tool": "Shopware",
+"kind": "company",
+"url": "https://shopware.com",
+"status": "fetched",
+"chars": 18739,
+"date": "2026-11-13"
+},
+{
+"uuid": "0b6f1303-b460-4c56-b5dc-db2e0c166e3c",
+"tool": "SimilarWeb",
+"kind": "company",
+"url": "https://similarweb.com",
+"status": "fetched",
+"chars": 17939,
+"date": "2026-11-13"
+},
+{
+"uuid": "888638e0-0eeb-4a17-99a5-0a7efd5c6d43",
+"tool": "Smartlead",
+"kind": "company",
+"url": "https://smartlead.ai",
+"status": "fetched",
+"chars": 29538,
+"date": "2026-11-13"
+},
+{
+"uuid": "0ed60e67-bbfe-4a12-a8fb-192b7d1b5b39",
+"tool": "Snitcher",
+"kind": "company",
+"url": "https://snitcher.com",
+"status": "fetched",
+"chars": 10106,
+"date": "2026-11-13"
+},
+{
+"uuid": "0ed60e67-bbfe-4a12-a8fb-192b7d1b5b39",
+"tool": "Snitcher",
+"kind": "product",
+"url": "https://snitcher.com/product/visitor-id",
+"status": "fetched",
+"chars": 4754,
+"date": "2026-11-13"
+}
+]

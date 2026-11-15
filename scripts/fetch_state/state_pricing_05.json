@@ -1,0 +1,213 @@
+[
+{
+"uuid": "c670f3b7-2c3b-4c23-a46d-f4ac9cea28bd",
+"tool": "Intercom",
+"kind": "pricing",
+"url": "https://intercom.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 7905,
+"date": "2026-11-13"
+},
+{
+"uuid": "562c85e0-8c0e-4140-a813-44d91f69480f",
+"tool": "Jiminny",
+"kind": "pricing",
+"url": "https://jiminny.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 14160,
+"date": "2026-11-13"
+},
+{
+"uuid": "364e4809-508c-46e6-821c-9fca8ec77d64",
+"tool": "Juicebox",
+"kind": "pricing",
+"url": "https://juicebox.ai/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 21459,
+"date": "2026-11-13"
+},
+{
+"uuid": "ab7d9dba-9f86-4e4b-972f-216bd90e9a85",
+"tool": "Jungler",
+"kind": "pricing",
+"url": "https://jungler.ai/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 3585,
+"date": "2026-11-13"
+},
+{
+"uuid": "9c513b0d-1586-4892-b489-ab59855625b0",
+"tool": "JustCall",
+"kind": "pricing",
+"url": "https://justcall.io/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 88614,
+"date": "2026-11-13"
+},
+{
+"uuid": "9cbc557c-15a0-48d6-b7b7-9d80a4ecb4aa",
+"tool": "Kickscale",
+"kind": "pricing",
+"url": "https://www.kickscale.com/en/pricing",
+"how": "known",
+"status": "fetched",
+"chars": 47139,
+"date": "2026-11-13"
+},
+{
+"uuid": "7c86092c-61e0-4c01-be34-3d266c0d0a07",
+"tool": "Kiflo",
+"kind": "pricing",
+"url": "https://kiflo.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 12814,
+"date": "2026-11-13"
+},
+{
+"uuid": "554ae8d0-9432-427b-a116-96e7414e8351",
+"tool": "Kixie",
+"kind": "pricing",
+"url": "https://kixie.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 2499,
+"date": "2026-11-13"
+},
+{
+"uuid": "69b6eec4-0752-4e93-9729-0c07b85fa034",
+"tool": "La Growth Machine (LGM)",
+"kind": "pricing",
+"url": "https://lagrowthmachine.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 66034,
+"date": "2026-11-13"
+},
+{
+"uuid": "9c7b2884-71a5-41af-8b82-a34708c33152",
+"tool": "LangChain",
+"kind": "pricing",
+"url": "https://langchain.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 36393,
+"date": "2026-11-13"
+},
+{
+"uuid": "696a1b1a-8459-4676-bd9d-972919b397c3",
+"tool": "Langdock",
+"kind": "pricing",
+"url": "https://langdock.com/pricing",
+"how": "known",
+"status": "fetched",
+"chars": 6332,
+"date": "2026-11-13"
+},
+{
+"uuid": "597e38ea-220b-47ea-8c77-864f8b24fdd6",
+"tool": "Leadfeeder",
+"kind": "pricing",
+"url": "https://www.leadfeeder.com/pricing/",
+"how": "known",
+"status": "fetched",
+"chars": 23905,
+"date": "2026-11-13"
+},
+{
+"uuid": "7be153d7-0da7-47f8-a125-552ac94a1690",
+"tool": "LeadMagic",
+"kind": "pricing",
+"url": "https://leadmagic.io/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 19390,
+"date": "2026-11-13"
+},
+{
+"uuid": "bb92b726-1fba-4fdc-998a-7b6bb1fa85f1",
+"tool": "Leadsforge",
+"kind": "pricing",
+"url": "https://www.leadsforge.ai/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 6395,
+"date": "2026-11-13"
+},
+{
+"uuid": "c3808006-75df-426f-9f69-bfaa1d8458cb",
+"tool": "LeanData",
+"kind": "pricing",
+"url": "https://leandata.com/pricing",
+"how": "guess",
+"status": "failed",
+"chars": 9374,
+"error": "not a pricing page (low pricing signal)",
+"date": "2026-11-13"
+},
+{
+"uuid": "813a09db-1d78-4d20-ab4f-bb8b990621b9",
+"tool": "lemlist",
+"kind": "pricing",
+"url": "https://lemlist.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 6419,
+"date": "2026-11-13"
+},
+{
+"uuid": "8e56eda9-791b-440b-8a42-55292d8ee4bd",
+"tool": "Lightfield",
+"kind": "pricing",
+"url": "https://lightfield.app/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 9165,
+"date": "2026-11-13"
+},
+{
+"uuid": "38877742-d144-4cfc-94b3-a21bbfdda312",
+"tool": "Lindy",
+"kind": "pricing",
+"url": "https://lindy.ai/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 7758,
+"date": "2026-11-13"
+},
+{
+"uuid": "67f576ab-6da5-40af-b4d5-57535b19c131",
+"tool": "Linked Helper",
+"kind": "pricing",
+"url": "https://linkedhelper.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 27124,
+"date": "2026-11-13"
+},
+{
+"uuid": "7f75f565-dece-4eaa-b0ea-b18880966949",
+"tool": "LinkedIn Ads",
+"kind": "pricing",
+"url": "https://linkedin.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "ba1987d1-aff0-4b89-a658-a431854496d5",
+"tool": "LinkedIn Sales Navigator",
+"kind": "pricing",
+"url": "https://linkedin.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+}
+]

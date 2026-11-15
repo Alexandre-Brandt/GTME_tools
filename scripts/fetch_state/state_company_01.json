@@ -1,0 +1,200 @@
+[
+{
+"uuid": "cd48c8bf-ea97-457b-a359-8b9f84b98de4",
+"tool": "axiom.ai",
+"kind": "company",
+"url": "https://axiom.ai",
+"status": "fetched",
+"chars": 8407,
+"date": "2026-11-13"
+},
+{
+"uuid": "cd48c8bf-ea97-457b-a359-8b9f84b98de4",
+"tool": "axiom.ai",
+"kind": "product",
+"url": "https://axiom.ai/web-automation",
+"status": "fetched",
+"chars": 3205,
+"date": "2026-11-13"
+},
+{
+"uuid": "c94269d0-fab9-4049-ba75-c5623c25f592",
+"tool": "BetterContact",
+"kind": "company",
+"url": "https://bettercontact.rocks",
+"status": "fetched",
+"chars": 6558,
+"date": "2026-11-13"
+},
+{
+"uuid": "fc41dcab-deeb-4cfd-86d0-f1f1f9be59fb",
+"tool": "Bison",
+"kind": "company",
+"url": "https://emailbison.com",
+"status": "fetched",
+"chars": 7886,
+"date": "2026-11-13"
+},
+{
+"uuid": "db005d74-2616-44e7-a744-968a7373d6bb",
+"tool": "BlitzAPI",
+"kind": "company",
+"url": "https://blitz-api.ai",
+"status": "fetched",
+"chars": 5754,
+"date": "2026-11-13"
+},
+{
+"uuid": "4e3d1031-a7bf-4670-a2c0-bb08de486a11",
+"tool": "Booking.com",
+"kind": "company",
+"url": "https://booking.com",
+"status": "fetched",
+"chars": 88084,
+"date": "2026-11-13"
+},
+{
+"uuid": "d35a6145-3275-4271-ba04-ec2a081447d6",
+"tool": "BookStack",
+"kind": "company",
+"url": "https://bookstackapp.com",
+"status": "fetched",
+"chars": 9343,
+"date": "2026-11-13"
+},
+{
+"uuid": "42e05288-af2c-4034-9aee-a444dded7ba9",
+"tool": "Botdog",
+"kind": "company",
+"url": "https://botdog.co",
+"status": "fetched",
+"chars": 25863,
+"date": "2026-11-13"
+},
+{
+"uuid": "9842aad7-5f0e-4f02-9f69-2ead4586c126",
+"tool": "BounceBan",
+"kind": "company",
+"url": "https://bounceban.com",
+"status": "fetched",
+"chars": 5130,
+"date": "2026-11-13"
+},
+{
+"uuid": "b217dc18-77da-45c5-90ab-57cc476509d4",
+"tool": "Brevo",
+"kind": "company",
+"url": "https://brevo.com",
+"status": "fetched",
+"chars": 14669,
+"date": "2026-11-13"
+},
+{
+"uuid": "6aa7b993-8efa-4a92-aa63-5e8555a194a0",
+"tool": "Bright Data",
+"kind": "company",
+"url": "https://brightdata.com",
+"status": "fetched",
+"chars": 17001,
+"date": "2026-11-13"
+},
+{
+"uuid": "2c5511a8-e345-46d0-8873-efda410f10da",
+"tool": "BuiltWith",
+"kind": "company",
+"url": "https://builtwith.com",
+"status": "fetched",
+"chars": 6528,
+"date": "2026-11-13"
+},
+{
+"uuid": "612d298f-ed63-4cb0-b2c3-9c743a71e2e8",
+"tool": "Cacheflow",
+"kind": "company",
+"url": "https://getcacheflow.com",
+"status": "fetched",
+"chars": 9515,
+"date": "2026-11-13"
+},
+{
+"uuid": "2b5b10f3-58d0-433c-ae22-820b6299dafd",
+"tool": "Calendly",
+"kind": "company",
+"url": "https://calendly.com",
+"status": "fetched",
+"chars": 97824,
+"date": "2026-11-13"
+},
+{
+"uuid": "2aa4931d-1dd7-446b-91ff-c59527aaeb85",
+"tool": "Catalyst",
+"kind": "company",
+"url": "https://catalyst.io",
+"status": "fetched",
+"chars": 1894,
+"date": "2026-11-13"
+},
+{
+"uuid": "ba0d87f9-a6b1-481b-be4f-23e6b3ee1522",
+"tool": "Cello",
+"kind": "company",
+"url": "https://cello.so",
+"status": "fetched",
+"chars": 15695,
+"date": "2026-11-13"
+},
+{
+"uuid": "ba0d87f9-a6b1-481b-be4f-23e6b3ee1522",
+"tool": "Cello",
+"kind": "product",
+"url": "https://cello.so/product-overview/affiliate-referrals/",
+"status": "fetched",
+"chars": 8277,
+"date": "2026-11-13"
+},
+{
+"uuid": "115d558b-48bf-4cae-b7c0-874fff1c0e89",
+"tool": "Chargebee",
+"kind": "company",
+"url": "https://chargebee.com",
+"status": "fetched",
+"chars": 21729,
+"date": "2026-11-13"
+},
+{
+"uuid": "2de5b638-cee7-4f41-a736-3512780fcc96",
+"tool": "ChartMogul",
+"kind": "company",
+"url": "https://chartmogul.com",
+"status": "fetched",
+"chars": 8420,
+"date": "2026-11-13"
+},
+{
+"uuid": "c5a459b7-a555-4705-b428-1992b69de902",
+"tool": "ChatGPT / OpenAI",
+"kind": "company",
+"url": "https://openai.com",
+"status": "fetched",
+"chars": 13917,
+"date": "2026-11-13"
+},
+{
+"uuid": "759eb9ec-6689-4abb-808c-1b87ec27a49f",
+"tool": "DALL-E",
+"kind": "company",
+"url": "https://openai.com",
+"status": "fetched",
+"chars": 13917,
+"date": "2026-11-13"
+},
+{
+"uuid": "d3f4e2d3-9456-4b8e-aac1-d94ae4821865",
+"tool": "Whisper API",
+"kind": "company",
+"url": "https://openai.com",
+"status": "fetched",
+"chars": 13917,
+"date": "2026-11-13"
+}
+]

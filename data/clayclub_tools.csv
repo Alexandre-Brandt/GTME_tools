@@ -1,0 +1,200 @@
+Tool Name,Category,URL,Mentioned by
+Clay,Data enrichment / GTM workflow platform,clay.com,~ David; ~ Nicolas Schell; ~ Amar; Taimoor Tariq; ~ Balsa; ~ Jalen nelson; Arvin Zatulovsky; ~ Munnawar; ~ AK; ~ chrischi; ~ Anouar 🏇; ~ Tommy; ~ Ph.Oschel; ~ Yuval; ~ Jonas; ~ tim; Alexandre; ~ Hamid; ~ Dave; ~ Jonathan M; ~ Vlad Petre; ~ Ruben; ~ Alex / Sasha; ~ L; ~ Philipp Rämisch; ~ Alexander Farr; ~ Dario calltime.co; ~ Macklin; ~ Rafael; ~ Gordana McNamara; ~ Augustus Bank; ~ Alan; ~ Julius; ~ ceyhun sahin; ~ Tom von Grundwerk Digital; ~ Svetlana U. Romanova; ~ Daavid; ~ Robert Jett; ~ Mike; Iveta Kirilova; ~ Frank Sondors; ~ Niren 😎 निरेन; ~ David Korn Ontora YC P26; ~ Hoi☺️; ~ K; ~ Arne; ~ Xudong (Don) Lu; ~ Juliano; ~ Jannis Eller; ~ Amber Stacey; ~ Mikel Mangold
+Claygent (Clay Agent),AI web research agent (Clay),,Taimoor Tariq; ~ Ph.Oschel; Arvin Zatulovsky; ~ Alex / Sasha; ~ L; ~ Ruben; ~ Dario calltime.co; ~ Anouar 🏇; ~ AK; ~ Augustus Bank; ~ ceyhun sahin; ~ Tom von Grundwerk Digital
+Clay API (unofficial),,claydocs.claygenius.io,~ Ruben; ~ Augustus Bank
+Clay Chrome extension (Frontier),,,~ Alex
+Google Sheets,Spreadsheet,,~ David; ~ Jonas; ~ Ph.Oschel; ~ Julius; ~ Robert Jett; ~ Anouar 🏇
+Google Apps Script,,,~ David
+PhantomBuster,LinkedIn scraping / automation,phantombuster.com,~ Amar; ~ Gordana McNamara; ~ Rob; ~ David; ~ Augustus Bank
+LinkedIn Sales Navigator,Prospecting,,~ Amar; ~ AK
+LinkedIn Ads,Ads,,~ Balsa; ~ Arne
+Apollo,Contact data / sales engagement,,~ Nicolas Schell; ~ Daavid; ~ Augustus Bank; ~ Frank Sondors; ~ Paddy O'Grady; ~ Yuval
+Pipedrive,CRM,,~ Nicolas Schell; ~ K; ~ Austin
+Re2.ai,Hard-to-get local business data (US restaurants),re2.ai,~ Jalen nelson
+Google Maps,Data source (local business scraping),,~ Balsa; ~ Amar; ~ tim; Taimoor Tariq; ~ Ph.Oschel; ~ Florian Lapiz
+MyHammer,Data source (tradespeople),,~ Amar; ~ tim
+Booking.com,Data source (hotels),,~ Moritz
+Indeed,Data source (job boards),,~ Jannis Eller
+Xing,Data source,,Arvin Zatulovsky
+Zapmail,Mailbox provider (Google Workspace / Microsoft reseller),zapmail.ai,~ Alex / Sasha; ~ Ruben; ~ AK; ~ Augustus Bank; ~ ceyhun sahin; ~ Frank Sondors
+Google Workspace,Email / mailboxes,,~ Anouar 🏇; ~ Julius
+Mailreef,"Mailbox provider (SMTP, dedicated IPs)",,~ Augustus Bank; ~ Frank Sondors
+Maildoso,Domains + inboxes setup,,~ Jannis Eller
+ScaledMail,Domains + inboxes setup,,~ Jannis Eller; ~ Tom von Grundwerk Digital
+Mission Inbox,Domains + inboxes setup,,~ Anouar 🏇
+Primeforge,Mailbox infrastructure,primeforge.ai,~ Frank Sondors
+Veo 3,AI video generation,,Arvin Zatulovsky; Taimoor Tariq
+n8n,Automation,,Arvin Zatulovsky; ~ Jalen nelson; ~ L; ~ Hamid; ~ Anouar 🏇; ~ Alex; ~ Ruben; ~ Sven; ~ Mike; ~ Frank Sondors; ~ Rob; ~ AK; ~ Nicolas Schell; ~ Julius; ~ Arne; ~ Keefe
+n8n MCP,Building n8n workflows with AI,www.n8n-mcp.com,~ Ruben
+Make (make.com),Automation,make.com,~ Amar; ~ Alex; ~ Nicolas Schell
+Zapier,Automation,,~ Augustus Bank; ~ Nicolas Schell
+tray.ai,iPaaS / automation,tray.ai,~ K
+Microsoft Power Automate,Automation,,~ Nicolas Schell
+SimilarWeb,Web traffic data,similarweb.com,~ AK; ~ Balsa
+Semrush,Web traffic data,,~ AK
+Serpstat,Web traffic data,,~ Nicolas Schell
+Serper,Google search API / scraping,serper.dev,~ Balsa; Taimoor Tariq
+ZenRows,Web scraping,,~ Balsa
+Octoparse,Web crawling,,~ Rafael
+RapidAPI,API marketplace / scraping,,~ Moritz
+Apify,Web scraping (actors),apify.com; console.apify.com,~ David; ~ Anouar 🏇; Taimoor Tariq; Iveta Kirilova; ~ AK; ~ Jonathan M; ~ Julius; ~ Jannis Eller; ~ Augustus Bank; ~ Florian Lapiz
+Bright Data,Scraping / LinkedIn data,,~ Anouar 🏇; ~ ceyhun sahin
+Firecrawl,Web crawl / extraction,firecrawl.dev; docs.firecrawl.dev/features/extract,~ Alex / Sasha; ~ Ruben; ~ Mike
+Exa,Web search / crawl,exa.ai,~ Mike; Arvin Zatulovsky; ~ Frank Sondors
+Linkup,AI web search API,linkup.so,~ Frank Sondors
+Puppeteer,Browser automation / scraping,,~ Augustus Bank
+Playwright,Browser automation / scraping,,~ Augustus Bank
+axiom.ai,RPA,axiom.ai,~ Ruben
+Airtop,RPA / browser automation,,~ Alex
+WhatsApp (incl. WhatsApp Business API),Messaging,,~ Nicolas Schell; Taimoor Tariq; ~ Amiran Sherozia; ~ Julius; ~ Augustus Bank; ~ Frank Sondors; ~ Yuval
+Telegram,Messaging,,~ Nicolas Schell; ~ Augustus Bank
+Unipile,Messaging API (Telegram / WhatsApp),,~ Augustus Bank
+DALL-E,AI image generation,,~ Anouar 🏇
+Webflow,Website / landing pages,,~ Anouar 🏇; ~ Moritz; ~ Amar
+HubSpot,CRM,,~ AK; ~ Amar; ~ Dario calltime.co; ~ Ruben; ~ Munnawar; ~ Gordana McNamara; ~ Austin; Taimoor Tariq; ~ Augustus Bank; ~ D; ~ Tommy; ~ Niren 😎 निरेन; ~ Nicolas Schell; ~ Xudong (Don) Lu; ~ Keefe; ~ Max Ω; ~ Levi; Alexandre
+Salesforce,CRM,,~ Munnawar; ~ Nicolas Schell; ~ Keefe; Taimoor Tariq; ~ Levi; Arvin Zatulovsky; Alexandre
+Microsoft Dynamics,CRM,,~ Nicolas Schell
+Attio,CRM,,~ Austin; ~ Kate; ~ Alex; Taimoor Tariq; ~ Julius
+Close CRM,CRM / cold calling,,~ Tom von Grundwerk Digital; ~ Neal
+Day.ai,CRM,day.ai,~ K
+Lightfield,AI-native CRM,,~ Ruben; ~ Levi
+Zero,AI-native CRM,,~ Ruben
+Oxygen,CRM (small teams),,~ Levi
+Monaco,Complete GTM suite,monaco.com,~ Ruben; Arvin Zatulovsky
+Airtable,Database / lightweight CRM,,~ Jonathan M; ~ Julius; ~ David
+Notion,Knowledge base / lightweight CRM,,~ Julius; ~ Ph.Oschel
+Supabase,Database,,~ Anouar 🏇; ~ Julius
+PostgreSQL,Database,,~ Anouar 🏇
+Neon,Database,,Arvin Zatulovsky
+Snowflake,Data warehouse,,Arvin Zatulovsky
+Fivetran,Data pipelines,,~ Keefe
+BuiltWith,Tech stack detection,builtwith.com,~ Philip; ~ Ph.Oschel; ~ Nicolas Schell; Taimoor Tariq; ~ Anouar 🏇; Iveta Kirilova; ~ Masha Imas
+Wappalyzer,Tech stack detection,,~ K
+PublicWWW,Website source code search,publicwww.com,Taimoor Tariq
+HG Insights,Technographics,,~ Nicolas Schell; Taimoor Tariq
+Alfa,Tech / backend data from job ads,getalfa.ai,~ Alex
+Sectorlens,Tech / backend data from job ads,sectorlens.de,~ Alex
+lemlist,Sales engagement / multichannel outreach,,~ Ruben; ~ Julius; ~ Jalen nelson; Arvin Zatulovsky; Taimoor Tariq; ~ Frank Sondors; ~ Jonathan M; ~ AK; ~ Alan; ~ Augustus Bank; ~ Yuval
+La Growth Machine (LGM),Multichannel outreach,,Taimoor Tariq; ~ Jonathan M; ~ AK; ~ Frank Sondors
+Instantly,Email outreach,,~ Julius; ~ Jalen nelson; ~ Mike; ~ Ruben
+Smartlead,Email outreach,,~ Jalen nelson; ~ Julius; ~ Arne
+Salesforge,Sales engagement / email infrastructure,salesforge.ai; salesforge.ai/email-infrastructure,~ Levi; ~ Frank Sondors; ~ Amber Stacey
+Reply.io,Sales engagement,,~ Frank Sondors
+Amplemarket,Sales engagement,,~ Amar
+Salesloft,Sales engagement,,~ Keefe
+Master Inbox,Multichannel inbox,,~ David
+Aimfox,LinkedIn automation,,~ David
+Bison,Email sequencing,,~ David
+HeyReach,LinkedIn automation,heyreach.io,~ Anouar 🏇; ~ Gordana McNamara; ~ Dario calltime.co; ~ Macklin; ~ Augustus Bank; ~ Mike; ~ Arne; ~ Nicolas Schell; ~ Ruben
+Linked Helper,LinkedIn automation,,~ Dario calltime.co; ~ Gordana McNamara
+SalesRobot,LinkedIn automation,salesrobot.co,~ Dario calltime.co
+Botdog,LinkedIn automation,botdog.co,~ Dario calltime.co
+Closely,,appsumo.com/products/closely,~ Moritz
+LinkedIn MCP Server,LinkedIn automation via MCP,github.com/stickerdaniel/linkedin-mcp-server,~ Augustus Bank
+DMARCDKIM.com,Email authentication / deliverability,dmarcdkim.com,~ Oleksii Antypov
+EmailGuard,Email deliverability check,emailguard.io,~ Florian Lapiz
+North Data,"Company data (revenue, registers)",,~ Tommy; ~ Rafael; ~ Nicolas Schell; ~ Svetlana U. Romanova
+OpenRegister,Company register data API,openregister.de,~ Florian; ~ Anouar 🏇; ~ Svetlana U. Romanova; ~ Macklin
+registercheck.de,Company register data,registercheck.de,~ Anouar 🏇; ~ Svetlana U. Romanova
+Offene Register,Free company register data,,~ Tom von Grundwerk Digital
+HitHorizons,EU company data,,~ Jalen nelson
+Nationalize API,Name-to-nationality prediction,,~ Anouar 🏇
+BetterContact,Contact data waterfall (phone / email),bettercontact.rocks,~ Jalen nelson; ~ Augustus Bank; ~ Nicolas Schell; ~ Tommy; ~ Anouar 🏇; ~ ceyhun sahin; ~ Frank Sondors; Taimoor Tariq; ~ AK; ~ Phillip🪐; ~ K; ~ Juliano; ~ Svetlana U. Romanova; ~ Ruben
+Leadsforge,Contact data waterfall,leadsforge.ai,~ Frank Sondors
+FullEnrich,Contact data (phone / email),,~ Tommy; Arvin Zatulovsky
+Lusha,Contact data,,Arvin Zatulovsky; ~ Lars Krüger; ~ Nicolas Schell; Alexandre
+Cognism,Contact data,,~ Nicolas Schell; ~ Amar
+Dropcontact,Contact data (European market),,~ Nicolas Schell
+Datagma,Contact data (European market),,~ Nicolas Schell
+SalesQL,Contact data,,~ Jonathan M
+ZoomInfo,Contact data,,~ Daavid
+Forager,Contact data,,~ Tommy
+Prospeo,Contact data (Clay data partner),,~ Gordana McNamara
+Clearbit,Data provider,,Alexandre
+Hunter.io,Email to LinkedIn lookup,,~ Oleksii Antypov
+BlitzAPI,People database,,~ Augustus Bank
+Surfe,Contact data / LinkedIn enrichment,,~ Anouar 🏇
+TitanX,Phone connect rates (US),,~ Daavid
+Freckle,Email-to-LinkedIn matching,freckle.io,~ Tommy
+pipe0,Clay alternative,,~ Ruben
+Juicebox,People search,,~ Augustus Bank
+theirstack,Job / tech data,,~ Dario calltime.co
+Predict Leads,Hiring / job signals,,Taimoor Tariq
+Swarm,Network / connection mapping,,~ Ruben; ~ Frank Sondors; ~ Jonathan M
+Happenstance,Network / connection mapping,,~ Ruben
+Graph.one,LinkedIn connections scraping,graph.one,Taimoor Tariq
+Trigify,Social signals,trigify.io,~ Augustus Bank; Arvin Zatulovsky; ~ Levi; ~ Ruben; ~ David
+Teamfluence,Social signal tracking,,~ David; ~ Julius
+Jungler,Signals (Trigify alternative),jungler.ai,~ Frank Sondors; ~ Ruben
+Clearcue,Signals (Trigify alternative),clearcue.ai,~ Ruben
+Dealfront,Website visitor identification,,~ Gordana McNamara; ~ Tommy
+Leadfeeder,Website visitor identification,,~ Tommy
+FindyMail,Email verification,,~ AK; ~ Robert Jett
+ZeroBounce,Email verification,,Taimoor Tariq; ~ Jannis Eller
+LeadMagic,Email verification,,~ Robert Jett
+MillionVerifier,Email verification,app.millionverifier.com,~ AK
+BounceBan,Email verification,bounceban.com,~ AK
+Brevo,Email marketing,,~ Julius
+Mailgun,Email marketing,,~ Julius
+Postmark,Email marketing,,~ Julius
+Mailchimp,Email marketing,,~ Keefe
+Gmail,Email,,~ Balsa; ~ Augustus Bank; ~ Julius
+Microsoft Outlook,Email,,~ Augustus Bank
+Microsoft 365,Email / productivity,,~ Frank Sondors; ~ Nicolas Schell
+Microsoft Teams,Chat,,~ Dario calltime.co
+Microsoft SharePoint,Documents,,~ Nicolas Schell
+Microsoft Power BI,BI,,~ Nicolas Schell
+Google Calendar,Calendar,,~ Amar
+Calendly,Scheduling,,~ Julius
+Aircall,Calling (VoIP),aircall.io,~ Dario calltime.co; ~ AK; ~ D; ~ Alan; Arvin Zatulovsky
+CloudTalk,Calling (VoIP),,Arvin Zatulovsky; ~ D; ~ Julius; ~ Dario calltime.co; ~ Hoi☺️
+JustCall,Calling (VoIP),,~ Dario calltime.co
+Nuacom,Calling (VoIP),,~ Hoi☺️
+Retell API,AI voice agent,,~ Frank Sondors
+Demodesk,Sales notetaker / AI CRM updates,demodesk.cello.so,~ Alex; ~ Moritz
+tl;dv,Notetaker,,~ Moritz
+Intercom (incl. Fin),Customer support AI / chat,,~ Anouar 🏇; ~ David
+Delphi.ai,Website chat,delphi.ai,~ Anouar 🏇
+Lindy,AI agent (email drafting),,~ Alex
+Octave,AI messaging / writing agent,,~ Hamid
+Twain,AI cold email copy / research,twain.ai,~ Phil; ~ Tom von Grundwerk Digital; ~ Ruben
+"ChatGPT / OpenAI (GPT-4o, 4.1, 5 mini…)",LLM,academy.openai.com,Taimoor Tariq; ~ Jonas; ~ AK; ~ Nicolas Schell; ~ Ruben; ~ Dario calltime.co; ~ Hamid; ~ Anouar 🏇; ~ Alex / Sasha; ~ L; ~ Julius; ~ David; ~ Mustafa; ~ Macklin; ~ ceyhun sahin; ~ Phil
+Claude (Anthropic),LLM,,~ Jonas; Arvin Zatulovsky; ~ Justin; Taimoor Tariq; ~ Phil; ~ Tom von Grundwerk Digital; ~ Arne; ~ Ruben
+Claude Code,AI coding / agent,,~ Ruben; ~ Mike; Taimoor Tariq; Arvin Zatulovsky; ~ Julius; ~ Phil; ~ Alex; ~ Augustus Bank; ~ Arne; ~ Nicolas Schell; ~ Florian Lapiz; ~ Macklin; ~ Amar; ~ Yuval; Alexandre
+Claude Agent SDK,AI agents,,Taimoor Tariq
+Claude Cowork,AI agent,,~ Justin
+Google Gemini,LLM,,Taimoor Tariq; ~ Alex
+Grok,LLM,,~ Levi
+Perplexity,AI search,,Arvin Zatulovsky; ~ Dave
+LangChain,LLM framework,,~ L; Taimoor Tariq
+AgentGPT,Custom AI agents,agentgpt.reworkd.ai,~ ceyhun sahin
+Cursor,AI coding,,~ Ruben; Arvin Zatulovsky; ~ Macklin
+VS Code,Code editor,,~ Phil
+GitHub,Code repository,github.com,~ Augustus Bank; Taimoor Tariq
+Wispr Flow,Voice dictation,,~ Anouar 🏇
+Handy,Local voice transcription,handy.computer,~ Adeel; ~ Phil
+yothere,Voice control for AI agents,yothere.ai,~ Phil
+Ontora,AI employee interviews to map workflows,,~ David Korn Ontora YC P26
+XLR8,Social media content creation,getxlr8.ai,~ Sven
+Scripe,,,~ Gordana McNamara
+Planable,,,~ Lars Krüger
+Tome,AI slide decks,,~ Julius
+Gamma,AI slide decks,,Taimoor Tariq
+Miro,Whiteboard / process mapping,,Taimoor Tariq
+Lucidchart,Diagramming / process mapping,,Taimoor Tariq
+Mapbox,Distance / travel-time calculation,,~ AK; ~ Ph.Oschel; Taimoor Tariq
+Facebook Ads,Retargeting ads,,~ Vlad Petre
+Sendoso,Gifting platform for ABM,sendoso.com,~ Ruben; Arvin Zatulovsky
+Reachdesk,Gifting,reachdesk.com,~ Frank Sondors
+Optilyz,Direct mail automation,optilyz.com,~ Marco
+Cognee,Company brain,,~ Ruben
+Qontext,Company brain,,~ Ruben
+Sentra,Company brain,,~ Ruben
+Modern Relay,Company brain,,~ Ruben
+Hyperspell,Company brain,,~ Ruben
+Shopify,E-commerce platform,,~ Anouar 🏇
+Shopware,E-commerce platform,,~ Anouar 🏇
+Wix,E-commerce / website platform,,~ Anouar 🏇
+Slack,Messaging,,~ Alex; ~ Munnawar; ~ Julius; ~ Niren 😎 निरेन; Taimoor Tariq; ~ Amber Stacey; Arvin Zatulovsky
+Loom,Video recording,loom.com,~ Ruben
+Udemy,Online courses,,~ Dave

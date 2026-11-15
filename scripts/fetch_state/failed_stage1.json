@@ -1,0 +1,154 @@
+[
+{
+"uuid": "1127cd0f-a8ff-432e-9014-05b5a078cefb",
+"tool": "AgentGPT",
+"kind": "product",
+"url": "https://agentgpt.reworkd.ai",
+"status": "failed",
+"error": "empty/short content"
+},
+{
+"uuid": "0acc11e8-705f-450a-901f-507666838eb8",
+"tool": "Attention",
+"kind": "product",
+"url": "https://www.attention.com/ads/conversation-intelligence-software/",
+"status": "failed",
+"error": "404 page not found"
+},
+{
+"uuid": "1cda11dc-be76-4346-8135-7ec2956bf710",
+"tool": "Clay API (unofficial)",
+"kind": "company",
+"url": "https://claygenius.io",
+"status": "failed",
+"error": "Error fetching content"
+},
+{
+"uuid": "7355236a-65c9-4342-8f96-9620c3eefebb",
+"tool": "DeepSeek R1",
+"kind": "company",
+"url": "https://deepseek.com",
+"status": "failed",
+"error": "empty/short content"
+},
+{
+"uuid": "71b7d99b-e6d0-4838-ba40-f0f9bf7a0b62",
+"tool": "Default",
+"kind": "product",
+"url": "https://default.com/product/routing",
+"status": "failed",
+"error": "404 page not found"
+},
+{
+"uuid": "f97dd5fb-6098-4f71-b9c2-019e7f7601f9",
+"tool": "FindyMail",
+"kind": "company",
+"url": "https://findymail.com",
+"status": "failed",
+"error": "Failed to fetch url"
+},
+{
+"uuid": "f97dd5fb-6098-4f71-b9c2-019e7f7601f9",
+"tool": "FindyMail",
+"kind": "product",
+"url": "https://www.findymail.com/email-verifier/",
+"status": "failed",
+"error": "Failed to fetch url"
+},
+{
+"uuid": "a09fd486-d373-44f5-95ad-14c5929ccc43",
+"tool": "G2",
+"kind": "company",
+"url": "https://g2.com",
+"status": "failed",
+"error": "Failed to fetch url"
+},
+{
+"uuid": "7a2ca665-7bae-4a53-9c17-a74847ff46d6",
+"tool": "Google Gemini",
+"kind": "company",
+"url": "https://gemini.google",
+"status": "failed",
+"error": "Error fetching content"
+},
+{
+"uuid": "14b0ab99-c4c8-4b5c-8475-e8d7f752e02b",
+"tool": "HitHorizons",
+"kind": "company",
+"url": "https://hithorizons.com",
+"status": "failed",
+"error": "Failed to fetch url"
+},
+{
+"uuid": "e0d15203-eeae-48e4-8eb7-36f764f7a9e7",
+"tool": "Lucidchart",
+"kind": "product",
+"url": "https://www.lucidchart.com/pages/landing/process-mapping",
+"status": "failed",
+"error": "404 page not found"
+},
+{
+"uuid": "44937709-5871-4612-a358-e59063a5a350",
+"tool": "MyHammer",
+"kind": "company",
+"url": "https://my-hammer.de",
+"status": "failed",
+"error": "Failed to fetch url"
+},
+{
+"uuid": "94459f42-8cd0-4117-ad34-22b99db54cec",
+"tool": "OpenRegister",
+"kind": "company",
+"url": "https://openregister.de",
+"status": "failed",
+"error": "Failed to fetch url"
+},
+{
+"uuid": "b25c714f-7efc-4b7b-866f-7a65051f79d5",
+"tool": "PhantomBuster",
+"kind": "company",
+"url": "https://phantombuster.com",
+"status": "failed",
+"error": "Failed to fetch url"
+},
+{
+"uuid": "d8e74c12-0968-4147-98e1-d24a1b8fec3f",
+"tool": "Snowflake",
+"kind": "company",
+"url": "https://snowflake.com",
+"status": "failed",
+"error": "Failed to fetch url"
+},
+{
+"uuid": "8af0539d-9d3c-4f7b-8321-7254aa2702f4",
+"tool": "sweep.io",
+"kind": "company",
+"url": "https://sweep.io",
+"status": "failed",
+"error": "Failed to fetch url"
+},
+{
+"uuid": "e88bacd0-0548-42ff-a401-052207268f6a",
+"tool": "Tome",
+"kind": "company",
+"url": "https://tome.app",
+"status": "failed",
+"error": "404 page not found"
+},
+{
+"uuid": "8b816eda-5fbf-4225-b227-e520ef477c37",
+"tool": "Valuecase",
+"kind": "product",
+"url": "https://valuecase.com/digital-sales-room",
+"status": "failed",
+"error": "404 page not found"
+},
+{
+"uuid": "ecd4c740-9dd1-47b2-a978-ee6a36bc97cd",
+"tool": "XLR8",
+"kind": "company",
+"url": "https://getxlr8.ai",
+"status": "failed",
+"error": "Failed to fetch url"
+}
+]

@@ -1,0 +1,149 @@
+Tool Name,Category,URL,Mentioned by
+Clay,Data enrichment / workflow automation (200+ data providers),,~ Levi; Taimoor Tariq; ~ Austin; Arvin Zatulovsky; ~ Mike; ~ Haris Odobasic; ~ Rob; ~ Alex; ~ Mo; ~ Simon 🇨🇦; ~ Ph.Oschel; Iveta Kirilova; Alexandre
+Claygent,AI agent / web research (Clay),,Arvin Zatulovsky
+Apollo.io,All-in-one sales tool / contact data / sales engagement,apollo.io,~ Levi; Arvin Zatulovsky; ~ Mike; Iveta Kirilova; ~ Haris Odobasic; ~ Simon 🇨🇦; ~ Rob; ~ Himanshu
+Salesforce (SFDC),CRM,,Arvin Zatulovsky; Taimoor Tariq; ~ Marcus; Alexandre; ~ Mike; Iveta Kirilova; ~ Irina; ~ Philipp; ~ Alex; ~ Natalie at Revops Automated; Tom Shemesh; ~ Sanjana; ~ Rob; ~ Arne; ~ Robert Anders; ~ Haris Odobasic; ~ Niko; ~ Paul; ~ Ph.Oschel; Janis Zech; ~ Ishika
+Salesforce CPQ,CPQ,g2.com/categories/cpq,~ Marcus; Iveta Kirilova
+Salesforce Agentforce,AI agents,,Taimoor Tariq; ~ Arne
+Salesforce Experience Cloud,Partner portal,,~ Sanjana
+Salesforce Revenue Cloud,,,~ Sanjana
+Salesforce AppExchange,App marketplace,,~ Sanjana
+Salesforce Trailhead,Salesforce training,,Tom Shemesh
+Tableau,Dashboards / reporting,,Alexandre
+Salesloft,Sales engagement,,Taimoor Tariq; Iveta Kirilova; Alexandre; ~ Haris Odobasic; ~ Paul; Tom Shemesh; ~ Mike; Arvin Zatulovsky
+Drift,,,Taimoor Tariq; ~ Paul; ~ Haris Odobasic
+G2,Software reviews,g2.com/categories/cpq,~ Marcus
+DealHub,CPQ & billing / digital sales room,,Taimoor Tariq; ~ Robert; ~ Susan; ~ Haris Odobasic
+Cacheflow,CPQ & billing,,Taimoor Tariq
+Nue,CPQ & billing,,Taimoor Tariq
+Subskribe,CPQ & billing,,Taimoor Tariq
+Chargebee,Billing,,Taimoor Tariq; ~ Sangeeth S; ~ Kate
+Zuora (written 'Zoura'),Billing,,~ Sangeeth S
+Hyperline,Billing / CPQ,,~ Kate; Taimoor Tariq
+Maxio,Billing / subscriptions,,Iveta Kirilova
+HubSpot,"CRM (also website/CMS, calling)",,~ Kate; ~ Alex; Arvin Zatulovsky; Taimoor Tariq; ~ Sangeeth S; ~ Yvi; ~ Kathi Bubmann; ~ Kathi; ~ Mike; ~ Levi; ~ Simon 🇨🇦; ~ Natalie at Revops Automated; ~ Tobias; ~ Robert Anders; Tom Shemesh; ~ Abhijit G; Iveta Kirilova; ~ Ph.Oschel; ~ Robert; ~ Haris Odobasic; ~ Niko; Alexandre; ~ Özge Özpinar; ~ Sayo
+HubSpot Breeze,AI / data enrichment credits,,~ Arne; Iveta Kirilova
+HubSpot Marketing Hub,Marketing automation,,~ Haris Odobasic
+HubSpot Service Hub,Customer success / service,,Alexandre
+Catalyst,Customer success platform,,~ Sangeeth S
+Totango,Customer success platform,,~ Sangeeth S
+Gainsight,Customer success platform,,Arvin Zatulovsky; ~ Marco
+Intercom,,,~ Alex; Iveta Kirilova
+ChatGPT / OpenAI,LLM / AI,,Taimoor Tariq; Arvin Zatulovsky; ~ Levi; ~ Niko; ~ Mike; ~ Tobias
+Claude / Anthropic,LLM / AI,claude.ai,~ Niko; Taimoor Tariq; Arvin Zatulovsky
+Claude Code (written 'CloudCode'),AI coding,,Arvin Zatulovsky
+Google Gemini (incl. Gemini Canvas),LLM / AI,,Taimoor Tariq; ~ Mike
+Llama,LLM,,~ Niko
+DeepSeek R1,LLM,,Taimoor Tariq
+Perplexity,AI search,,Arvin Zatulovsky; Taimoor Tariq
+Whisper API,Transcription,,Taimoor Tariq
+PhariaAI (Aleph Alpha),AI application development stack,aleph-alpha.com,~ Niko
+Langdock,AI assistant platform,langdock.com,~ Mike; ~ Niko; Taimoor Tariq
+Dust,AI assistant platform,dust.tt,~ Yvi; ~ Alex; Taimoor Tariq
+copy.ai,AI / prompt workflows,,Taimoor Tariq
+Zapier,Automation,,Taimoor Tariq; Arvin Zatulovsky; ~ Paul; ~ Tobias
+Zapier Central,AI automation,,Arvin Zatulovsky
+Make (make.com),Automation,make.com,Arvin Zatulovsky; ~ Haris Odobasic
+n8n,Automation,,Arvin Zatulovsky; Taimoor Tariq; ~ Paul
+Microsoft Power Automate,Automation,,~ Austin
+Apify,Web scraping,,Taimoor Tariq
+ZenRows,Web scraping,,Taimoor Tariq
+Exa,Enrichment / contact & data search,,~ Mike
+LinkedIn Sales Navigator,Prospecting,,Arvin Zatulovsky; ~ Mike
+Vendr,Software pricing research,vendr.com,~ Rob
+Pipedrive,CRM,,Taimoor Tariq; ~ Haris Odobasic
+Attio,CRM,attio.com,~ Mike; Alexandre; ~ Kate; ~ Niko; ~ Haris Odobasic
+zero.inc,CRM,zero.inc,~ Niko
+Microsoft Dynamics CRM,CRM,,~ Sanjana; Iveta Kirilova
+Airtable,Used as CRM,,~ Mo
+Odoo,,,~ Özge Özpinar
+lemlist,Sales engagement / email campaigns,,Taimoor Tariq; ~ Kate; ~ Mike; Arvin Zatulovsky; ~ Daniel S.; ~ Haris Odobasic; Iveta Kirilova; ~ Rob
+Outreach,Sales engagement,,~ Mike; Arvin Zatulovsky; ~ Alex; Alexandre; ~ Haris Odobasic
+Groove,Sales engagement,,Arvin Zatulovsky; Alexandre
+Clari,,,Arvin Zatulovsky; Alexandre
+La Growth Machine (LGM),Multichannel outreach,,Taimoor Tariq; ~ Ph.Oschel; Iveta Kirilova
+Smartlead,Email outreach,,Taimoor Tariq; ~ Haris Odobasic; ~ Ph.Oschel; ~ Amar
+Instantly,Email outreach,,Taimoor Tariq
+Amplemarket,Multichannel sales engagement / lead gen,,~ Irina; Tom Shemesh; ~ Kate; ~ Haris Odobasic; ~ Amar; ~ Leon; Arvin Zatulovsky; ~ Daniel S.
+11x,AI SDR / AI agents,,~ Arne; Arvin Zatulovsky; ~ Haris Odobasic; ~ Leon
+Mixmax,Email sequencing,https://www.mixmax.com/,Alexandre
+HeyReach,LinkedIn automation,,Taimoor Tariq; Iveta Kirilova; ~ Gordana McNamara
+Twain,,,Taimoor Tariq
+Surfe,LinkedIn enrichment / push to CRM,,~ Rob; ~ Alex; ~ Ph.Oschel
+Lusha,Contact data / enrichment,,Arvin Zatulovsky; ~ Kate
+Cognism,Contact data,,Arvin Zatulovsky; ~ Simon 🇨🇦
+ZoomInfo,Contact data,,~ Simon 🇨🇦; Alexandre
+FullEnrich,Waterfall enrichment (email/phone),fullenrich.com,~ Haris Odobasic; ~ Simon 🇨🇦; ~ Kate
+North Data,Company data / related entities,,Taimoor Tariq
+LeanData,Lead routing / lead-to-account conversion,,Taimoor Tariq
+Revenue Hero,Lead routing & demo booking,,Iveta Kirilova; ~ Natalie at Revops Automated; ~ Tobias
+Default,Lead routing / inbound enrichment,,Iveta Kirilova
+RB2B,Website visitor tracking,,~ Kate; Arvin Zatulovsky
+Snitcher,Website visitor tracking,,~ Kate
+Albacross,Website visitor tracking,,Arvin Zatulovsky
+sweep.io,,sweep.io,~ Paul; ~ Ph.Oschel
+Gong,Conversation intelligence / forecasting,,~ Tobias; Taimoor Tariq; ~ Simon 🇨🇦; ~ Irina; ~ Gordana McNamara; Tom Shemesh; ~ Ph.Oschel
+Jiminny,Conversation intelligence,,~ Susan
+Modjo,,,~ Arne
+Demodesk,Conversation intelligence / AI call notes & CRM sync,,Arvin Zatulovsky; Iveta Kirilova; ~ Gordana McNamara; Taimoor Tariq; ~ Alex; ~ Paul; Janis Zech; ~ Ph.Oschel
+Kickscale,Conversation / deal intelligence,,Iveta Kirilova; ~ Gordana McNamara; Taimoor Tariq; ~ Mo; ~ Levi
+Attention,Conversation intelligence / call transcription,attention.com,~ Robert; Taimoor Tariq; ~ Alex
+Momentum,Conversation intelligence / call transcription,,~ Gordana McNamara; Taimoor Tariq
+Glyphic,Conversation intelligence / call transcription,,Taimoor Tariq
+AskElephant,Conversation intelligence / call transcription,askelephant.ai,~ Mo
+Granola,Transcription,,Taimoor Tariq
+People.ai,Deal intelligence,,~ Levi
+Cost,Sales / deal intelligence,www.lcobuilder.com,~ Levi
+Weflow,AI CRM field updates / pipeline management / forecasting,getweflow.com; weflow.ai,Janis Zech; ~ Philipp; Taimoor Tariq; ~ Alex; Alexandre; ~ Paul; ~ Gordana McNamara
+Growblocks,,,~ Kate; Taimoor Tariq
+Pigment,,,~ Mike
+ChartMogul,,,~ Kate
+Aircall,Calling (VoIP),,~ Paul; ~ Abhijit G; Arvin Zatulovsky; ~ Julia; Taimoor Tariq; ~ Ph.Oschel
+CloudTalk,Calling (VoIP),,Arvin Zatulovsky; ~ Himanshu
+Zoom Phone,Calling (VoIP),,Arvin Zatulovsky
+Heymarket,Texting,,~ Abhijit G
+Orum,Calling / autodialer,,~ Abhijit G; Taimoor Tariq
+Nooks,Autodialer,,Taimoor Tariq
+Dialfire,Dialer,,Iveta Kirilova
+Kixie,Dialer,,Iveta Kirilova
+Calltime,Outreach timing,,~ Haris Odobasic
+Loops,Marketing email automation,,~ Haris Odobasic
+Eloqua,Marketing automation,,~ Haris Odobasic; Taimoor Tariq
+Pardot,Marketing automation,,~ Haris Odobasic
+Flowla,Digital sales room,,~ Kate
+Along,Digital sales room,,~ Kate
+Trumpet,Digital sales room,,~ Haris Odobasic; ~ Ph.Oschel
+Emlen,Digital sales room,,~ Ph.Oschel
+AlignedUp,Digital sales room,alignedup.com,Alexandre
+Valuecase,Mutual action plan / digital sales room,,~ Alex
+Talon.One,Partner payouts / referral,talon.one,~ Robert Anders
+Everflow,Partner payouts / referral,,~ Robert Anders
+Cello,Referral / partner program,,~ Nick Reid
+Kiflo,Partner program (PRM),,~ Nick Reid
+Notion,Knowledge base / documentation,,~ Kate; Alexandre; Taimoor Tariq
+Confluence,Knowledge base / documentation,,Alexandre; ~ Haris Odobasic
+Guru,Knowledge base,,Iveta Kirilova
+Microsoft SharePoint,Knowledge base / documents,,~ Austin
+BookStack,"Knowledge base (self-hosted, open source)",,~ Haris Odobasic
+Loom,Video / training content,,~ Haris Odobasic
+Google Sheets,Spreadsheet (mutual action plan),,~ Mike
+Replit,Website building / vibe coding,,Arvin Zatulovsky
+Lovable,Vibe coding,lovable.dev,Taimoor Tariq; Tom Shemesh
+Cursor,Vibe coding,,Taimoor Tariq
+Framer,Website builder,,~ Haris Odobasic; ~ Natalie at Revops Automated
+Webflow,Website builder,,~ Mike
+Livestorm,,,~ Steffie
+DocuSign (docgen),Document generation,,Iveta Kirilova
+Superchat,"Customer messaging (WhatsApp, Instagram, email)",,~ Raghav
+Needle,AI agent orchestration,,~ Raghav
+Gmail,Email,,~ Levi; ~ Simon 🇨🇦; ~ Kate; ~ Haris Odobasic; Iveta Kirilova
+Microsoft Outlook,Email,,~ Levi; ~ Haris Odobasic
+Microsoft Exchange,Email / calendar,,~ Levi
+Superhuman,Email client,,~ Levi
+SAP C4C,CRM,,~ Levi
+SAP Integration Suite,Integration,,~ Levi
+SAP Analytics Cloud,BI tool,,~ Levi
+DataCamp,SQL course / learning,,Arvin Zatulovsky
+Slack,Community / messaging,,Arvin Zatulovsky; Taimoor Tariq; ~ Natalie at Revops Automated; Janis Zech; Alexandre; ~ Daniel S.
+WhatsApp,Community / messaging,,~ Natalie at Revops Automated; Taimoor Tariq; Janis Zech; ~ Philipp; ~ Raghav
+GitHub,Code portfolio / projects,,~ Sayo; ~ Niko

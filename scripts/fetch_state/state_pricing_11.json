@@ -1,0 +1,204 @@
+[
+{
+"uuid": "7a65207c-7805-4b8e-a382-cc0e4fdc8b49",
+"tool": "Teamfluence",
+"kind": "pricing",
+"url": "https://teamfluence.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 99429,
+"date": "2026-11-13"
+},
+{
+"uuid": "ee6b4442-b988-45d0-8351-5e82a7217cb5",
+"tool": "Telegram",
+"kind": "pricing",
+"url": "https://telegram.org/pricing",
+"how": "guess",
+"status": "failed",
+"chars": 1346,
+"error": "not a pricing page (low pricing signal)",
+"date": "2026-11-13"
+},
+{
+"uuid": "be7f77d2-50a1-4f6f-b48a-3507edf8aa7e",
+"tool": "theirstack",
+"kind": "pricing",
+"url": "https://theirstack.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 8405,
+"date": "2026-11-13"
+},
+{
+"uuid": "bac8475d-0f1b-48d4-b21d-6a3f0f9f1503",
+"tool": "TitanX",
+"kind": "pricing",
+"url": "https://titanx.io/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 40701,
+"date": "2026-11-13"
+},
+{
+"uuid": "6a0e8edc-85a2-4d42-8aa4-4e5f943ad626",
+"tool": "tl;dv",
+"kind": "pricing",
+"url": "https://tldv.io/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 28898,
+"date": "2026-11-13"
+},
+{
+"uuid": "799eee50-51cb-4ae1-8e81-a3dc47f6558e",
+"tool": "Totango",
+"kind": "pricing",
+"url": "https://totango.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "383bcd0e-9422-4a12-af40-5725ea992e80",
+"tool": "tray.ai",
+"kind": "pricing",
+"url": "https://tray.ai/pricing/",
+"how": "link",
+"status": "fetched",
+"chars": 14886,
+"date": "2026-11-13"
+},
+{
+"uuid": "b19e6617-4617-48b2-b803-61117cc4552c",
+"tool": "Trigify",
+"kind": "pricing",
+"url": "https://trigify.io/pricing",
+"how": "guess",
+"status": "failed",
+"chars": 6199,
+"error": "not a pricing page (low pricing signal)",
+"date": "2026-11-13"
+},
+{
+"uuid": "6fdd1da9-34ef-4668-a40b-27be054ef318",
+"tool": "Trumpet",
+"kind": "pricing",
+"url": "https://sendtrumpet.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 64712,
+"date": "2026-11-13"
+},
+{
+"uuid": "79957655-9c25-4a67-8b5a-aff91e41570f",
+"tool": "Twain",
+"kind": "pricing",
+"url": "https://twain.ai/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 8762,
+"date": "2026-11-13"
+},
+{
+"uuid": "527fce68-d5e0-49e4-aead-0be2687be2c3",
+"tool": "Udemy",
+"kind": "pricing",
+"url": "https://udemy.com/pricing/",
+"how": "link",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "2f2fbfc4-56e1-4663-ba33-413555b14d9f",
+"tool": "Unipile",
+"kind": "pricing",
+"url": "https://unipile.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "8b816eda-5fbf-4225-b227-e520ef477c37",
+"tool": "Valuecase",
+"kind": "pricing",
+"url": "https://valuecase.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 28936,
+"date": "2026-11-13"
+},
+{
+"uuid": "51732629-4fde-46e0-af67-82c6418af533",
+"tool": "Vendr",
+"kind": "pricing",
+"url": "https://vendr.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 13113,
+"date": "2026-11-13"
+},
+{
+"uuid": "79bb3532-3044-406f-a643-817c707d4485",
+"tool": "Veo 3",
+"kind": "pricing",
+"url": "https://deepmind.google/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "2a037dcf-7c99-4bf8-a861-bf253e1f0f5f",
+"tool": "VS Code",
+"kind": "pricing",
+"url": "https://code.visualstudio.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "15615d18-bfe9-438e-ad04-7c442346c999",
+"tool": "Wappalyzer",
+"kind": "pricing",
+"url": "https://wappalyzer.com/pricing/",
+"how": "link",
+"status": "fetched",
+"chars": 1944,
+"date": "2026-11-13"
+},
+{
+"uuid": "52c18fb4-d38a-448e-a7fa-0e221eb95321",
+"tool": "Weflow",
+"kind": "pricing",
+"url": "https://getweflow.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 31023,
+"date": "2026-11-13"
+},
+{
+"uuid": "25fa4032-4719-44ec-b717-0f79056dad8e",
+"tool": "WhatsApp",
+"kind": "pricing",
+"url": "https://whatsapp.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "defc13b8-42f8-4f74-95c0-ac3b0b53d098",
+"tool": "Wispr Flow",
+"kind": "pricing",
+"url": "https://wisprflow.ai/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 9261,
+"date": "2026-11-13"
+}
+]

@@ -1,0 +1,245 @@
+[
+{
+"uuid": "97ebf7b1-f17b-40f0-8b07-8a254ffeb08e",
+"tool": "Loom",
+"kind": "product",
+"url": "https://www.loom.com/lp/screen-capture-lp",
+"status": "fetched",
+"chars": 7094,
+"date": "2026-11-13"
+},
+{
+"uuid": "53ff8f9b-1789-460f-a41c-2915ffc8b4f2",
+"tool": "Loops",
+"kind": "company",
+"url": "https://loops.so",
+"status": "fetched",
+"chars": 12726,
+"date": "2026-11-13"
+},
+{
+"uuid": "53ff8f9b-1789-460f-a41c-2915ffc8b4f2",
+"tool": "Loops",
+"kind": "product",
+"url": "https://loops.so/marketing-email",
+"status": "fetched",
+"chars": 7564,
+"date": "2026-11-13"
+},
+{
+"uuid": "9a363964-bf2b-47e1-945b-7a20e777f841",
+"tool": "Lovable",
+"kind": "company",
+"url": "https://lovable.dev",
+"status": "fetched",
+"chars": 11187,
+"date": "2026-11-13"
+},
+{
+"uuid": "e0d15203-eeae-48e4-8eb7-36f764f7a9e7",
+"tool": "Lucidchart",
+"kind": "company",
+"url": "https://lucidchart.com",
+"status": "fetched",
+"chars": 56007,
+"date": "2026-11-13"
+},
+{
+"uuid": "e0d15203-eeae-48e4-8eb7-36f764f7a9e7",
+"tool": "Lucidchart",
+"kind": "product",
+"url": "https://www.lucidchart.com/pages/landing/process-mapping",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "e36b6163-b805-454f-ab2b-416742aae29e",
+"tool": "Lusha",
+"kind": "company",
+"url": "https://lusha.com",
+"status": "fetched",
+"chars": 27232,
+"date": "2026-11-13"
+},
+{
+"uuid": "e9810700-8c0b-440b-80c4-54cc13cbc025",
+"tool": "Mailchimp",
+"kind": "company",
+"url": "https://mailchimp.com",
+"status": "fetched",
+"chars": 74542,
+"date": "2026-11-13"
+},
+{
+"uuid": "bb42ad3d-649a-4e30-91ab-a08a8fc9d426",
+"tool": "Maildoso",
+"kind": "company",
+"url": "https://maildoso.ai",
+"status": "fetched",
+"chars": 19339,
+"date": "2026-11-13"
+},
+{
+"uuid": "d7951910-c82b-4a1e-a238-4e94a3f118d5",
+"tool": "Mailgun",
+"kind": "company",
+"url": "https://mailgun.com",
+"status": "fetched",
+"chars": 9540,
+"date": "2026-11-13"
+},
+{
+"uuid": "c62bbd92-11b2-427f-8f08-8d4e2a41a9ee",
+"tool": "Mailreef",
+"kind": "company",
+"url": "https://mailreef.com",
+"status": "fetched",
+"chars": 7480,
+"date": "2026-11-13"
+},
+{
+"uuid": "9b1678f6-0b65-4e9d-971e-5cd92a2c5b46",
+"tool": "Make (make.com)",
+"kind": "company",
+"url": "https://make.com",
+"status": "fetched",
+"chars": 10658,
+"date": "2026-11-13"
+},
+{
+"uuid": "5e7a2202-7294-48b7-931d-e388d4fae3f4",
+"tool": "Mapbox",
+"kind": "company",
+"url": "https://mapbox.com",
+"status": "fetched",
+"chars": 12616,
+"date": "2026-11-13"
+},
+{
+"uuid": "266ea04e-dd5d-4143-9ec3-6261eb87e82a",
+"tool": "Master Inbox",
+"kind": "company",
+"url": "https://masterinbox.com",
+"status": "fetched",
+"chars": 16965,
+"date": "2026-11-13"
+},
+{
+"uuid": "9c6ef64a-efe9-4a5c-a3ab-bfd428ca9bd8",
+"tool": "Maxio",
+"kind": "company",
+"url": "https://maxio.com",
+"status": "fetched",
+"chars": 13137,
+"date": "2026-11-13"
+},
+{
+"uuid": "112dd5a1-035a-4624-8f3b-0c9bcbd17414",
+"tool": "Microsoft 365",
+"kind": "company",
+"url": "https://microsoft.com",
+"status": "fetched",
+"chars": 15143,
+"date": "2026-11-13"
+},
+{
+"uuid": "36063062-6c96-4a6c-b717-0f68f7de0850",
+"tool": "Microsoft Dynamics",
+"kind": "company",
+"url": "https://microsoft.com",
+"status": "fetched",
+"chars": 15143,
+"date": "2026-11-13"
+},
+{
+"uuid": "63513570-3d0f-4e71-be5f-212d2b54afe2",
+"tool": "Microsoft Exchange",
+"kind": "company",
+"url": "https://microsoft.com",
+"status": "fetched",
+"chars": 15143,
+"date": "2026-11-13"
+},
+{
+"uuid": "7eea53ce-ef4b-49f5-8c43-03122cb2f593",
+"tool": "Microsoft Outlook",
+"kind": "company",
+"url": "https://microsoft.com",
+"status": "fetched",
+"chars": 15143,
+"date": "2026-11-13"
+},
+{
+"uuid": "2986bfc1-7063-4e38-907a-5aa705115cf7",
+"tool": "Microsoft Power Automate",
+"kind": "company",
+"url": "https://microsoft.com",
+"status": "fetched",
+"chars": 15143,
+"date": "2026-11-13"
+},
+{
+"uuid": "dd782f78-3b2f-426c-9e0e-5600c4e50aaa",
+"tool": "Microsoft Power BI",
+"kind": "company",
+"url": "https://microsoft.com",
+"status": "fetched",
+"chars": 15143,
+"date": "2026-11-13"
+},
+{
+"uuid": "6dcb29cf-f026-45d3-abb3-42458dfe79cd",
+"tool": "Microsoft SharePoint",
+"kind": "company",
+"url": "https://microsoft.com",
+"status": "fetched",
+"chars": 15143,
+"date": "2026-11-13"
+},
+{
+"uuid": "26722293-dfc2-424f-83a8-0601eba7153b",
+"tool": "Microsoft Teams",
+"kind": "company",
+"url": "https://microsoft.com",
+"status": "fetched",
+"chars": 15143,
+"date": "2026-11-13"
+},
+{
+"uuid": "cdf09082-9867-4afd-9710-6b7bb4bfbeb1",
+"tool": "MillionVerifier",
+"kind": "company",
+"url": "https://millionverifier.com",
+"status": "fetched",
+"chars": 6192,
+"date": "2026-11-13"
+},
+{
+"uuid": "4d46306e-831e-437f-b45d-5c69a08487f4",
+"tool": "Miro",
+"kind": "company",
+"url": "https://miro.com",
+"status": "fetched",
+"chars": 14272,
+"date": "2026-11-13"
+},
+{
+"uuid": "6312093b-6eeb-47f9-a61c-99ef5967fb73",
+"tool": "Mission Inbox",
+"kind": "company",
+"url": "https://missioninbox.com",
+"status": "fetched",
+"chars": 19275,
+"date": "2026-11-13"
+},
+{
+"uuid": "781e4265-c89e-416e-a242-c999bbed5177",
+"tool": "Mixmax",
+"kind": "company",
+"url": "https://mixmax.com",
+"status": "fetched",
+"chars": 12492,
+"date": "2026-11-13"
+}
+]

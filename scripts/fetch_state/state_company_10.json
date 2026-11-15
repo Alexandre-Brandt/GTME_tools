@@ -1,0 +1,254 @@
+[
+{
+"uuid": "d984a4b8-1f2c-4ee3-b9bb-a1673b365f9b",
+"tool": "Optilyz",
+"kind": "company",
+"url": "https://optilyz.com",
+"status": "fetched",
+"chars": 5202,
+"date": "2026-11-13"
+},
+{
+"uuid": "5ce02035-5a3b-40d7-aef0-b1986967972c",
+"tool": "Orum",
+"kind": "company",
+"url": "https://orum.com",
+"status": "fetched",
+"chars": 10984,
+"date": "2026-11-13"
+},
+{
+"uuid": "2f475707-55d3-494a-b0a8-eab26d270345",
+"tool": "Outreach",
+"kind": "company",
+"url": "https://outreach.io",
+"status": "fetched",
+"chars": 12891,
+"date": "2026-11-13"
+},
+{
+"uuid": "3856607c-059d-462a-8d84-10c193c58ea8",
+"tool": "Oxygen",
+"kind": "company",
+"url": "https://oxygen-agent.com",
+"status": "fetched",
+"chars": 16585,
+"date": "2026-11-13"
+},
+{
+"uuid": "54af55a9-6187-43f3-b72b-d712d111f02e",
+"tool": "Pardot",
+"kind": "company",
+"url": "https://salesforce.com",
+"status": "fetched",
+"chars": 72873,
+"date": "2026-11-13"
+},
+{
+"uuid": "546faced-6748-4e47-8999-0e50540f4f12",
+"tool": "Salesforce",
+"kind": "company",
+"url": "https://salesforce.com",
+"status": "fetched",
+"chars": 72873,
+"date": "2026-11-13"
+},
+{
+"uuid": "ac54fe67-96f1-4b43-9a1e-6f20839fd9b2",
+"tool": "Salesforce (SFDC)",
+"kind": "company",
+"url": "https://salesforce.com",
+"status": "fetched",
+"chars": 72873,
+"date": "2026-11-13"
+},
+{
+"uuid": "57f4d5b7-e6e0-4833-8659-57904de362ec",
+"tool": "Salesforce Agentforce",
+"kind": "company",
+"url": "https://salesforce.com",
+"status": "fetched",
+"chars": 72873,
+"date": "2026-11-13"
+},
+{
+"uuid": "2ff249da-f4c5-4bda-9eb6-72f7ab1edde6",
+"tool": "Salesforce AppExchange",
+"kind": "company",
+"url": "https://salesforce.com",
+"status": "fetched",
+"chars": 72873,
+"date": "2026-11-13"
+},
+{
+"uuid": "0134fff1-ada5-4225-901a-213299d63a79",
+"tool": "Salesforce CPQ",
+"kind": "company",
+"url": "https://salesforce.com",
+"status": "fetched",
+"chars": 72873,
+"date": "2026-11-13"
+},
+{
+"uuid": "c7500102-b7f4-41ed-98ad-8344fe409b90",
+"tool": "Salesforce Experience Cloud",
+"kind": "company",
+"url": "https://salesforce.com",
+"status": "fetched",
+"chars": 72873,
+"date": "2026-11-13"
+},
+{
+"uuid": "8ee63ce3-f198-458a-b712-299510b7d122",
+"tool": "Salesforce Revenue Cloud",
+"kind": "company",
+"url": "https://salesforce.com",
+"status": "fetched",
+"chars": 72873,
+"date": "2026-11-13"
+},
+{
+"uuid": "48666941-41a5-4c70-b7c4-4cea967f48ab",
+"tool": "Salesforce Trailhead",
+"kind": "company",
+"url": "https://salesforce.com",
+"status": "fetched",
+"chars": 72873,
+"date": "2026-11-13"
+},
+{
+"uuid": "29fdb9fb-cfba-4e02-9091-d2f807f932bd",
+"tool": "People.ai",
+"kind": "company",
+"url": "https://people.ai",
+"status": "fetched",
+"chars": 22325,
+"date": "2026-11-13"
+},
+{
+"uuid": "6c9516a1-a583-4460-affd-9f3149770f9a",
+"tool": "Perplexity",
+"kind": "company",
+"url": "https://perplexity.ai",
+"status": "fetched",
+"chars": 958,
+"date": "2026-11-13"
+},
+{
+"uuid": "b25c714f-7efc-4b7b-866f-7a65051f79d5",
+"tool": "PhantomBuster",
+"kind": "company",
+"url": "https://phantombuster.com",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "a5d91af9-7b12-4320-a4d7-d71c6c270e3d",
+"tool": "PhariaAI (Aleph Alpha)",
+"kind": "company",
+"url": "https://aleph-alpha.com",
+"status": "fetched",
+"chars": 3784,
+"date": "2026-11-13"
+},
+{
+"uuid": "7449ed07-54a4-482a-9737-d015deeef81a",
+"tool": "pipe0",
+"kind": "company",
+"url": "https://pipe0.com",
+"status": "fetched",
+"chars": 9437,
+"date": "2026-11-13"
+},
+{
+"uuid": "6dd467b4-56ce-4975-88d1-7bfdd6a77cea",
+"tool": "Pipedrive",
+"kind": "company",
+"url": "https://pipedrive.com",
+"status": "fetched",
+"chars": 16382,
+"date": "2026-11-13"
+},
+{
+"uuid": "0401f4a9-f033-44db-9b3f-28476943bd13",
+"tool": "Planable",
+"kind": "company",
+"url": "https://planable.io",
+"status": "fetched",
+"chars": 28635,
+"date": "2026-11-13"
+},
+{
+"uuid": "466df87d-51ba-4def-8099-17e3fc5ff81f",
+"tool": "Playwright",
+"kind": "company",
+"url": "https://playwright.dev",
+"status": "fetched",
+"chars": 4968,
+"date": "2026-11-13"
+},
+{
+"uuid": "1e3e74f3-b5b8-42cf-8c3d-6e49b85061d6",
+"tool": "PostgreSQL",
+"kind": "company",
+"url": "https://postgresql.org",
+"status": "fetched",
+"chars": 8595,
+"date": "2026-11-13"
+},
+{
+"uuid": "156dfdc6-28d9-4bf2-bcca-8d565a45e628",
+"tool": "Postmark",
+"kind": "company",
+"url": "https://postmarkapp.com",
+"status": "fetched",
+"chars": 13192,
+"date": "2026-11-13"
+},
+{
+"uuid": "156dfdc6-28d9-4bf2-bcca-8d565a45e628",
+"tool": "Postmark",
+"kind": "product",
+"url": "https://postmarkapp.com/transactional-email",
+"status": "fetched",
+"chars": 10326,
+"date": "2026-11-13"
+},
+{
+"uuid": "b5b114fd-49e2-4944-bb00-dba20c7b35c5",
+"tool": "Predict Leads",
+"kind": "company",
+"url": "https://predictleads.com",
+"status": "fetched",
+"chars": 30152,
+"date": "2026-11-13"
+},
+{
+"uuid": "07cb76da-5dbc-4349-8839-8fc41952d436",
+"tool": "Primeforge",
+"kind": "company",
+"url": "https://primeforge.ai",
+"status": "fetched",
+"chars": 19238,
+"date": "2026-11-13"
+},
+{
+"uuid": "e4516e7c-5adf-438a-b95f-71462de0ec22",
+"tool": "Prospeo",
+"kind": "company",
+"url": "https://prospeo.io",
+"status": "fetched",
+"chars": 28313,
+"date": "2026-11-13"
+},
+{
+"uuid": "f86b0466-7365-45c5-a530-98ed6bbd5e77",
+"tool": "PublicWWW",
+"kind": "company",
+"url": "https://publicwww.com",
+"status": "fetched",
+"chars": 4114,
+"date": "2026-11-13"
+}
+]

@@ -1,0 +1,182 @@
+[
+{
+"uuid": "d8532335-060c-43ec-843f-53c88fe1cb32",
+"tool": "11x",
+"kind": "company",
+"url": "https://11x.ai",
+"status": "fetched",
+"chars": 21535,
+"date": "2026-11-13"
+},
+{
+"uuid": "1127cd0f-a8ff-432e-9014-05b5a078cefb",
+"tool": "AgentGPT",
+"kind": "company",
+"url": "https://reworkd.ai",
+"status": "fetched",
+"chars": 8671,
+"date": "2026-11-13"
+},
+{
+"uuid": "1127cd0f-a8ff-432e-9014-05b5a078cefb",
+"tool": "AgentGPT",
+"kind": "product",
+"url": "https://agentgpt.reworkd.ai",
+"status": "failed",
+"error": "empty/short content",
+"date": "2026-11-13"
+},
+{
+"uuid": "d3cb64fa-15c7-442a-9c0c-0985a7e287c7",
+"tool": "Aimfox",
+"kind": "company",
+"url": "https://aimfox.com",
+"status": "fetched",
+"chars": 9336,
+"date": "2026-11-13"
+},
+{
+"uuid": "07d1434a-223e-4cc6-9031-bb361976fadc",
+"tool": "Aircall",
+"kind": "company",
+"url": "https://aircall.io",
+"status": "fetched",
+"chars": 10676,
+"date": "2026-11-13"
+},
+{
+"uuid": "07d1434a-223e-4cc6-9031-bb361976fadc",
+"tool": "Aircall",
+"kind": "product",
+"url": "https://aircall.io/call-center-software-features/",
+"status": "fetched",
+"chars": 18202,
+"date": "2026-11-13"
+},
+{
+"uuid": "053fddb9-d2ae-42c2-a13d-dc0dcdf85230",
+"tool": "Airtable",
+"kind": "company",
+"url": "https://airtable.com",
+"status": "fetched",
+"chars": 5684,
+"date": "2026-11-13"
+},
+{
+"uuid": "c276428e-2a78-4cd5-8625-bd41007b84e1",
+"tool": "Airtop",
+"kind": "company",
+"url": "https://airtop.ai",
+"status": "fetched",
+"chars": 4773,
+"date": "2026-11-13"
+},
+{
+"uuid": "a86a6990-a205-4644-94fa-459384dc4b56",
+"tool": "Albacross",
+"kind": "company",
+"url": "https://albacross.com",
+"status": "fetched",
+"chars": 17459,
+"date": "2026-11-13"
+},
+{
+"uuid": "a86a6990-a205-4644-94fa-459384dc4b56",
+"tool": "Albacross",
+"kind": "product",
+"url": "https://try.albacross.com/visitor-tracking",
+"status": "fetched",
+"chars": 9316,
+"date": "2026-11-13"
+},
+{
+"uuid": "5f0c0f63-d894-433e-a4ea-74be5cd0bffe",
+"tool": "Alfa",
+"kind": "company",
+"url": "https://getalfa.ai",
+"status": "fetched",
+"chars": 7692,
+"date": "2026-11-13"
+},
+{
+"uuid": "6c8a867d-ec47-4039-9a3c-0f1c13a45a10",
+"tool": "AlignedUp",
+"kind": "company",
+"url": "https://alignedup.com",
+"status": "fetched",
+"chars": 20551,
+"date": "2026-11-13"
+},
+{
+"uuid": "ba17332e-1bf3-4e01-a6cb-eedfd3950609",
+"tool": "Along",
+"kind": "company",
+"url": "https://alongspace.com",
+"status": "fetched",
+"chars": 38954,
+"date": "2026-11-13"
+},
+{
+"uuid": "fac0a812-40ca-4e02-bdf9-54403726dab3",
+"tool": "Amplemarket",
+"kind": "company",
+"url": "https://amplemarket.com",
+"status": "fetched",
+"chars": 14444,
+"date": "2026-11-13"
+},
+{
+"uuid": "081c5701-061a-455d-9914-f1c8e163cef2",
+"tool": "Apify",
+"kind": "company",
+"url": "https://apify.com",
+"status": "fetched",
+"chars": 18724,
+"date": "2026-11-13"
+},
+{
+"uuid": "f1f3f3f8-6a86-4cb0-a0ad-de2bb50f470e",
+"tool": "Apollo.io",
+"kind": "company",
+"url": "https://apollo.io",
+"status": "fetched",
+"chars": 5833,
+"date": "2026-11-13"
+},
+{
+"uuid": "3685af13-bc0a-4e6d-8662-61d2bb37ecb1",
+"tool": "AskElephant",
+"kind": "company",
+"url": "https://askelephant.ai",
+"status": "fetched",
+"chars": 19151,
+"date": "2026-11-13"
+},
+{
+"uuid": "3685af13-bc0a-4e6d-8662-61d2bb37ecb1",
+"tool": "AskElephant",
+"kind": "product",
+"url": "https://askelephant.ai/product/ai-chat",
+"status": "fetched",
+"chars": 3217,
+"date": "2026-11-13"
+},
+{
+"uuid": "0acc11e8-705f-450a-901f-507666838eb8",
+"tool": "Attention",
+"kind": "company",
+"url": "https://attention.com",
+"status": "fetched",
+"chars": 200000,
+"date": "2026-11-13"
+},
+{
+"uuid": "0acc11e8-705f-450a-901f-507666838eb8",
+"tool": "Attention",
+"kind": "product",
+"url": "https://www.attention.com/ads/conversation-intelligence-software/",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+}
+]

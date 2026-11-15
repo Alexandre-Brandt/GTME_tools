@@ -1,0 +1,236 @@
+[
+{
+"uuid": "7dd4552c-4114-4763-b4d3-5cde83ec6a31",
+"tool": "GitHub",
+"kind": "company",
+"url": "https://github.com",
+"status": "fetched",
+"chars": 17623,
+"date": "2026-11-13"
+},
+{
+"uuid": "59dbafe1-c20f-40bb-b0a5-91d62c2b829d",
+"tool": "LinkedIn MCP Server",
+"kind": "company",
+"url": "https://github.com",
+"status": "fetched",
+"chars": 17623,
+"date": "2026-11-13"
+},
+{
+"uuid": "4d61614b-c681-4d45-a9bf-6e6532fb3519",
+"tool": "Glyphic",
+"kind": "company",
+"url": "https://glyphic.ai",
+"status": "fetched",
+"chars": 21658,
+"date": "2026-11-13"
+},
+{
+"uuid": "393472af-5199-416f-a902-d54b39c6b192",
+"tool": "Gmail",
+"kind": "company",
+"url": "https://google.com",
+"status": "fetched",
+"chars": 2922,
+"date": "2026-11-13"
+},
+{
+"uuid": "80b5a273-c0cf-43c1-8fc3-6e932905403c",
+"tool": "Google Apps Script",
+"kind": "company",
+"url": "https://google.com",
+"status": "fetched",
+"chars": 2922,
+"date": "2026-11-13"
+},
+{
+"uuid": "9151e08a-71ac-49c9-917d-22618baf1181",
+"tool": "Google Calendar",
+"kind": "company",
+"url": "https://google.com",
+"status": "fetched",
+"chars": 2922,
+"date": "2026-11-13"
+},
+{
+"uuid": "9a7b5523-f466-4792-a3f4-26a8bb796eaf",
+"tool": "Google Maps",
+"kind": "company",
+"url": "https://google.com",
+"status": "fetched",
+"chars": 2922,
+"date": "2026-11-13"
+},
+{
+"uuid": "5ba5ca18-d8fb-44e9-ac0c-a357ea9176b3",
+"tool": "Google Sheets",
+"kind": "company",
+"url": "https://google.com",
+"status": "fetched",
+"chars": 2922,
+"date": "2026-11-13"
+},
+{
+"uuid": "0ef4c93b-2950-462b-877c-8b5db2c4a328",
+"tool": "Google Workspace",
+"kind": "company",
+"url": "https://google.com",
+"status": "fetched",
+"chars": 2922,
+"date": "2026-11-13"
+},
+{
+"uuid": "393472af-5199-416f-a902-d54b39c6b192",
+"tool": "Gmail",
+"kind": "product",
+"url": "https://workspace.google.com/products/gmail",
+"status": "fetched",
+"chars": 17782,
+"date": "2026-11-13"
+},
+{
+"uuid": "9ef840aa-91ee-4666-aa7a-624bfaf74b14",
+"tool": "Gong",
+"kind": "company",
+"url": "https://gong.io",
+"status": "fetched",
+"chars": 13521,
+"date": "2026-11-13"
+},
+{
+"uuid": "9ef840aa-91ee-4666-aa7a-624bfaf74b14",
+"tool": "Gong",
+"kind": "product",
+"url": "https://www.gong.io/conversation-intelligence",
+"status": "fetched",
+"chars": 33708,
+"date": "2026-11-13"
+},
+{
+"uuid": "9151e08a-71ac-49c9-917d-22618baf1181",
+"tool": "Google Calendar",
+"kind": "product",
+"url": "https://workspace.google.com/products/calendar",
+"status": "fetched",
+"chars": 26748,
+"date": "2026-11-13"
+},
+{
+"uuid": "7a2ca665-7bae-4a53-9c17-a74847ff46d6",
+"tool": "Google Gemini",
+"kind": "company",
+"url": "https://gemini.google",
+"status": "failed",
+"error": "Error fetching content",
+"date": "2026-11-13"
+},
+{
+"uuid": "0ef4c93b-2950-462b-877c-8b5db2c4a328",
+"tool": "Google Workspace",
+"kind": "product",
+"url": "https://workspace.google.com",
+"status": "fetched",
+"chars": 26081,
+"date": "2026-11-13"
+},
+{
+"uuid": "4f1a1184-2802-4c65-a31c-1c48edc1d019",
+"tool": "Granola",
+"kind": "company",
+"url": "https://granola.ai",
+"status": "fetched",
+"chars": 16167,
+"date": "2026-11-13"
+},
+{
+"uuid": "83469614-220b-4c56-aa5d-4a241e09ae82",
+"tool": "Graph.one",
+"kind": "company",
+"url": "https://graph.one",
+"status": "fetched",
+"chars": 4826,
+"date": "2026-11-13"
+},
+{
+"uuid": "3e0f37c0-8b2b-4744-9f2f-c864e8b4a2a6",
+"tool": "Grok",
+"kind": "company",
+"url": "https://x.ai",
+"status": "fetched",
+"chars": 6085,
+"date": "2026-11-13"
+},
+{
+"uuid": "f2b687a8-8991-40b9-842c-c7d076855d87",
+"tool": "Groove",
+"kind": "company",
+"url": "https://groove.co",
+"status": "fetched",
+"chars": 3804,
+"date": "2026-11-13"
+},
+{
+"uuid": "d40aadf6-ae1a-4617-99cf-89a9933ab482",
+"tool": "Guru",
+"kind": "company",
+"url": "https://getguru.com",
+"status": "fetched",
+"chars": 8438,
+"date": "2026-11-13"
+},
+{
+"uuid": "66e77082-f23f-4ad3-a964-ee638d443eea",
+"tool": "Handy",
+"kind": "company",
+"url": "https://handy.computer",
+"status": "fetched",
+"chars": 2257,
+"date": "2026-11-13"
+},
+{
+"uuid": "d74e28ef-c328-41a6-86b2-e03e456453fa",
+"tool": "Happenstance",
+"kind": "company",
+"url": "https://happenstance.ai",
+"status": "fetched",
+"chars": 11261,
+"date": "2026-11-13"
+},
+{
+"uuid": "135142e7-4400-437a-98a8-f07c9aa97c27",
+"tool": "Heymarket",
+"kind": "company",
+"url": "https://heymarket.com",
+"status": "fetched",
+"chars": 13204,
+"date": "2026-11-13"
+},
+{
+"uuid": "62130717-f9ed-48b5-be07-d0efd59e8029",
+"tool": "HeyReach",
+"kind": "company",
+"url": "https://heyreach.io",
+"status": "fetched",
+"chars": 21554,
+"date": "2026-11-13"
+},
+{
+"uuid": "1b1e2e6c-14f0-416b-b57f-55d244c3290f",
+"tool": "HG Insights",
+"kind": "company",
+"url": "https://hginsights.com",
+"status": "fetched",
+"chars": 200000,
+"date": "2026-11-13"
+},
+{
+"uuid": "14b0ab99-c4c8-4b5c-8475-e8d7f752e02b",
+"tool": "HitHorizons",
+"kind": "company",
+"url": "https://hithorizons.com",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+}
+]

@@ -1,0 +1,213 @@
+[
+{
+"uuid": "3d00fb83-a635-4498-a1e2-c4254514aa35",
+"tool": "Dropcontact",
+"kind": "pricing",
+"url": "https://dropcontact.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 7271,
+"date": "2026-11-13"
+},
+{
+"uuid": "dec40336-9a31-477b-8380-41a413cf0e18",
+"tool": "Dust",
+"kind": "pricing",
+"url": "https://dust.tt/home/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 6949,
+"date": "2026-11-13"
+},
+{
+"uuid": "e2f1fa75-8a15-4f8b-a78d-1f0023be95bd",
+"tool": "Eloqua",
+"kind": "pricing",
+"url": "https://oracle.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 2273,
+"date": "2026-11-13"
+},
+{
+"uuid": "ef4ecd0a-2206-412d-96ed-259b7fc04b53",
+"tool": "EmailGuard",
+"kind": "pricing",
+"url": "https://emailguard.io/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 5224,
+"date": "2026-11-13"
+},
+{
+"uuid": "d5398df0-956b-47ba-a0f4-9a0393b0732e",
+"tool": "Emlen",
+"kind": "pricing",
+"url": "https://emlen.io/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 140626,
+"date": "2026-11-13"
+},
+{
+"uuid": "eb8bf39a-c8c5-4abd-b8c1-b15d6f28d2e3",
+"tool": "Everflow",
+"kind": "pricing",
+"url": "https://everflow.io/pricing",
+"how": "guess",
+"status": "failed",
+"chars": 18206,
+"error": "not a pricing page (low pricing signal)",
+"date": "2026-11-13"
+},
+{
+"uuid": "f7c79b1b-34c8-4a46-8e86-da78e22d45ea",
+"tool": "Exa",
+"kind": "pricing",
+"url": "https://exa.ai/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 7059,
+"date": "2026-11-13"
+},
+{
+"uuid": "ff514712-3dc1-483d-9605-a1a320941b7c",
+"tool": "Facebook Ads",
+"kind": "pricing",
+"url": "https://facebook.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "f97dd5fb-6098-4f71-b9c2-019e7f7601f9",
+"tool": "FindyMail",
+"kind": "pricing",
+"url": "https://www.findymail.com/pricing/",
+"how": "link",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "48d84a21-1f2e-4873-8ca9-5d256fa5ca06",
+"tool": "Firecrawl",
+"kind": "pricing",
+"url": "https://firecrawl.dev/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 19280,
+"date": "2026-11-13"
+},
+{
+"uuid": "6877a1ef-a6f5-4f3c-aa76-e32ad6f06cfc",
+"tool": "Fivetran",
+"kind": "pricing",
+"url": "https://fivetran.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 23557,
+"date": "2026-11-13"
+},
+{
+"uuid": "32204ba4-00bc-4f56-996b-2aea373e8d17",
+"tool": "Flowla",
+"kind": "pricing",
+"url": "https://flowla.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 19440,
+"date": "2026-11-13"
+},
+{
+"uuid": "b5db1bdf-09bc-4a28-b757-dc9105568c3f",
+"tool": "Forager",
+"kind": "pricing",
+"url": "https://forager.ai/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 16553,
+"date": "2026-11-13"
+},
+{
+"uuid": "c59d593b-928c-4b62-bf3b-230775736f59",
+"tool": "Framer",
+"kind": "pricing",
+"url": "https://framer.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 25008,
+"date": "2026-11-13"
+},
+{
+"uuid": "fe76df0c-6dc7-4584-91ad-0f648bb008fe",
+"tool": "Freckle",
+"kind": "pricing",
+"url": "https://freckle.io/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 21475,
+"date": "2026-11-13"
+},
+{
+"uuid": "b7e7b4c2-73fb-4156-be97-632316f52097",
+"tool": "FullEnrich",
+"kind": "pricing",
+"url": "https://fullenrich.com/_app/immutable/assets/price-tag-string.Dt5VtcXP.svg",
+"how": "link",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "37c75747-15c5-4479-b0bb-51407f61c129",
+"tool": "Gainsight",
+"kind": "pricing",
+"url": "https://gainsight.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 5095,
+"date": "2026-11-13"
+},
+{
+"uuid": "f4889613-2d23-4ae0-8ccb-b35f7085f91e",
+"tool": "Gamma",
+"kind": "pricing",
+"url": "https://gamma.app/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 5696,
+"date": "2026-11-13"
+},
+{
+"uuid": "7dd4552c-4114-4763-b4d3-5cde83ec6a31",
+"tool": "GitHub",
+"kind": "pricing",
+"url": "https://github.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 35027,
+"date": "2026-11-13"
+},
+{
+"uuid": "59dbafe1-c20f-40bb-b0a5-91d62c2b829d",
+"tool": "LinkedIn MCP Server",
+"kind": "pricing",
+"url": "https://github.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 35027,
+"date": "2026-11-13"
+},
+{
+"uuid": "4d61614b-c681-4d45-a9bf-6e6532fb3519",
+"tool": "Glyphic",
+"kind": "pricing",
+"url": "https://glyphic.ai/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 2296,
+"date": "2026-11-13"
+}
+]

@@ -1,0 +1,182 @@
+[
+{
+"uuid": "b19e6617-4617-48b2-b803-61117cc4552c",
+"tool": "Trigify",
+"kind": "company",
+"url": "https://trigify.io",
+"status": "fetched",
+"chars": 6199,
+"date": "2026-11-13"
+},
+{
+"uuid": "6fdd1da9-34ef-4668-a40b-27be054ef318",
+"tool": "Trumpet",
+"kind": "company",
+"url": "https://sendtrumpet.com",
+"status": "fetched",
+"chars": 24716,
+"date": "2026-11-13"
+},
+{
+"uuid": "6fdd1da9-34ef-4668-a40b-27be054ef318",
+"tool": "Trumpet",
+"kind": "product",
+"url": "https://sendtrumpet.com/digital-sales-room",
+"status": "fetched",
+"chars": 37301,
+"date": "2026-11-13"
+},
+{
+"uuid": "79957655-9c25-4a67-8b5a-aff91e41570f",
+"tool": "Twain",
+"kind": "company",
+"url": "https://twain.ai",
+"status": "fetched",
+"chars": 6051,
+"date": "2026-11-13"
+},
+{
+"uuid": "527fce68-d5e0-49e4-aead-0be2687be2c3",
+"tool": "Udemy",
+"kind": "company",
+"url": "https://udemy.com",
+"status": "fetched",
+"chars": 20968,
+"date": "2026-11-13"
+},
+{
+"uuid": "2f2fbfc4-56e1-4663-ba33-413555b14d9f",
+"tool": "Unipile",
+"kind": "company",
+"url": "https://unipile.com",
+"status": "fetched",
+"chars": 18331,
+"date": "2026-11-13"
+},
+{
+"uuid": "8b816eda-5fbf-4225-b227-e520ef477c37",
+"tool": "Valuecase",
+"kind": "company",
+"url": "https://valuecase.com",
+"status": "fetched",
+"chars": 18910,
+"date": "2026-11-13"
+},
+{
+"uuid": "8b816eda-5fbf-4225-b227-e520ef477c37",
+"tool": "Valuecase",
+"kind": "product",
+"url": "https://valuecase.com/digital-sales-room",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "51732629-4fde-46e0-af67-82c6418af533",
+"tool": "Vendr",
+"kind": "company",
+"url": "https://vendr.com",
+"status": "fetched",
+"chars": 4271,
+"date": "2026-11-13"
+},
+{
+"uuid": "79bb3532-3044-406f-a643-817c707d4485",
+"tool": "Veo 3",
+"kind": "company",
+"url": "https://deepmind.google",
+"status": "fetched",
+"chars": 9074,
+"date": "2026-11-13"
+},
+{
+"uuid": "79bb3532-3044-406f-a643-817c707d4485",
+"tool": "Veo 3",
+"kind": "product",
+"url": "https://deepmind.google/models/veo",
+"status": "fetched",
+"chars": 44678,
+"date": "2026-11-13"
+},
+{
+"uuid": "2a037dcf-7c99-4bf8-a861-bf253e1f0f5f",
+"tool": "VS Code",
+"kind": "company",
+"url": "https://code.visualstudio.com",
+"status": "fetched",
+"chars": 16897,
+"date": "2026-11-13"
+},
+{
+"uuid": "15615d18-bfe9-438e-ad04-7c442346c999",
+"tool": "Wappalyzer",
+"kind": "company",
+"url": "https://wappalyzer.com",
+"status": "fetched",
+"chars": 5382,
+"date": "2026-11-13"
+},
+{
+"uuid": "52c18fb4-d38a-448e-a7fa-0e221eb95321",
+"tool": "Weflow",
+"kind": "company",
+"url": "https://getweflow.com",
+"status": "fetched",
+"chars": 19475,
+"date": "2026-11-13"
+},
+{
+"uuid": "52c18fb4-d38a-448e-a7fa-0e221eb95321",
+"tool": "Weflow",
+"kind": "product",
+"url": "https://getweflow.com/product/pipeline-management",
+"status": "fetched",
+"chars": 17966,
+"date": "2026-11-13"
+},
+{
+"uuid": "25fa4032-4719-44ec-b717-0f79056dad8e",
+"tool": "WhatsApp",
+"kind": "company",
+"url": "https://whatsapp.com",
+"status": "fetched",
+"chars": 2816,
+"date": "2026-11-13"
+},
+{
+"uuid": "25fa4032-4719-44ec-b717-0f79056dad8e",
+"tool": "WhatsApp",
+"kind": "product",
+"url": "https://business.whatsapp.com/products/business-platform",
+"status": "fetched",
+"chars": 4134,
+"date": "2026-11-13"
+},
+{
+"uuid": "defc13b8-42f8-4f74-95c0-ac3b0b53d098",
+"tool": "Wispr Flow",
+"kind": "company",
+"url": "https://wisprflow.ai",
+"status": "fetched",
+"chars": 13746,
+"date": "2026-11-13"
+},
+{
+"uuid": "5bf136fe-c1d4-4c73-a338-7250d15e3aa7",
+"tool": "Wix",
+"kind": "company",
+"url": "https://wix.com",
+"status": "fetched",
+"chars": 20024,
+"date": "2026-11-13"
+},
+{
+"uuid": "5e6dc06a-e565-45c9-9b71-503d1f9953a7",
+"tool": "Xing",
+"kind": "company",
+"url": "https://xing.com",
+"status": "fetched",
+"chars": 9440,
+"date": "2026-11-13"
+}
+]

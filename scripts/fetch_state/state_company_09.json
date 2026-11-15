@@ -1,0 +1,182 @@
+[
+{
+"uuid": "fe2ace94-3ef9-4344-b6fe-e6533310b133",
+"tool": "Modern Relay",
+"kind": "company",
+"url": "https://modernrelay.com",
+"status": "fetched",
+"chars": 3491,
+"date": "2026-11-13"
+},
+{
+"uuid": "01a3fa06-c9b2-4099-bfd3-ee3c6f44224f",
+"tool": "Momentum",
+"kind": "company",
+"url": "https://momentum.io",
+"status": "fetched",
+"chars": 109538,
+"date": "2026-11-13"
+},
+{
+"uuid": "76f109e1-512c-4da1-8f84-d2cbac7c3177",
+"tool": "Monaco",
+"kind": "company",
+"url": "https://monaco.com",
+"status": "fetched",
+"chars": 1486,
+"date": "2026-11-13"
+},
+{
+"uuid": "44937709-5871-4612-a358-e59063a5a350",
+"tool": "MyHammer",
+"kind": "company",
+"url": "https://my-hammer.de",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "ebcf0035-3692-4885-b191-2ad2ac4b5845",
+"tool": "n8n",
+"kind": "company",
+"url": "https://n8n.io",
+"status": "fetched",
+"chars": 10664,
+"date": "2026-11-13"
+},
+{
+"uuid": "9e030fa2-ac58-4bdd-85fa-00275debb3c3",
+"tool": "n8n MCP",
+"kind": "company",
+"url": "https://n8n-mcp.com",
+"status": "fetched",
+"chars": 42476,
+"date": "2026-11-13"
+},
+{
+"uuid": "87bb5e57-73d9-4c2f-8fc1-ae755127405f",
+"tool": "Nationalize API",
+"kind": "company",
+"url": "https://nationalize.io",
+"status": "fetched",
+"chars": 12073,
+"date": "2026-11-13"
+},
+{
+"uuid": "0c83a168-8e7d-4814-9ab4-01e637166b43",
+"tool": "Needle",
+"kind": "company",
+"url": "https://needle.app",
+"status": "fetched",
+"chars": 12972,
+"date": "2026-11-13"
+},
+{
+"uuid": "f11cc109-61b3-465a-b8b2-10b7ca6e0dc8",
+"tool": "Neon",
+"kind": "company",
+"url": "https://neon.com",
+"status": "fetched",
+"chars": 11326,
+"date": "2026-11-13"
+},
+{
+"uuid": "9a07e461-f615-412f-af70-ec2360863b49",
+"tool": "Nooks",
+"kind": "company",
+"url": "https://nooks.ai",
+"status": "fetched",
+"chars": 10825,
+"date": "2026-11-13"
+},
+{
+"uuid": "d763211f-1400-408e-abe4-5a3febbe3669",
+"tool": "North Data",
+"kind": "company",
+"url": "https://northdata.com",
+"status": "fetched",
+"chars": 7106,
+"date": "2026-11-13"
+},
+{
+"uuid": "a1330b90-4f92-4dea-9b32-f65f5af2675a",
+"tool": "Notion",
+"kind": "company",
+"url": "https://notion.com",
+"status": "fetched",
+"chars": 6878,
+"date": "2026-11-13"
+},
+{
+"uuid": "02ddc16f-6a2d-4802-a9d1-c07b890d40c6",
+"tool": "Nuacom",
+"kind": "company",
+"url": "https://nuacom.com",
+"status": "fetched",
+"chars": 40068,
+"date": "2026-11-13"
+},
+{
+"uuid": "fa5819c1-af95-4d8c-b26a-69474738c0d4",
+"tool": "Nue",
+"kind": "company",
+"url": "https://nue.io",
+"status": "fetched",
+"chars": 5399,
+"date": "2026-11-13"
+},
+{
+"uuid": "ba9e2e2b-8640-4bd0-b04f-6da8b62f8a6b",
+"tool": "Octave",
+"kind": "company",
+"url": "https://octavehq.com",
+"status": "fetched",
+"chars": 20048,
+"date": "2026-11-13"
+},
+{
+"uuid": "9578ee6b-c8cc-4fe0-88f2-937a9380ec7f",
+"tool": "Octoparse",
+"kind": "company",
+"url": "https://octoparse.com",
+"status": "fetched",
+"chars": 19261,
+"date": "2026-11-13"
+},
+{
+"uuid": "e6760576-5ca2-490b-9332-b37aab61b043",
+"tool": "Odoo",
+"kind": "company",
+"url": "https://odoo.com",
+"status": "fetched",
+"chars": 14665,
+"date": "2026-11-13"
+},
+{
+"uuid": "03dfb0a7-e656-430b-8820-12e35a2627b6",
+"tool": "Offene Register",
+"kind": "company",
+"url": "https://offeneregister.de",
+"status": "fetched",
+"chars": 6868,
+"date": "2026-11-13"
+},
+{
+"uuid": "5480d459-bae7-4b72-965f-12d1790dee37",
+"tool": "Ontora",
+"kind": "company",
+"url": "https://ontora.com",
+"status": "fetched",
+"chars": 9528,
+"date": "2026-11-13"
+},
+{
+"uuid": "94459f42-8cd0-4117-ad34-22b99db54cec",
+"tool": "OpenRegister",
+"kind": "company",
+"url": "https://openregister.de",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+}
+]

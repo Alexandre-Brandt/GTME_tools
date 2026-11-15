@@ -1,0 +1,182 @@
+[
+{
+"uuid": "d5398df0-956b-47ba-a0f4-9a0393b0732e",
+"tool": "Emlen",
+"kind": "company",
+"url": "https://emlen.io",
+"status": "fetched",
+"chars": 43772,
+"date": "2026-11-13"
+},
+{
+"uuid": "eb8bf39a-c8c5-4abd-b8c1-b15d6f28d2e3",
+"tool": "Everflow",
+"kind": "company",
+"url": "https://everflow.io",
+"status": "fetched",
+"chars": 18595,
+"date": "2026-11-13"
+},
+{
+"uuid": "f7c79b1b-34c8-4a46-8e86-da78e22d45ea",
+"tool": "Exa",
+"kind": "company",
+"url": "https://exa.ai",
+"status": "fetched",
+"chars": 29753,
+"date": "2026-11-13"
+},
+{
+"uuid": "ff514712-3dc1-483d-9605-a1a320941b7c",
+"tool": "Facebook Ads",
+"kind": "company",
+"url": "https://facebook.com",
+"status": "fetched",
+"chars": 3722,
+"date": "2026-11-13"
+},
+{
+"uuid": "ff514712-3dc1-483d-9605-a1a320941b7c",
+"tool": "Facebook Ads",
+"kind": "product",
+"url": "https://www.facebook.com/business/tools/ads-manager",
+"status": "fetched",
+"chars": 6018,
+"date": "2026-11-13"
+},
+{
+"uuid": "f97dd5fb-6098-4f71-b9c2-019e7f7601f9",
+"tool": "FindyMail",
+"kind": "company",
+"url": "https://findymail.com",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "f97dd5fb-6098-4f71-b9c2-019e7f7601f9",
+"tool": "FindyMail",
+"kind": "product",
+"url": "https://www.findymail.com/email-verifier/",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "48d84a21-1f2e-4873-8ca9-5d256fa5ca06",
+"tool": "Firecrawl",
+"kind": "company",
+"url": "https://firecrawl.dev",
+"status": "fetched",
+"chars": 28277,
+"date": "2026-11-13"
+},
+{
+"uuid": "6877a1ef-a6f5-4f3c-aa76-e32ad6f06cfc",
+"tool": "Fivetran",
+"kind": "company",
+"url": "https://fivetran.com",
+"status": "fetched",
+"chars": 5581,
+"date": "2026-11-13"
+},
+{
+"uuid": "32204ba4-00bc-4f56-996b-2aea373e8d17",
+"tool": "Flowla",
+"kind": "company",
+"url": "https://flowla.com",
+"status": "fetched",
+"chars": 20644,
+"date": "2026-11-13"
+},
+{
+"uuid": "32204ba4-00bc-4f56-996b-2aea373e8d17",
+"tool": "Flowla",
+"kind": "product",
+"url": "https://flowla.com/digital-sales-rooms",
+"status": "fetched",
+"chars": 19021,
+"date": "2026-11-13"
+},
+{
+"uuid": "b5db1bdf-09bc-4a28-b757-dc9105568c3f",
+"tool": "Forager",
+"kind": "company",
+"url": "https://forager.ai",
+"status": "fetched",
+"chars": 43515,
+"date": "2026-11-13"
+},
+{
+"uuid": "c59d593b-928c-4b62-bf3b-230775736f59",
+"tool": "Framer",
+"kind": "company",
+"url": "https://framer.com",
+"status": "fetched",
+"chars": 46038,
+"date": "2026-11-13"
+},
+{
+"uuid": "c59d593b-928c-4b62-bf3b-230775736f59",
+"tool": "Framer",
+"kind": "product",
+"url": "https://www.framer.com/website-builder",
+"status": "fetched",
+"chars": 16974,
+"date": "2026-11-13"
+},
+{
+"uuid": "fe76df0c-6dc7-4584-91ad-0f648bb008fe",
+"tool": "Freckle",
+"kind": "company",
+"url": "https://freckle.io",
+"status": "fetched",
+"chars": 19399,
+"date": "2026-11-13"
+},
+{
+"uuid": "b7e7b4c2-73fb-4156-be97-632316f52097",
+"tool": "FullEnrich",
+"kind": "company",
+"url": "https://fullenrich.com",
+"status": "fetched",
+"chars": 16531,
+"date": "2026-11-13"
+},
+{
+"uuid": "a09fd486-d373-44f5-95ad-14c5929ccc43",
+"tool": "G2",
+"kind": "company",
+"url": "https://g2.com",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "37c75747-15c5-4479-b0bb-51407f61c129",
+"tool": "Gainsight",
+"kind": "company",
+"url": "https://gainsight.com",
+"status": "fetched",
+"chars": 11071,
+"date": "2026-11-13"
+},
+{
+"uuid": "37c75747-15c5-4479-b0bb-51407f61c129",
+"tool": "Gainsight",
+"kind": "product",
+"url": "https://www.gainsight.com/solutions/gainsight-for-customer-success-teams/",
+"status": "fetched",
+"chars": 4208,
+"date": "2026-11-13"
+},
+{
+"uuid": "f4889613-2d23-4ae0-8ccb-b35f7085f91e",
+"tool": "Gamma",
+"kind": "company",
+"url": "https://gamma.app",
+"status": "fetched",
+"chars": 23887,
+"date": "2026-11-13"
+}
+]

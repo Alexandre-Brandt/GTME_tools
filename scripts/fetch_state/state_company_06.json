@@ -1,0 +1,209 @@
+[
+{
+"uuid": "0464735f-cfb3-45e0-b191-62e5c5796563",
+"tool": "HubSpot",
+"kind": "company",
+"url": "https://hubspot.com",
+"status": "fetched",
+"chars": 14471,
+"date": "2026-11-13"
+},
+{
+"uuid": "223483de-0d3c-4c60-a6f7-5b1a5063e231",
+"tool": "HubSpot Breeze",
+"kind": "company",
+"url": "https://hubspot.com",
+"status": "fetched",
+"chars": 14471,
+"date": "2026-11-13"
+},
+{
+"uuid": "ba614197-ad12-489c-ad05-df938e49428e",
+"tool": "HubSpot Marketing Hub",
+"kind": "company",
+"url": "https://hubspot.com",
+"status": "fetched",
+"chars": 14471,
+"date": "2026-11-13"
+},
+{
+"uuid": "9517b8aa-4716-4574-8196-e4ac34c1cba5",
+"tool": "HubSpot Service Hub",
+"kind": "company",
+"url": "https://hubspot.com",
+"status": "fetched",
+"chars": 14471,
+"date": "2026-11-13"
+},
+{
+"uuid": "0464735f-cfb3-45e0-b191-62e5c5796563",
+"tool": "HubSpot",
+"kind": "product",
+"url": "https://www.hubspot.com/crm",
+"status": "fetched",
+"chars": 33287,
+"date": "2026-11-13"
+},
+{
+"uuid": "9517b8aa-4716-4574-8196-e4ac34c1cba5",
+"tool": "HubSpot Service Hub",
+"kind": "product",
+"url": "https://www.hubspot.com/products/service/customer-success-management?lang=en-US",
+"status": "fetched",
+"chars": 25497,
+"date": "2026-11-13"
+},
+{
+"uuid": "72e519a1-17dc-435e-88fb-7e53d9f91b9e",
+"tool": "Hunter.io",
+"kind": "company",
+"url": "https://hunter.io",
+"status": "fetched",
+"chars": 15711,
+"date": "2026-11-13"
+},
+{
+"uuid": "efd07b8c-ef2a-4690-9a00-1989848728d0",
+"tool": "Hyperline",
+"kind": "company",
+"url": "https://hyperline.co",
+"status": "fetched",
+"chars": 20698,
+"date": "2026-11-13"
+},
+{
+"uuid": "efd07b8c-ef2a-4690-9a00-1989848728d0",
+"tool": "Hyperline",
+"kind": "product",
+"url": "https://www.hyperline.co/products/cpq",
+"status": "fetched",
+"chars": 7321,
+"date": "2026-11-13"
+},
+{
+"uuid": "773076cf-c4d8-4322-81c4-ff674c6cf918",
+"tool": "Hyperspell",
+"kind": "company",
+"url": "https://hyperspell.com",
+"status": "fetched",
+"chars": 3904,
+"date": "2026-11-13"
+},
+{
+"uuid": "0adc9532-feeb-4362-afef-390b89d0ebc4",
+"tool": "Indeed",
+"kind": "company",
+"url": "https://indeed.com",
+"status": "fetched",
+"chars": 6589,
+"date": "2026-11-13"
+},
+{
+"uuid": "576a78ff-3232-4797-b742-4fa7a0f904bb",
+"tool": "Instantly",
+"kind": "company",
+"url": "https://instantly.ai",
+"status": "fetched",
+"chars": 20402,
+"date": "2026-11-13"
+},
+{
+"uuid": "c670f3b7-2c3b-4c23-a46d-f4ac9cea28bd",
+"tool": "Intercom",
+"kind": "company",
+"url": "https://intercom.com",
+"status": "fetched",
+"chars": 21702,
+"date": "2026-11-13"
+},
+{
+"uuid": "562c85e0-8c0e-4140-a813-44d91f69480f",
+"tool": "Jiminny",
+"kind": "company",
+"url": "https://jiminny.com",
+"status": "fetched",
+"chars": 14603,
+"date": "2026-11-13"
+},
+{
+"uuid": "364e4809-508c-46e6-821c-9fca8ec77d64",
+"tool": "Juicebox",
+"kind": "company",
+"url": "https://juicebox.ai",
+"status": "fetched",
+"chars": 38553,
+"date": "2026-11-13"
+},
+{
+"uuid": "ab7d9dba-9f86-4e4b-972f-216bd90e9a85",
+"tool": "Jungler",
+"kind": "company",
+"url": "https://jungler.ai",
+"status": "fetched",
+"chars": 8421,
+"date": "2026-11-13"
+},
+{
+"uuid": "9c513b0d-1586-4892-b489-ab59855625b0",
+"tool": "JustCall",
+"kind": "company",
+"url": "https://justcall.io",
+"status": "fetched",
+"chars": 27823,
+"date": "2026-11-13"
+},
+{
+"uuid": "9cbc557c-15a0-48d6-b7b7-9d80a4ecb4aa",
+"tool": "Kickscale",
+"kind": "company",
+"url": "https://kickscale.com",
+"status": "fetched",
+"chars": 25184,
+"date": "2026-11-13"
+},
+{
+"uuid": "9cbc557c-15a0-48d6-b7b7-9d80a4ecb4aa",
+"tool": "Kickscale",
+"kind": "product",
+"url": "https://kickscale.com/en/product/forecasting",
+"status": "fetched",
+"chars": 21603,
+"date": "2026-11-13"
+},
+{
+"uuid": "7c86092c-61e0-4c01-be34-3d266c0d0a07",
+"tool": "Kiflo",
+"kind": "company",
+"url": "https://kiflo.com",
+"status": "fetched",
+"chars": 14363,
+"date": "2026-11-13"
+},
+{
+"uuid": "554ae8d0-9432-427b-a116-96e7414e8351",
+"tool": "Kixie",
+"kind": "company",
+"url": "https://kixie.com",
+"status": "fetched",
+"chars": 11314,
+"date": "2026-11-13"
+},
+{
+"uuid": "69b6eec4-0752-4e93-9729-0c07b85fa034",
+"tool": "La Growth Machine (LGM)",
+"kind": "company",
+"url": "https://lagrowthmachine.com",
+"status": "fetched",
+"chars": 7459,
+"date": "2026-11-13"
+},
+{
+"uuid": "9c7b2884-71a5-41af-8b82-a34708c33152",
+"tool": "LangChain",
+"kind": "company",
+"url": "https://langchain.com",
+"status": "fetched",
+"chars": 4594,
+"date": "2026-11-13"
+}
+]

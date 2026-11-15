@@ -1,0 +1,101 @@
+[
+{
+"uuid": "ecd4c740-9dd1-47b2-a978-ee6a36bc97cd",
+"tool": "XLR8",
+"kind": "company",
+"url": "https://getxlr8.ai",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "08ca8c7c-26ee-46c0-a606-529841a770da",
+"tool": "yothere",
+"kind": "company",
+"url": "https://yothere.ai",
+"status": "fetched",
+"chars": 4734,
+"date": "2026-11-13"
+},
+{
+"uuid": "cea06783-8127-4d41-acb4-559bae4d74ed",
+"tool": "Zapier",
+"kind": "company",
+"url": "https://zapier.com",
+"status": "fetched",
+"chars": 9625,
+"date": "2026-11-13"
+},
+{
+"uuid": "5f7143f9-82c8-4164-aad7-46d6570f9ed5",
+"tool": "Zapier Central",
+"kind": "company",
+"url": "https://zapier.com",
+"status": "fetched",
+"chars": 9625,
+"date": "2026-11-13"
+},
+{
+"uuid": "1db6986c-8ae0-4115-b382-2a925f626393",
+"tool": "ZenRows",
+"kind": "company",
+"url": "https://zenrows.com",
+"status": "fetched",
+"chars": 10045,
+"date": "2026-11-13"
+},
+{
+"uuid": "77b1f8c1-8cc7-4928-a455-0d8b53d39b69",
+"tool": "Zero",
+"kind": "company",
+"url": "https://zero.inc",
+"status": "fetched",
+"chars": 43122,
+"date": "2026-11-13"
+},
+{
+"uuid": "f042ce19-645f-4903-829f-7ff9aa94663d",
+"tool": "ZeroBounce",
+"kind": "company",
+"url": "https://zerobounce.net",
+"status": "fetched",
+"chars": 34485,
+"date": "2026-11-13"
+},
+{
+"uuid": "fd8f1d42-e5f7-4560-b5e0-da8d2b3dd98b",
+"tool": "Zoom Phone",
+"kind": "company",
+"url": "https://zoom.com",
+"status": "fetched",
+"chars": 25445,
+"date": "2026-11-13"
+},
+{
+"uuid": "fd8f1d42-e5f7-4560-b5e0-da8d2b3dd98b",
+"tool": "Zoom Phone",
+"kind": "product",
+"url": "https://www.zoom.com/en/products/voip-phone/",
+"status": "fetched",
+"chars": 28394,
+"date": "2026-11-13"
+},
+{
+"uuid": "fd30c375-831c-449f-ba74-9897b26fcac0",
+"tool": "ZoomInfo",
+"kind": "company",
+"url": "https://zoominfo.com",
+"status": "fetched",
+"chars": 12282,
+"date": "2026-11-13"
+},
+{
+"uuid": "114b1afc-7d4e-4713-96e2-a921693e8126",
+"tool": "Zuora (written 'Zoura')",
+"kind": "company",
+"url": "https://zuora.com",
+"status": "fetched",
+"chars": 22958,
+"date": "2026-11-13"
+}
+]

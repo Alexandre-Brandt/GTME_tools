@@ -1,0 +1,265 @@
+[
+{
+"uuid": "d35a6145-3275-4271-ba04-ec2a081447d6",
+"tool": "BookStack",
+"kind": "pricing",
+"url": "https://bookstackapp.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "42e05288-af2c-4034-9aee-a444dded7ba9",
+"tool": "Botdog",
+"kind": "pricing",
+"url": "https://botdog.co/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 13794,
+"date": "2026-11-13"
+},
+{
+"uuid": "9842aad7-5f0e-4f02-9f69-2ead4586c126",
+"tool": "BounceBan",
+"kind": "pricing",
+"url": "https://bounceban.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 4214,
+"date": "2026-11-13"
+},
+{
+"uuid": "b217dc18-77da-45c5-90ab-57cc476509d4",
+"tool": "Brevo",
+"kind": "pricing",
+"url": "https://brevo.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 12045,
+"date": "2026-11-13"
+},
+{
+"uuid": "6aa7b993-8efa-4a92-aa63-5e8555a194a0",
+"tool": "Bright Data",
+"kind": "pricing",
+"url": "https://brightdata.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 19010,
+"date": "2026-11-13"
+},
+{
+"uuid": "2c5511a8-e345-46d0-8873-efda410f10da",
+"tool": "BuiltWith",
+"kind": "pricing",
+"url": "https://builtwith.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 27292,
+"date": "2026-11-13"
+},
+{
+"uuid": "612d298f-ed63-4cb0-b2c3-9c743a71e2e8",
+"tool": "Cacheflow",
+"kind": "pricing",
+"url": "https://getcacheflow.com/pricing/commerce",
+"how": "link",
+"status": "fetched",
+"chars": 24971,
+"date": "2026-11-13"
+},
+{
+"uuid": "2b5b10f3-58d0-433c-ae22-820b6299dafd",
+"tool": "Calendly",
+"kind": "pricing",
+"url": "https://calendly.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 107621,
+"date": "2026-11-13"
+},
+{
+"uuid": "2aa4931d-1dd7-446b-91ff-c59527aaeb85",
+"tool": "Catalyst",
+"kind": "pricing",
+"url": "https://catalyst.io/pricing",
+"how": "guess",
+"status": "failed",
+"chars": 1362,
+"error": "not a pricing page (low pricing signal)",
+"date": "2026-11-13"
+},
+{
+"uuid": "ba0d87f9-a6b1-481b-be4f-23e6b3ee1522",
+"tool": "Cello",
+"kind": "pricing",
+"url": "https://cello.so/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 22122,
+"date": "2026-11-13"
+},
+{
+"uuid": "115d558b-48bf-4cae-b7c0-874fff1c0e89",
+"tool": "Chargebee",
+"kind": "pricing",
+"url": "https://chargebee.com/billing/plan-pricing-catalog/",
+"how": "link",
+"status": "fetched",
+"chars": 9139,
+"date": "2026-11-13"
+},
+{
+"uuid": "2de5b638-cee7-4f41-a736-3512780fcc96",
+"tool": "ChartMogul",
+"kind": "pricing",
+"url": "https://chartmogul.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 14224,
+"date": "2026-11-13"
+},
+{
+"uuid": "c5a459b7-a555-4705-b428-1992b69de902",
+"tool": "ChatGPT / OpenAI",
+"kind": "pricing",
+"url": "https://openai.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 24091,
+"date": "2026-11-13"
+},
+{
+"uuid": "759eb9ec-6689-4abb-808c-1b87ec27a49f",
+"tool": "DALL-E",
+"kind": "pricing",
+"url": "https://openai.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 24091,
+"date": "2026-11-13"
+},
+{
+"uuid": "d3f4e2d3-9456-4b8e-aac1-d94ae4821865",
+"tool": "Whisper API",
+"kind": "pricing",
+"url": "https://openai.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 24091,
+"date": "2026-11-13"
+},
+{
+"uuid": "ab7e3b7f-2648-4369-8506-7df16d36eb2d",
+"tool": "Clari",
+"kind": "pricing",
+"url": "https://clari.com/pricing",
+"how": "guess",
+"status": "failed",
+"chars": 9931,
+"error": "not a pricing page (low pricing signal)",
+"date": "2026-11-13"
+},
+{
+"uuid": "da417a13-1b1e-4f3a-a3ff-4c1599fb5c50",
+"tool": "Claude / Anthropic",
+"kind": "pricing",
+"url": "https://anthropic.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 23808,
+"date": "2026-11-13"
+},
+{
+"uuid": "b729c8c5-5120-44bc-8b0b-b53f62281a0a",
+"tool": "Claude Agent SDK",
+"kind": "pricing",
+"url": "https://anthropic.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 23808,
+"date": "2026-11-13"
+},
+{
+"uuid": "58871959-b679-455d-9a32-52127fc38bc1",
+"tool": "Claude Code",
+"kind": "pricing",
+"url": "https://anthropic.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 23808,
+"date": "2026-11-13"
+},
+{
+"uuid": "e80df2fb-2513-40eb-8047-3554bf0a34a6",
+"tool": "Claude Cowork",
+"kind": "pricing",
+"url": "https://anthropic.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 23808,
+"date": "2026-11-13"
+},
+{
+"uuid": "1cda11dc-be76-4346-8135-7ec2956bf710",
+"tool": "Clay API (unofficial)",
+"kind": "pricing",
+"url": "https://claygenius.io/pricing",
+"how": "guess",
+"status": "failed",
+"error": "Error fetching content",
+"date": "2026-11-13"
+},
+{
+"uuid": "d74164ef-d885-4789-9615-e2deef22e187",
+"tool": "Clay Chrome extension (Frontier)",
+"kind": "pricing",
+"url": "https://clay.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 34659,
+"date": "2026-11-13"
+},
+{
+"uuid": "9d27aecb-5408-406e-ad22-488bbffca5f2",
+"tool": "Claygent",
+"kind": "pricing",
+"url": "https://clay.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 34659,
+"date": "2026-11-13"
+},
+{
+"uuid": "0914c9cc-b79d-49bf-b0d2-2f52922a5f88",
+"tool": "Clearbit",
+"kind": "pricing",
+"url": "https://clearbit.com/pricing",
+"how": "guess",
+"status": "failed",
+"chars": 2490,
+"error": "not a pricing page (low pricing signal)",
+"date": "2026-11-13"
+},
+{
+"uuid": "850dd538-7bc8-4bfc-9012-0a1e9d4b5dec",
+"tool": "Clearcue",
+"kind": "pricing",
+"url": "https://clearcue.ai/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 2717,
+"date": "2026-11-13"
+},
+{
+"uuid": "ca01bb3f-2386-457d-975f-50d6b2f2a3d3",
+"tool": "Close CRM",
+"kind": "pricing",
+"url": "https://close.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 61803,
+"date": "2026-11-13"
+}
+]

@@ -1,0 +1,432 @@
+---
+uuid: 8aa14c0f-1b00-4fd4-8e88-aa4f5bebddd6
+tool: Cursor
+source_url: https://cursor.com/pricing
+title: Cursor · Pricing
+fetched: 2026-11-13
+fetched_with: tavily_extract (basic)
+---
+
+[Skip to content](#main)
+
+[Sign in](/dashboard)[ContactContact sales](/contact-sales?source=navbar)[Download](/download)
+
+
+
+# Pricing
+
+$0/month
+
+[Get started](/download)
+
+Get started with:
+
+Limited
+
+AI usage
+
+AI Features
+
+* Limited agent requests
+* Limited Chat requests
+
+Features
+
+* ✓Post, reply, and follow
+
+### Plus
+
+$8/month
+
+[Get Plus](https://cursor.com/api/auth/checkoutDeepControl?tier=plus&yearly=false)
+
+Our introductory plan:
+
+Shared
+
+AI usage pool
+
+AI Features
+
+* Cursor
+* Grok Chat, Voice, Imagine, and Build
+* Grok API access
+
+Features
+
+* ✓Premium checkmark
+* ✓Less timeline ads
+* ✓Enhanced creator tools
+* ✓Advanced Analytics
+
+\*Only Grok models are available on this plan
+
+### Premium
+
+Most popular
+
+$30/month
+
+[Get Premium](https://cursor.com/api/auth/checkoutDeepControl?tier=premium&yearly=false)
+
+Everything in Plus, and:
+
+4x
+
+more usage compared to Plus
+
+AI Features
+
+* ✓Latest Grok models
+* Cloud agents & automations
+* Code hosting & AI code reviews
+* Third-party models at API list price
+* Grok Bot
+* Faster Chat responses
+* Make stunning AI images & videos
+
+Features
+
+* ✓Ad-free scrolling on most surfaces
+* ✓Preferred @handle
+* ✓Higher reply boost
+
+\*3rd party models are available in Cursor, billed separately by usage
+
+### Super
+
+$100/month
+
+[Get Super](https://cursor.com/api/auth/checkoutDeepControl?tier=super&yearly=false)
+
+Everything in Premium, and:
+
+15x
+
+more usage compared to Plus
+
+AI Features
+
+* ✓Priority model access at peak times
+
+\*3rd party models are available in Cursor, billed separately by usage
+
+### Ultra
+
+$200/month
+
+[Get Ultra](https://cursor.com/api/auth/checkoutDeepControl?tier=unified_ultra&yearly=false)
+
+Everything in Super, and:
+
+50x
+
+more usage compared to Plus
+
+AI Features
+
+* ✓Earliest access to all products & models
+
+\*3rd party models are available in Cursor, billed separately by usage
+
+Prices shown do not include applicable taxes or fees (e.g. VAT). Third Party model usage in Cursor is not included in the monthly prices shown and must be purchased separately. View[usage charges](https://cursor.com/docs/models-and-pricing#other-models). [Cancel anytime](https://x.ai/legal/bundled-subscription-terms#cancel), at least 24 hours prior to renewal to avoid additional charges. Prices subject to change.
+
+## Compare features across plans
+
+| Feature | Free$0/month [Get started](/download) | Plus$8/month [Get Plus](https://cursor.com/api/auth/checkoutDeepControl?tier=plus&yearly=false) | Premium$30/month [Get Premium](https://cursor.com/api/auth/checkoutDeepControl?tier=premium&yearly=false) | Super$100/month [Get Super](https://cursor.com/api/auth/checkoutDeepControl?tier=super&yearly=false) | Ultra$200/month [Get Ultra](https://cursor.com/api/auth/checkoutDeepControl?tier=unified_ultra&yearly=false) | Teams$30+/user/month [Get Teams](https://grok.com/dashboard/members?modal=create-team&tier=premium) | EnterpriseCustom [Contact Sales](/contact-sales?source=pricing_enterprise) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Usage | Limited | Basic | 4x Plus | 15x Plus | 50x Plus | 4-50x Plus | Pooled |
+| Cursor |
+| Agent | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Cloud agents & automations | — | — | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Code hosting via Origin | — | — | ✓ | ✓ | ✓ | ✓ | ✓ |
+| AI code reviews via Bugbot | — | — | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Third-party models at API list price | — | — | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Team marketplace for internal rules, skills, and plugins | — | — | — | — | — | ✓ | ✓ |
+| Grok |
+| Chat | Limited | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Image generation (Imagine) | Limited | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Video generation | — | — | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Grok API access | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Grok Build | Limited | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Grok Bot | — | — | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Team management |
+| Centralized billing and administration | — | — | — | — | — | ✓ | ✓ |
+| Usage analytics | — | — | — | — | — | ✓ | ✓ |
+| Team-wide privacy settings | — | — | — | — | — | ✓ | ✓ |
+| Custom Chat data retention | — | — | — | — | — | ✓ | ✓ |
+| SAML/OIDC SSO | — | — | — | — | — | ✓ | ✓ |
+| Mix and match seat types | — | — | — | — | — | ✓ | ✓ |
+| Invoice/PO billing | — | — | — | — | — | — | ✓ |
+| SCIM seat management | — | — | — | — | — | — | ✓ |
+| Granular spend controls | — | — | — | — | — | — | ✓ |
+| Group-level settings and spend limits | — | — | — | — | — | — | ✓ |
+| Auto-run, browser, and network controls | — | — | — | — | — | — | ✓ |
+| Repository, model, and MCP access controls | — | — | — | — | — | — | ✓ |
+| Audit logs and service accounts | — | — | — | — | — | — | ✓ |
+| Access, network, and audit controls for Grok Bot | — | — | — | — | — | — | ✓ |
+| Additional benefits |
+| Priority model access at peak times | — | — | — | ✓ | ✓ | ✓ | ✓ |
+| Earliest access to all products & models | — | — | — | — | ✓ | By seat tier | ✓ |
+| Priority support | — | — | — | — | — | — | ✓ |
+| X |
+| Post, reply, and follow | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Premium checkmark | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Ad-free scrolling | — | Some surfaces | Most surfaces | Most surfaces | Most surfaces | Most surfaces | Most surfaces |
+| Get paid to post | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Edit posts | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Customize your experience | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Create longer posts | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Write Articles | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Media Studio | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Advanced Analytics | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Bookmark folders | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Offline videos | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Background video playback | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Create communities | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Download videos | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Highlights tab | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Creator Subscriptions | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Reply boost | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Radar Search | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+
+## Questions & Answers
+
+We recommend Premium for new AI users, Super for daily agent users, and Ultra for power users. Plus is recommended for social creators with limited AI usage. The Teams plan is recommended for professionals collaborating with others, and larger organizations that need invoicing, pooled usage, or advanced security should choose Enterprise.
+
+Self-serve plans support all major credit and debit cards. For invoice-based billing and wire transfers, please[contact us](https://cursor.com/contact-sales?source=pricing_faq) to discuss the Enterprise plan.
+
+Every tier includes a pool of AI usage shared across Cursor and Grok. Within Grok, the pool covers Chat, Imagine, Voice, and Bot. Higher tiers include larger pools, and usage costs vary by product. Your allowance refreshes weekly, so one heavy day never wipes out your whole month.
+
+If you reach your included usage, you can keep going with top-offs, or wait for your allowance to refresh. You'll always see your remaining usage in settings. See[our docs](/help/models-and-usage/usage-limits) for more details.
+
+Paid plans include Grok API access. API usage is billed separately at standard model rates and doesn't draw from your plan's usage pool. See[model pricing](https://docs.x.ai/developers/pricing).
+
+Plus includes Grok models only. Premium and above include generous usage of Grok models but do not include an allowance for third-party models. Third-party models remain available in Cursor at API list price. You pay for exactly what you use, and you can set spending caps to manage costs.
+
+All prices are exclusive of any applicable taxes. See our[Subscription Terms](https://x.ai/legal/bundled-subscription-terms) for more information.
+
+Admins can access usage information and key metrics through the[Admin Dashboard](/docs/account/teams/dashboard).
+
+Privacy mode can be enabled in settings or by a team admin. When it is enabled, we guarantee that code data is not used for training by us or our model providers. You can learn more on our[Security](/security) page.
+
+No. Subscriptions are only sold directly through X Subscription Corp. We do not authorize any resellers or third-party sellers. Subscriptions purchased from any other source are unauthorized and may be fraudulent, insecure, or obtained through abuse of our systems. These accounts may be suspended or terminated at any time. To protect your access and security, purchase the X Subscription only through our official website.
+
+## Get started with Cursor.
+
+[Download](/download)[Contact Sales](/contact-sales?source=pricing_footer)
+
+[Skip to content](#main)
+
+[Cursor](/home)
+
+[Sign in](/dashboard)[ContactContact sales](/contact-sales?source=navbar)[Download](/download)
+
+
+
+# Pricing
+
+### Free
+
+$0/month
+
+[Get started](/download)
+
+Get started with:
+
+Limited
+
+AI usage
+
+AI Features
+
+* Limited agent requests
+* Limited Chat requests
+
+Features
+
+* ✓Post, reply, and follow
+
+### Plus
+
+$8/month
+
+[Get Plus](https://cursor.com/api/auth/checkoutDeepControl?tier=plus&yearly=false)
+
+Our introductory plan:
+
+Shared
+
+AI usage pool
+
+AI Features
+
+* Cursor
+* Grok Chat, Voice, Imagine, and Build
+* Grok API access
+
+Features
+
+* ✓Premium checkmark
+* ✓Less timeline ads
+* ✓Enhanced creator tools
+* ✓Advanced Analytics
+
+\*Only Grok models are available on this plan
+
+### Premium
+
+Most popular
+
+$30/month
+
+[Get Premium](https://cursor.com/api/auth/checkoutDeepControl?tier=premium&yearly=false)
+
+Everything in Plus, and:
+
+4x
+
+more usage compared to Plus
+
+AI Features
+
+* ✓Latest Grok models
+* Cloud agents & automations
+* Code hosting & AI code reviews
+* Third-party models at API list price
+* Grok Bot
+* Faster Chat responses
+* Make stunning AI images & videos
+
+Features
+
+* ✓Ad-free scrolling on most surfaces
+* ✓Preferred @handle
+* ✓Higher reply boost
+
+\*3rd party models are available in Cursor, billed separately by usage
+
+### Super
+
+$100/month
+
+[Get Super](https://cursor.com/api/auth/checkoutDeepControl?tier=super&yearly=false)
+
+Everything in Premium, and:
+
+15x
+
+more usage compared to Plus
+
+AI Features
+
+* ✓Priority model access at peak times
+
+\*3rd party models are available in Cursor, billed separately by usage
+
+### Ultra
+
+$200/month
+
+[Get Ultra](https://cursor.com/api/auth/checkoutDeepControl?tier=unified_ultra&yearly=false)
+
+Everything in Super, and:
+
+50x
+
+more usage compared to Plus
+
+AI Features
+
+* ✓Earliest access to all products & models
+
+\*3rd party models are available in Cursor, billed separately by usage
+
+Prices shown do not include applicable taxes or fees (e.g. VAT). Third Party model usage in Cursor is not included in the monthly prices shown and must be purchased separately. View[usage charges](https://cursor.com/docs/models-and-pricing#other-models). [Cancel anytime](https://x.ai/legal/bundled-subscription-terms#cancel), at least 24 hours prior to renewal to avoid additional charges. Prices subject to change.
+
+## Compare features across plans
+
+| Feature | Free$0/month [Get started](/download) | Plus$8/month [Get Plus](https://cursor.com/api/auth/checkoutDeepControl?tier=plus&yearly=false) | Premium$30/month [Get Premium](https://cursor.com/api/auth/checkoutDeepControl?tier=premium&yearly=false) | Super$100/month [Get Super](https://cursor.com/api/auth/checkoutDeepControl?tier=super&yearly=false) | Ultra$200/month [Get Ultra](https://cursor.com/api/auth/checkoutDeepControl?tier=unified_ultra&yearly=false) | Teams$30+/user/month [Get Teams](https://grok.com/dashboard/members?modal=create-team&tier=premium) | EnterpriseCustom [Contact Sales](/contact-sales?source=pricing_enterprise) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Usage | Limited | Basic | 4x Plus | 15x Plus | 50x Plus | 4-50x Plus | Pooled |
+| Cursor |
+| Agent | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Cloud agents & automations | — | — | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Code hosting via Origin | — | — | ✓ | ✓ | ✓ | ✓ | ✓ |
+| AI code reviews via Bugbot | — | — | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Third-party models at API list price | — | — | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Team marketplace for internal rules, skills, and plugins | — | — | — | — | — | ✓ | ✓ |
+| Grok |
+| Chat | Limited | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Image generation (Imagine) | Limited | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Video generation | — | — | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Grok API access | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Grok Build | Limited | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Grok Bot | — | — | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Team management |
+| Centralized billing and administration | — | — | — | — | — | ✓ | ✓ |
+| Usage analytics | — | — | — | — | — | ✓ | ✓ |
+| Team-wide privacy settings | — | — | — | — | — | ✓ | ✓ |
+| Custom Chat data retention | — | — | — | — | — | ✓ | ✓ |
+| SAML/OIDC SSO | — | — | — | — | — | ✓ | ✓ |
+| Mix and match seat types | — | — | — | — | — | ✓ | ✓ |
+| Invoice/PO billing | — | — | — | — | — | — | ✓ |
+| SCIM seat management | — | — | — | — | — | — | ✓ |
+| Granular spend controls | — | — | — | — | — | — | ✓ |
+| Group-level settings and spend limits | — | — | — | — | — | — | ✓ |
+| Auto-run, browser, and network controls | — | — | — | — | — | — | ✓ |
+| Repository, model, and MCP access controls | — | — | — | — | — | — | ✓ |
+| Audit logs and service accounts | — | — | — | — | — | — | ✓ |
+| Access, network, and audit controls for Grok Bot | — | — | — | — | — | — | ✓ |
+| Additional benefits |
+| Priority model access at peak times | — | — | — | ✓ | ✓ | ✓ | ✓ |
+| Earliest access to all products & models | — | — | — | — | ✓ | By seat tier | ✓ |
+| Priority support | — | — | — | — | — | — | ✓ |
+| X |
+| Post, reply, and follow | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Premium checkmark | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Ad-free scrolling | — | Some surfaces | Most surfaces | Most surfaces | Most surfaces | Most surfaces | Most surfaces |
+| Get paid to post | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Edit posts | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Customize your experience | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Create longer posts | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Write Articles | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Media Studio | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Advanced Analytics | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Bookmark folders | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Offline videos | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Background video playback | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Create communities | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Download videos | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Highlights tab | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Creator Subscriptions | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Reply boost | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Radar Search | — | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+
+## Questions & Answers
+
+We recommend Premium for new AI users, Super for daily agent users, and Ultra for power users. Plus is recommended for social creators with limited AI usage. The Teams plan is recommended for professionals collaborating with others, and larger organizations that need invoicing, pooled usage, or advanced security should choose Enterprise.
+
+Self-serve plans support all major credit and debit cards. For invoice-based billing and wire transfers, please[contact us](https://cursor.com/contact-sales?source=pricing_faq) to discuss the Enterprise plan.
+
+Every tier includes a pool of AI usage shared across Cursor and Grok. Within Grok, the pool covers Chat, Imagine, Voice, and Bot. Higher tiers include larger pools, and usage costs vary by product. Your allowance refreshes weekly, so one heavy day never wipes out your whole month.
+
+If you reach your included usage, you can keep going with top-offs, or wait for your allowance to refresh. You'll always see your remaining usage in settings. See[our docs](/help/models-and-usage/usage-limits) for more details.
+
+Paid plans include Grok API access. API usage is billed separately at standard model rates and doesn't draw from your plan's usage pool. See[model pricing](https://docs.x.ai/developers/pricing).
+
+Plus includes Grok models only. Premium and above include generous usage of Grok models but do not include an allowance for third-party models. Third-party models remain available in Cursor at API list price. You pay for exactly what you use, and you can set spending caps to manage costs.
+
+All prices are exclusive of any applicable taxes. See our[Subscription Terms](https://x.ai/legal/bundled-subscription-terms) for more information.
+
+Admins can access usage information and key metrics through the[Admin Dashboard](/docs/account/teams/dashboard).
+
+Privacy mode can be enabled in settings or by a team admin. When it is enabled, we guarantee that code data is not used for training by us or our model providers. You can learn more on our[Security](/security) page.
+
+No. Subscriptions are only sold directly through X Subscription Corp. We do not authorize any resellers or third-party sellers. Subscriptions purchased from any other source are unauthorized and may be fraudulent, insecure, or obtained through abuse of our systems. These accounts may be suspended or terminated at any time. To protect your access and security, purchase the X Subscription only through our official website.
+
+## Get started with Cursor.
+
+[Download
+
+⤓](/download)[Contact Sales](/contact-sales?source=pricing_footer)

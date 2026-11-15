@@ -1,0 +1,285 @@
+[
+{
+"uuid": "393472af-5199-416f-a902-d54b39c6b192",
+"tool": "Gmail",
+"kind": "pricing",
+"url": "https://google.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "80b5a273-c0cf-43c1-8fc3-6e932905403c",
+"tool": "Google Apps Script",
+"kind": "pricing",
+"url": "https://google.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "9151e08a-71ac-49c9-917d-22618baf1181",
+"tool": "Google Calendar",
+"kind": "pricing",
+"url": "https://google.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "9a7b5523-f466-4792-a3f4-26a8bb796eaf",
+"tool": "Google Maps",
+"kind": "pricing",
+"url": "https://google.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "5ba5ca18-d8fb-44e9-ac0c-a357ea9176b3",
+"tool": "Google Sheets",
+"kind": "pricing",
+"url": "https://google.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "0ef4c93b-2950-462b-877c-8b5db2c4a328",
+"tool": "Google Workspace",
+"kind": "pricing",
+"url": "https://google.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "9ef840aa-91ee-4666-aa7a-624bfaf74b14",
+"tool": "Gong",
+"kind": "pricing",
+"url": "https://gong.io/pricing",
+"how": "guess",
+"status": "failed",
+"error": "empty/short content",
+"date": "2026-11-13"
+},
+{
+"uuid": "7a2ca665-7bae-4a53-9c17-a74847ff46d6",
+"tool": "Google Gemini",
+"kind": "pricing",
+"url": "https://gemini.google/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "4f1a1184-2802-4c65-a31c-1c48edc1d019",
+"tool": "Granola",
+"kind": "pricing",
+"url": "https://granola.ai/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 9762,
+"date": "2026-11-13"
+},
+{
+"uuid": "83469614-220b-4c56-aa5d-4a241e09ae82",
+"tool": "Graph.one",
+"kind": "pricing",
+"url": "https://graph.one/pricing",
+"how": "guess",
+"status": "failed",
+"chars": 803,
+"error": "not a pricing page (low pricing signal)",
+"date": "2026-11-13"
+},
+{
+"uuid": "3e0f37c0-8b2b-4744-9f2f-c864e8b4a2a6",
+"tool": "Grok",
+"kind": "pricing",
+"url": "https://x.ai/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 8504,
+"date": "2026-11-13"
+},
+{
+"uuid": "f2b687a8-8991-40b9-842c-c7d076855d87",
+"tool": "Groove",
+"kind": "pricing",
+"url": "https://groove.co/pricing",
+"how": "guess",
+"status": "failed",
+"chars": 3804,
+"error": "not a pricing page (low pricing signal)",
+"date": "2026-11-13"
+},
+{
+"uuid": "d40aadf6-ae1a-4617-99cf-89a9933ab482",
+"tool": "Guru",
+"kind": "pricing",
+"url": "https://getguru.com/pricing",
+"how": "guess",
+"status": "failed",
+"chars": 12136,
+"error": "not a pricing page (low pricing signal)",
+"date": "2026-11-13"
+},
+{
+"uuid": "66e77082-f23f-4ad3-a964-ee638d443eea",
+"tool": "Handy",
+"kind": "pricing",
+"url": "https://handy.computer/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "d74e28ef-c328-41a6-86b2-e03e456453fa",
+"tool": "Happenstance",
+"kind": "pricing",
+"url": "https://happenstance.ai/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 2463,
+"date": "2026-11-13"
+},
+{
+"uuid": "135142e7-4400-437a-98a8-f07c9aa97c27",
+"tool": "Heymarket",
+"kind": "pricing",
+"url": "https://heymarket.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "Error fetching content",
+"date": "2026-11-13"
+},
+{
+"uuid": "62130717-f9ed-48b5-be07-d0efd59e8029",
+"tool": "HeyReach",
+"kind": "pricing",
+"url": "https://heyreach.io/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 44692,
+"date": "2026-11-13"
+},
+{
+"uuid": "1b1e2e6c-14f0-416b-b57f-55d244c3290f",
+"tool": "HG Insights",
+"kind": "pricing",
+"url": "https://hginsights.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 5175,
+"date": "2026-11-13"
+},
+{
+"uuid": "14b0ab99-c4c8-4b5c-8475-e8d7f752e02b",
+"tool": "HitHorizons",
+"kind": "pricing",
+"url": "https://hithorizons.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "0464735f-cfb3-45e0-b191-62e5c5796563",
+"tool": "HubSpot",
+"kind": "pricing",
+"url": "https://hubspot.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "223483de-0d3c-4c60-a6f7-5b1a5063e231",
+"tool": "HubSpot Breeze",
+"kind": "pricing",
+"url": "https://hubspot.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "ba614197-ad12-489c-ad05-df938e49428e",
+"tool": "HubSpot Marketing Hub",
+"kind": "pricing",
+"url": "https://hubspot.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "9517b8aa-4716-4574-8196-e4ac34c1cba5",
+"tool": "HubSpot Service Hub",
+"kind": "pricing",
+"url": "https://hubspot.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "72e519a1-17dc-435e-88fb-7e53d9f91b9e",
+"tool": "Hunter.io",
+"kind": "pricing",
+"url": "https://hunter.io/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 15736,
+"date": "2026-11-13"
+},
+{
+"uuid": "efd07b8c-ef2a-4690-9a00-1989848728d0",
+"tool": "Hyperline",
+"kind": "pricing",
+"url": "https://hyperline.co/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 5828,
+"date": "2026-11-13"
+},
+{
+"uuid": "773076cf-c4d8-4322-81c4-ff674c6cf918",
+"tool": "Hyperspell",
+"kind": "pricing",
+"url": "https://hyperspell.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "0adc9532-feeb-4362-afef-390b89d0ebc4",
+"tool": "Indeed",
+"kind": "pricing",
+"url": "https://indeed.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "576a78ff-3232-4797-b742-4fa7a0f904bb",
+"tool": "Instantly",
+"kind": "pricing",
+"url": "https://instantly.ai/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 18290,
+"date": "2026-11-13"
+}
+]

@@ -1,0 +1,273 @@
+[
+{
+"uuid": "d984a4b8-1f2c-4ee3-b9bb-a1673b365f9b",
+"tool": "Optilyz",
+"kind": "pricing",
+"url": "https://optilyz.com/pricing",
+"how": "guess",
+"status": "failed",
+"chars": 1000,
+"error": "not a pricing page (low pricing signal)",
+"date": "2026-11-13"
+},
+{
+"uuid": "5ce02035-5a3b-40d7-aef0-b1986967972c",
+"tool": "Orum",
+"kind": "pricing",
+"url": "https://orum.com/pricing",
+"how": "link",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "2f475707-55d3-494a-b0a8-eab26d270345",
+"tool": "Outreach",
+"kind": "pricing",
+"url": "https://outreach.io/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 11556,
+"date": "2026-11-13"
+},
+{
+"uuid": "3856607c-059d-462a-8d84-10c193c58ea8",
+"tool": "Oxygen",
+"kind": "pricing",
+"url": "https://oxygen-agent.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 19226,
+"date": "2026-11-13"
+},
+{
+"uuid": "54af55a9-6187-43f3-b72b-d712d111f02e",
+"tool": "Pardot",
+"kind": "pricing",
+"url": "https://salesforce.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 26988,
+"date": "2026-11-13"
+},
+{
+"uuid": "546faced-6748-4e47-8999-0e50540f4f12",
+"tool": "Salesforce",
+"kind": "pricing",
+"url": "https://salesforce.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 26988,
+"date": "2026-11-13"
+},
+{
+"uuid": "ac54fe67-96f1-4b43-9a1e-6f20839fd9b2",
+"tool": "Salesforce (SFDC)",
+"kind": "pricing",
+"url": "https://salesforce.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 26988,
+"date": "2026-11-13"
+},
+{
+"uuid": "2ff249da-f4c5-4bda-9eb6-72f7ab1edde6",
+"tool": "Salesforce AppExchange",
+"kind": "pricing",
+"url": "https://salesforce.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 26988,
+"date": "2026-11-13"
+},
+{
+"uuid": "0134fff1-ada5-4225-901a-213299d63a79",
+"tool": "Salesforce CPQ",
+"kind": "pricing",
+"url": "https://salesforce.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 26988,
+"date": "2026-11-13"
+},
+{
+"uuid": "c7500102-b7f4-41ed-98ad-8344fe409b90",
+"tool": "Salesforce Experience Cloud",
+"kind": "pricing",
+"url": "https://salesforce.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 26988,
+"date": "2026-11-13"
+},
+{
+"uuid": "8ee63ce3-f198-458a-b712-299510b7d122",
+"tool": "Salesforce Revenue Cloud",
+"kind": "pricing",
+"url": "https://salesforce.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 26988,
+"date": "2026-11-13"
+},
+{
+"uuid": "48666941-41a5-4c70-b7c4-4cea967f48ab",
+"tool": "Salesforce Trailhead",
+"kind": "pricing",
+"url": "https://salesforce.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 26988,
+"date": "2026-11-13"
+},
+{
+"uuid": "29fdb9fb-cfba-4e02-9091-d2f807f932bd",
+"tool": "People.ai",
+"kind": "pricing",
+"url": "https://people.ai/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 10809,
+"date": "2026-11-13"
+},
+{
+"uuid": "6c9516a1-a583-4460-affd-9f3149770f9a",
+"tool": "Perplexity",
+"kind": "pricing",
+"url": "https://perplexity.ai/pricing",
+"how": "guess",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "a5d91af9-7b12-4320-a4d7-d71c6c270e3d",
+"tool": "PhariaAI (Aleph Alpha)",
+"kind": "pricing",
+"url": "https://aleph-alpha.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "06ef96a6-27fe-442e-a4d2-6ff9f9a1a94b",
+"tool": "Pigment",
+"kind": "pricing",
+"url": "https://pigment.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "7449ed07-54a4-482a-9737-d015deeef81a",
+"tool": "pipe0",
+"kind": "pricing",
+"url": "https://pipe0.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 3061,
+"date": "2026-11-13"
+},
+{
+"uuid": "6dd467b4-56ce-4975-88d1-7bfdd6a77cea",
+"tool": "Pipedrive",
+"kind": "pricing",
+"url": "https://pipedrive.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 8129,
+"date": "2026-11-13"
+},
+{
+"uuid": "0401f4a9-f033-44db-9b3f-28476943bd13",
+"tool": "Planable",
+"kind": "pricing",
+"url": "https://planable.io/pricing/",
+"how": "link",
+"status": "fetched",
+"chars": 41215,
+"date": "2026-11-13"
+},
+{
+"uuid": "466df87d-51ba-4def-8099-17e3fc5ff81f",
+"tool": "Playwright",
+"kind": "pricing",
+"url": "https://playwright.dev/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "1e3e74f3-b5b8-42cf-8c3d-6e49b85061d6",
+"tool": "PostgreSQL",
+"kind": "pricing",
+"url": "https://postgresql.org/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "156dfdc6-28d9-4bf2-bcca-8d565a45e628",
+"tool": "Postmark",
+"kind": "pricing",
+"url": "https://postmarkapp.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 9583,
+"date": "2026-11-13"
+},
+{
+"uuid": "b5b114fd-49e2-4944-bb00-dba20c7b35c5",
+"tool": "Predict Leads",
+"kind": "pricing",
+"url": "https://predictleads.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 4018,
+"date": "2026-11-13"
+},
+{
+"uuid": "07cb76da-5dbc-4349-8839-8fc41952d436",
+"tool": "Primeforge",
+"kind": "pricing",
+"url": "https://primeforge.ai/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 5246,
+"date": "2026-11-13"
+},
+{
+"uuid": "e4516e7c-5adf-438a-b95f-71462de0ec22",
+"tool": "Prospeo",
+"kind": "pricing",
+"url": "https://prospeo.io/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 18216,
+"date": "2026-11-13"
+},
+{
+"uuid": "f86b0466-7365-45c5-a530-98ed6bbd5e77",
+"tool": "PublicWWW",
+"kind": "pricing",
+"url": "https://publicwww.com/prices.html",
+"how": "link",
+"status": "fetched",
+"chars": 2090,
+"date": "2026-11-13"
+},
+{
+"uuid": "4e94e740-4442-4073-b6a0-206df2fa5830",
+"tool": "Puppeteer",
+"kind": "pricing",
+"url": "https://pptr.dev/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+}
+]

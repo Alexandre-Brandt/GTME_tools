@@ -1,0 +1,191 @@
+[
+{
+"uuid": "696a1b1a-8459-4676-bd9d-972919b397c3",
+"tool": "Langdock",
+"kind": "company",
+"url": "https://langdock.com",
+"status": "fetched",
+"chars": 2783,
+"date": "2026-11-13"
+},
+{
+"uuid": "696a1b1a-8459-4676-bd9d-972919b397c3",
+"tool": "Langdock",
+"kind": "product",
+"url": "https://langdock.com/products/assistants",
+"status": "fetched",
+"chars": 14137,
+"date": "2026-11-13"
+},
+{
+"uuid": "597e38ea-220b-47ea-8c77-864f8b24fdd6",
+"tool": "Leadfeeder",
+"kind": "company",
+"url": "https://leadfeeder.com",
+"status": "fetched",
+"chars": 16977,
+"date": "2026-11-13"
+},
+{
+"uuid": "597e38ea-220b-47ea-8c77-864f8b24fdd6",
+"tool": "Leadfeeder",
+"kind": "product",
+"url": "https://leadfeeder.com/web-visitors",
+"status": "fetched",
+"chars": 19254,
+"date": "2026-11-13"
+},
+{
+"uuid": "7be153d7-0da7-47f8-a125-552ac94a1690",
+"tool": "LeadMagic",
+"kind": "company",
+"url": "https://leadmagic.io",
+"status": "fetched",
+"chars": 9171,
+"date": "2026-11-13"
+},
+{
+"uuid": "7be153d7-0da7-47f8-a125-552ac94a1690",
+"tool": "LeadMagic",
+"kind": "product",
+"url": "https://www.leadmagic.io/product/email-validation",
+"status": "fetched",
+"chars": 11193,
+"date": "2026-11-13"
+},
+{
+"uuid": "bb92b726-1fba-4fdc-998a-7b6bb1fa85f1",
+"tool": "Leadsforge",
+"kind": "company",
+"url": "https://leadsforge.ai",
+"status": "fetched",
+"chars": 16509,
+"date": "2026-11-13"
+},
+{
+"uuid": "c3808006-75df-426f-9f69-bfaa1d8458cb",
+"tool": "LeanData",
+"kind": "company",
+"url": "https://leandata.com",
+"status": "fetched",
+"chars": 29709,
+"date": "2026-11-13"
+},
+{
+"uuid": "813a09db-1d78-4d20-ab4f-bb8b990621b9",
+"tool": "lemlist",
+"kind": "company",
+"url": "https://lemlist.com",
+"status": "fetched",
+"chars": 8261,
+"date": "2026-11-13"
+},
+{
+"uuid": "813a09db-1d78-4d20-ab4f-bb8b990621b9",
+"tool": "lemlist",
+"kind": "product",
+"url": "https://www.lemlist.com/sales-engagement",
+"status": "fetched",
+"chars": 12786,
+"date": "2026-11-13"
+},
+{
+"uuid": "8e56eda9-791b-440b-8a42-55292d8ee4bd",
+"tool": "Lightfield",
+"kind": "company",
+"url": "https://lightfield.app",
+"status": "fetched",
+"chars": 17687,
+"date": "2026-11-13"
+},
+{
+"uuid": "38877742-d144-4cfc-94b3-a21bbfdda312",
+"tool": "Lindy",
+"kind": "company",
+"url": "https://lindy.ai",
+"status": "fetched",
+"chars": 11833,
+"date": "2026-11-13"
+},
+{
+"uuid": "38877742-d144-4cfc-94b3-a21bbfdda312",
+"tool": "Lindy",
+"kind": "product",
+"url": "https://www.lindy.ai/solutions/email",
+"status": "fetched",
+"chars": 11748,
+"date": "2026-11-13"
+},
+{
+"uuid": "67f576ab-6da5-40af-b4d5-57535b19c131",
+"tool": "Linked Helper",
+"kind": "company",
+"url": "https://linkedhelper.com",
+"status": "fetched",
+"chars": 66112,
+"date": "2026-11-13"
+},
+{
+"uuid": "7f75f565-dece-4eaa-b0ea-b18880966949",
+"tool": "LinkedIn Ads",
+"kind": "company",
+"url": "https://linkedin.com",
+"status": "fetched",
+"chars": 10188,
+"date": "2026-11-13"
+},
+{
+"uuid": "ba1987d1-aff0-4b89-a658-a431854496d5",
+"tool": "LinkedIn Sales Navigator",
+"kind": "company",
+"url": "https://linkedin.com",
+"status": "fetched",
+"chars": 10188,
+"date": "2026-11-13"
+},
+{
+"uuid": "59dbafe1-c20f-40bb-b0a5-91d62c2b829d",
+"tool": "LinkedIn MCP Server",
+"kind": "product",
+"url": "https://github.com/stickerdaniel/linkedin-mcp-server",
+"status": "fetched",
+"chars": 68670,
+"date": "2026-11-13"
+},
+{
+"uuid": "8800eeea-9fa0-40fd-bdf1-cfcc95d55ea3",
+"tool": "Linkup",
+"kind": "company",
+"url": "https://linkup.so",
+"status": "fetched",
+"chars": 12008,
+"date": "2026-11-13"
+},
+{
+"uuid": "ac51dd57-2cf5-4055-8134-ef9735062b5b",
+"tool": "Livestorm",
+"kind": "company",
+"url": "https://livestorm.co",
+"status": "fetched",
+"chars": 7940,
+"date": "2026-11-13"
+},
+{
+"uuid": "76a4da1c-b44a-49c3-a429-d989889886d5",
+"tool": "Llama",
+"kind": "company",
+"url": "https://llama.com",
+"status": "fetched",
+"chars": 7469,
+"date": "2026-11-13"
+},
+{
+"uuid": "97ebf7b1-f17b-40f0-8b07-8a254ffeb08e",
+"tool": "Loom",
+"kind": "company",
+"url": "https://loom.com",
+"status": "fetched",
+"chars": 7120,
+"date": "2026-11-13"
+}
+]

@@ -1,0 +1,182 @@
+[
+{
+"uuid": "d8e74c12-0968-4147-98e1-d24a1b8fec3f",
+"tool": "Snowflake",
+"kind": "company",
+"url": "https://snowflake.com",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "2e500f5a-0629-42f3-88ee-7f62b34a20cc",
+"tool": "Subskribe",
+"kind": "company",
+"url": "https://subskribe.com",
+"status": "fetched",
+"chars": 18374,
+"date": "2026-11-13"
+},
+{
+"uuid": "8eca138a-7e39-419b-8c15-9298ff5d21be",
+"tool": "Supabase",
+"kind": "company",
+"url": "https://supabase.com",
+"status": "fetched",
+"chars": 14581,
+"date": "2026-11-13"
+},
+{
+"uuid": "cfe8f4bc-2f3a-433a-9d50-2a1f8c586357",
+"tool": "Superchat",
+"kind": "company",
+"url": "https://superchat.com",
+"status": "fetched",
+"chars": 14491,
+"date": "2026-11-13"
+},
+{
+"uuid": "5c6d42af-11f7-42ae-8bc3-d73e8184dccd",
+"tool": "Superhuman",
+"kind": "company",
+"url": "https://superhuman.com",
+"status": "fetched",
+"chars": 3872,
+"date": "2026-11-13"
+},
+{
+"uuid": "f7971779-e9c6-4043-aa62-dded0797aa8e",
+"tool": "Surfe",
+"kind": "company",
+"url": "https://surfe.com",
+"status": "fetched",
+"chars": 29705,
+"date": "2026-11-13"
+},
+{
+"uuid": "04d636b6-e7cf-4760-9dc3-0d3f2628f184",
+"tool": "Swarm",
+"kind": "company",
+"url": "https://theswarm.com",
+"status": "fetched",
+"chars": 29619,
+"date": "2026-11-13"
+},
+{
+"uuid": "8af0539d-9d3c-4f7b-8321-7254aa2702f4",
+"tool": "sweep.io",
+"kind": "company",
+"url": "https://sweep.io",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "4e642fcf-64ee-43a7-92f5-25c6a225042d",
+"tool": "Tableau",
+"kind": "company",
+"url": "https://tableau.com",
+"status": "fetched",
+"chars": 8675,
+"date": "2026-11-13"
+},
+{
+"uuid": "09fb00e1-2666-4978-98a6-febb469aa5f0",
+"tool": "Talon.One",
+"kind": "company",
+"url": "https://talon.one",
+"status": "fetched",
+"chars": 17392,
+"date": "2026-11-13"
+},
+{
+"uuid": "09fb00e1-2666-4978-98a6-febb469aa5f0",
+"tool": "Talon.One",
+"kind": "product",
+"url": "https://www.talon.one/promotion-engine",
+"status": "fetched",
+"chars": 7894,
+"date": "2026-11-13"
+},
+{
+"uuid": "7a65207c-7805-4b8e-a382-cc0e4fdc8b49",
+"tool": "Teamfluence",
+"kind": "company",
+"url": "https://teamfluence.com",
+"status": "fetched",
+"chars": 15679,
+"date": "2026-11-13"
+},
+{
+"uuid": "ee6b4442-b988-45d0-8351-5e82a7217cb5",
+"tool": "Telegram",
+"kind": "company",
+"url": "https://telegram.org",
+"status": "fetched",
+"chars": 3425,
+"date": "2026-11-13"
+},
+{
+"uuid": "be7f77d2-50a1-4f6f-b48a-3507edf8aa7e",
+"tool": "theirstack",
+"kind": "company",
+"url": "https://theirstack.com",
+"status": "fetched",
+"chars": 9747,
+"date": "2026-11-13"
+},
+{
+"uuid": "bac8475d-0f1b-48d4-b21d-6a3f0f9f1503",
+"tool": "TitanX",
+"kind": "company",
+"url": "https://titanx.io",
+"status": "fetched",
+"chars": 24366,
+"date": "2026-11-13"
+},
+{
+"uuid": "6a0e8edc-85a2-4d42-8aa4-4e5f943ad626",
+"tool": "tl;dv",
+"kind": "company",
+"url": "https://tldv.io",
+"status": "fetched",
+"chars": 11492,
+"date": "2026-11-13"
+},
+{
+"uuid": "e88bacd0-0548-42ff-a401-052207268f6a",
+"tool": "Tome",
+"kind": "company",
+"url": "https://tome.app",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "799eee50-51cb-4ae1-8e81-a3dc47f6558e",
+"tool": "Totango",
+"kind": "company",
+"url": "https://totango.com",
+"status": "fetched",
+"chars": 1204,
+"date": "2026-11-13"
+},
+{
+"uuid": "383bcd0e-9422-4a12-af40-5725ea992e80",
+"tool": "tray.ai",
+"kind": "company",
+"url": "https://tray.ai",
+"status": "fetched",
+"chars": 15119,
+"date": "2026-11-13"
+},
+{
+"uuid": "383bcd0e-9422-4a12-af40-5725ea992e80",
+"tool": "tray.ai",
+"kind": "product",
+"url": "https://tray.ai/solutions/ipaas",
+"status": "fetched",
+"chars": 14908,
+"date": "2026-11-13"
+}
+]

@@ -1,0 +1,128 @@
+[
+{
+"uuid": "1cda11dc-be76-4346-8135-7ec2956bf710",
+"tool": "Clay API (unofficial)",
+"kind": "company",
+"url": "https://claygenius.io",
+"status": "fetched",
+"chars": 977,
+"date": "2026-11-13"
+},
+{
+"uuid": "7355236a-65c9-4342-8f96-9620c3eefebb",
+"tool": "DeepSeek R1",
+"kind": "company",
+"url": "https://deepseek.com",
+"status": "failed",
+"error": "empty/short content",
+"date": "2026-11-13"
+},
+{
+"uuid": "f97dd5fb-6098-4f71-b9c2-019e7f7601f9",
+"tool": "FindyMail",
+"kind": "company",
+"url": "https://findymail.com",
+"status": "fetched",
+"chars": 19314,
+"date": "2026-11-13"
+},
+{
+"uuid": "f97dd5fb-6098-4f71-b9c2-019e7f7601f9",
+"tool": "FindyMail",
+"kind": "product",
+"url": "https://www.findymail.com/email-verifier/",
+"status": "fetched",
+"chars": 19314,
+"date": "2026-11-13"
+},
+{
+"uuid": "a09fd486-d373-44f5-95ad-14c5929ccc43",
+"tool": "G2",
+"kind": "company",
+"url": "https://g2.com",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "7a2ca665-7bae-4a53-9c17-a74847ff46d6",
+"tool": "Google Gemini",
+"kind": "company",
+"url": "https://gemini.google",
+"status": "fetched",
+"chars": 1377,
+"date": "2026-11-13"
+},
+{
+"uuid": "14b0ab99-c4c8-4b5c-8475-e8d7f752e02b",
+"tool": "HitHorizons",
+"kind": "company",
+"url": "https://hithorizons.com",
+"status": "fetched",
+"chars": 8754,
+"date": "2026-11-13"
+},
+{
+"uuid": "44937709-5871-4612-a358-e59063a5a350",
+"tool": "MyHammer",
+"kind": "company",
+"url": "https://my-hammer.de",
+"status": "fetched",
+"chars": 32577,
+"date": "2026-11-13"
+},
+{
+"uuid": "94459f42-8cd0-4117-ad34-22b99db54cec",
+"tool": "OpenRegister",
+"kind": "company",
+"url": "https://openregister.de",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "b25c714f-7efc-4b7b-866f-7a65051f79d5",
+"tool": "PhantomBuster",
+"kind": "company",
+"url": "https://phantombuster.com",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "d8e74c12-0968-4147-98e1-d24a1b8fec3f",
+"tool": "Snowflake",
+"kind": "company",
+"url": "https://snowflake.com",
+"status": "fetched",
+"chars": 15280,
+"date": "2026-11-13"
+},
+{
+"uuid": "8af0539d-9d3c-4f7b-8321-7254aa2702f4",
+"tool": "sweep.io",
+"kind": "company",
+"url": "https://sweep.io",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "e88bacd0-0548-42ff-a401-052207268f6a",
+"tool": "Tome",
+"kind": "company",
+"url": "https://tome.app",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "ecd4c740-9dd1-47b2-a978-ee6a36bc97cd",
+"tool": "XLR8",
+"kind": "company",
+"url": "https://getxlr8.ai",
+"status": "fetched",
+"chars": 20097,
+"date": "2026-11-13"
+}
+]

@@ -1,0 +1,182 @@
+[
+{
+"uuid": "e754e054-7a98-44bc-8996-24b0144de975",
+"tool": "Datagma",
+"kind": "company",
+"url": "https://datagma.com",
+"status": "fetched",
+"chars": 11104,
+"date": "2026-11-13"
+},
+{
+"uuid": "975da191-77af-4428-b136-ddcb2e6ccae7",
+"tool": "Day.ai",
+"kind": "company",
+"url": "https://day.ai",
+"status": "fetched",
+"chars": 7872,
+"date": "2026-11-13"
+},
+{
+"uuid": "16119bcf-a849-4162-98a0-5d7bbe1b8c15",
+"tool": "Dealfront",
+"kind": "company",
+"url": "https://dealfront.com",
+"status": "fetched",
+"chars": 11584,
+"date": "2026-11-13"
+},
+{
+"uuid": "43b7da90-a6df-4673-a108-282daa6931b9",
+"tool": "DealHub",
+"kind": "company",
+"url": "https://dealhub.io",
+"status": "fetched",
+"chars": 27268,
+"date": "2026-11-13"
+},
+{
+"uuid": "7355236a-65c9-4342-8f96-9620c3eefebb",
+"tool": "DeepSeek R1",
+"kind": "company",
+"url": "https://deepseek.com",
+"status": "failed",
+"error": "empty/short content",
+"date": "2026-11-13"
+},
+{
+"uuid": "71b7d99b-e6d0-4838-ba40-f0f9bf7a0b62",
+"tool": "Default",
+"kind": "company",
+"url": "https://default.com",
+"status": "fetched",
+"chars": 15770,
+"date": "2026-11-13"
+},
+{
+"uuid": "71b7d99b-e6d0-4838-ba40-f0f9bf7a0b62",
+"tool": "Default",
+"kind": "product",
+"url": "https://default.com/product/routing",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "2ea0308e-be94-4f4f-a76b-4a8287fc79ed",
+"tool": "Delphi.ai",
+"kind": "company",
+"url": "https://delphi.ai",
+"status": "fetched",
+"chars": 24180,
+"date": "2026-11-13"
+},
+{
+"uuid": "c0971dea-5cca-46a1-aad5-75428afa3b03",
+"tool": "Demodesk",
+"kind": "company",
+"url": "https://demodesk.com",
+"status": "fetched",
+"chars": 19411,
+"date": "2026-11-13"
+},
+{
+"uuid": "c0971dea-5cca-46a1-aad5-75428afa3b03",
+"tool": "Demodesk",
+"kind": "product",
+"url": "https://demodesk.com/agents/ai-assistant",
+"status": "fetched",
+"chars": 8440,
+"date": "2026-11-13"
+},
+{
+"uuid": "87fc909a-6c81-4ab4-882a-7824643e6b34",
+"tool": "Dialfire",
+"kind": "company",
+"url": "https://dialfire.com",
+"status": "fetched",
+"chars": 5722,
+"date": "2026-11-13"
+},
+{
+"uuid": "87fc909a-6c81-4ab4-882a-7824643e6b34",
+"tool": "Dialfire",
+"kind": "product",
+"url": "https://dialfire.com/en/features",
+"status": "fetched",
+"chars": 7109,
+"date": "2026-11-13"
+},
+{
+"uuid": "0de3321d-8e3a-4a11-bf6d-2f4f84323541",
+"tool": "DMARCDKIM.com",
+"kind": "company",
+"url": "https://dmarcdkim.com",
+"status": "fetched",
+"chars": 7543,
+"date": "2026-11-13"
+},
+{
+"uuid": "a1e5eb0e-84ae-423c-9814-344374966564",
+"tool": "DocuSign (docgen)",
+"kind": "company",
+"url": "https://docusign.com",
+"status": "fetched",
+"chars": 21220,
+"date": "2026-11-13"
+},
+{
+"uuid": "d8fd4ac7-e0de-4781-85d0-0641a7a1925b",
+"tool": "Drift",
+"kind": "company",
+"url": "https://drift.com",
+"status": "fetched",
+"chars": 7408,
+"date": "2026-11-13"
+},
+{
+"uuid": "3d00fb83-a635-4498-a1e2-c4254514aa35",
+"tool": "Dropcontact",
+"kind": "company",
+"url": "https://dropcontact.com",
+"status": "fetched",
+"chars": 16316,
+"date": "2026-11-13"
+},
+{
+"uuid": "dec40336-9a31-477b-8380-41a413cf0e18",
+"tool": "Dust",
+"kind": "company",
+"url": "https://dust.tt",
+"status": "fetched",
+"chars": 10786,
+"date": "2026-11-13"
+},
+{
+"uuid": "e2f1fa75-8a15-4f8b-a78d-1f0023be95bd",
+"tool": "Eloqua",
+"kind": "company",
+"url": "https://oracle.com",
+"status": "fetched",
+"chars": 536,
+"date": "2026-11-13"
+},
+{
+"uuid": "e2f1fa75-8a15-4f8b-a78d-1f0023be95bd",
+"tool": "Eloqua",
+"kind": "product",
+"url": "https://www.oracle.com/eloqua/",
+"status": "fetched",
+"chars": 15087,
+"date": "2026-11-13"
+},
+{
+"uuid": "ef4ecd0a-2206-412d-96ed-259b7fc04b53",
+"tool": "EmailGuard",
+"kind": "company",
+"url": "https://emailguard.io",
+"status": "fetched",
+"chars": 11685,
+"date": "2026-11-13"
+}
+]

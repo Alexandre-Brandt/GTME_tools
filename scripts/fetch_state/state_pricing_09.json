@@ -1,0 +1,213 @@
+[
+{
+"uuid": "00a825a7-789f-40bc-98cf-e88d4b720552",
+"tool": "Qontext",
+"kind": "pricing",
+"url": "https://qontext.ai/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 3755,
+"date": "2026-11-13"
+},
+{
+"uuid": "2014f45d-8e02-4a49-bdcb-3e442b4b8c24",
+"tool": "RapidAPI",
+"kind": "pricing",
+"url": "https://rapidapi.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "Failed to fetch url",
+"date": "2026-11-13"
+},
+{
+"uuid": "27c31a18-14e7-4a90-bf69-c0589b2ca6a1",
+"tool": "RB2B",
+"kind": "pricing",
+"url": "https://rb2b.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 7510,
+"date": "2026-11-13"
+},
+{
+"uuid": "4305759e-75d5-498a-8461-aec4b98e249d",
+"tool": "Re2.ai",
+"kind": "pricing",
+"url": "https://re2.ai/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 1530,
+"date": "2026-11-13"
+},
+{
+"uuid": "5f5b91c3-e830-4700-899d-38c7b868e11a",
+"tool": "Reachdesk",
+"kind": "pricing",
+"url": "https://reachdesk.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 17343,
+"date": "2026-11-13"
+},
+{
+"uuid": "a2e4101b-d6ac-4e5b-a105-db1d64410525",
+"tool": "registercheck.de",
+"kind": "pricing",
+"url": "https://registercheck.de/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "b8e33030-39f2-4a7b-a2e5-ed16278c9dc0",
+"tool": "Replit",
+"kind": "pricing",
+"url": "https://replit.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 2006,
+"date": "2026-11-13"
+},
+{
+"uuid": "426076f1-b096-4bf6-9caf-7e6ce54789e2",
+"tool": "Reply.io",
+"kind": "pricing",
+"url": "https://reply.io/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 62942,
+"date": "2026-11-13"
+},
+{
+"uuid": "3b18f534-38a2-477b-981e-3f3cff958198",
+"tool": "Retell API",
+"kind": "pricing",
+"url": "https://www.retellai.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 13142,
+"date": "2026-11-13"
+},
+{
+"uuid": "7653c821-009d-4e3f-888b-8b89a5036796",
+"tool": "Revenue Hero",
+"kind": "pricing",
+"url": "https://revenuehero.io/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 34925,
+"date": "2026-11-13"
+},
+{
+"uuid": "57f4d5b7-e6e0-4833-8659-57904de362ec",
+"tool": "Salesforce Agentforce",
+"kind": "pricing",
+"url": "https://salesforce.com/agentforce/pricing",
+"how": "known",
+"status": "fetched",
+"chars": 35652,
+"date": "2026-11-13"
+},
+{
+"uuid": "f1c3daa5-f7dd-42c8-a2cb-f8f3c67e07ad",
+"tool": "Salesforge",
+"kind": "pricing",
+"url": "https://salesforge.ai/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 12040,
+"date": "2026-11-13"
+},
+{
+"uuid": "6f479d3f-2d29-4c4f-9ba8-9866b3e90b74",
+"tool": "Salesloft",
+"kind": "pricing",
+"url": "https://salesloft.com/pricing",
+"how": "guess",
+"status": "failed",
+"chars": 5599,
+"error": "not a pricing page (low pricing signal)",
+"date": "2026-11-13"
+},
+{
+"uuid": "ad14578a-d5a8-4bee-89f2-2d90a15aaaa8",
+"tool": "SalesQL",
+"kind": "pricing",
+"url": "https://salesql.com/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 14669,
+"date": "2026-11-13"
+},
+{
+"uuid": "72523157-cf1a-45dd-b687-124d10b0f4ab",
+"tool": "SalesRobot",
+"kind": "pricing",
+"url": "https://salesrobot.co/pricing",
+"how": "link",
+"status": "fetched",
+"chars": 57781,
+"date": "2026-11-13"
+},
+{
+"uuid": "7854ceac-4a6b-482b-ab71-58ce1f4ddb7c",
+"tool": "SAP Analytics Cloud",
+"kind": "pricing",
+"url": "https://sap.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "967dbb1b-2814-49d0-b25b-701be1106b81",
+"tool": "SAP C4C",
+"kind": "pricing",
+"url": "https://sap.com/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+},
+{
+"uuid": "805f7aa4-7fce-4ad1-a646-0e6471065993",
+"tool": "SAP Integration Suite",
+"kind": "pricing",
+"url": "https://www.sap.com/products/technology-platform/integration-suite/pricing.html",
+"how": "known",
+"status": "fetched",
+"chars": 2191,
+"date": "2026-11-13"
+},
+{
+"uuid": "1bfad073-89f6-44c5-8758-1e3a3e512605",
+"tool": "ScaledMail",
+"kind": "pricing",
+"url": "https://scaledmail.com/pricing",
+"how": "guess",
+"status": "fetched",
+"chars": 2909,
+"date": "2026-11-13"
+},
+{
+"uuid": "74472259-1aa9-441e-aebd-680c92e4aab1",
+"tool": "Scripe",
+"kind": "pricing",
+"url": "https://scripe.io/pricing",
+"how": "known",
+"status": "fetched",
+"chars": 7705,
+"date": "2026-11-13"
+},
+{
+"uuid": "25d858c0-f4c5-402f-b4c1-0081b8c43913",
+"tool": "Sectorlens",
+"kind": "pricing",
+"url": "https://sectorlens.de/pricing",
+"how": "guess",
+"status": "failed",
+"error": "404 page not found",
+"date": "2026-11-13"
+}
+]

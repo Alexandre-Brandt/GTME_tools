@@ -1,0 +1,191 @@
+[
+{
+"uuid": "4e94e740-4442-4073-b6a0-206df2fa5830",
+"tool": "Puppeteer",
+"kind": "company",
+"url": "https://pptr.dev",
+"status": "fetched",
+"chars": 5110,
+"date": "2026-11-13"
+},
+{
+"uuid": "00a825a7-789f-40bc-98cf-e88d4b720552",
+"tool": "Qontext",
+"kind": "company",
+"url": "https://qontext.ai",
+"status": "fetched",
+"chars": 16902,
+"date": "2026-11-13"
+},
+{
+"uuid": "2014f45d-8e02-4a49-bdcb-3e442b4b8c24",
+"tool": "RapidAPI",
+"kind": "company",
+"url": "https://rapidapi.com",
+"status": "fetched",
+"chars": 1899,
+"date": "2026-11-13"
+},
+{
+"uuid": "27c31a18-14e7-4a90-bf69-c0589b2ca6a1",
+"tool": "RB2B",
+"kind": "company",
+"url": "https://rb2b.com",
+"status": "fetched",
+"chars": 11042,
+"date": "2026-11-13"
+},
+{
+"uuid": "4305759e-75d5-498a-8461-aec4b98e249d",
+"tool": "Re2.ai",
+"kind": "company",
+"url": "https://re2.ai",
+"status": "fetched",
+"chars": 6488,
+"date": "2026-11-13"
+},
+{
+"uuid": "5f5b91c3-e830-4700-899d-38c7b868e11a",
+"tool": "Reachdesk",
+"kind": "company",
+"url": "https://reachdesk.com",
+"status": "fetched",
+"chars": 35057,
+"date": "2026-11-13"
+},
+{
+"uuid": "5f5b91c3-e830-4700-899d-38c7b868e11a",
+"tool": "Reachdesk",
+"kind": "product",
+"url": "https://reachdesk.com/features",
+"status": "fetched",
+"chars": 33497,
+"date": "2026-11-13"
+},
+{
+"uuid": "a2e4101b-d6ac-4e5b-a105-db1d64410525",
+"tool": "registercheck.de",
+"kind": "company",
+"url": "https://registercheck.de",
+"status": "fetched",
+"chars": 2844,
+"date": "2026-11-13"
+},
+{
+"uuid": "a2e4101b-d6ac-4e5b-a105-db1d64410525",
+"tool": "registercheck.de",
+"kind": "product",
+"url": "https://www.registercheck.de/produkte/explorer",
+"status": "fetched",
+"chars": 6491,
+"date": "2026-11-13"
+},
+{
+"uuid": "b8e33030-39f2-4a7b-a2e5-ed16278c9dc0",
+"tool": "Replit",
+"kind": "company",
+"url": "https://replit.com",
+"status": "fetched",
+"chars": 17837,
+"date": "2026-11-13"
+},
+{
+"uuid": "426076f1-b096-4bf6-9caf-7e6ce54789e2",
+"tool": "Reply.io",
+"kind": "company",
+"url": "https://reply.io",
+"status": "fetched",
+"chars": 52961,
+"date": "2026-11-13"
+},
+{
+"uuid": "3b18f534-38a2-477b-981e-3f3cff958198",
+"tool": "Retell API",
+"kind": "company",
+"url": "https://retellai.com",
+"status": "fetched",
+"chars": 18771,
+"date": "2026-11-13"
+},
+{
+"uuid": "7653c821-009d-4e3f-888b-8b89a5036796",
+"tool": "Revenue Hero",
+"kind": "company",
+"url": "https://revenuehero.io",
+"status": "fetched",
+"chars": 24211,
+"date": "2026-11-13"
+},
+{
+"uuid": "7653c821-009d-4e3f-888b-8b89a5036796",
+"tool": "Revenue Hero",
+"kind": "product",
+"url": "https://www.revenuehero.io/routing",
+"status": "fetched",
+"chars": 14261,
+"date": "2026-11-13"
+},
+{
+"uuid": "546faced-6748-4e47-8999-0e50540f4f12",
+"tool": "Salesforce",
+"kind": "product",
+"url": "https://www.salesforce.com/crm",
+"status": "fetched",
+"chars": 17396,
+"date": "2026-11-13"
+},
+{
+"uuid": "ac54fe67-96f1-4b43-9a1e-6f20839fd9b2",
+"tool": "Salesforce (SFDC)",
+"kind": "product",
+"url": "https://www.salesforce.com/crm",
+"status": "fetched",
+"chars": 17396,
+"date": "2026-11-13"
+},
+{
+"uuid": "2ff249da-f4c5-4bda-9eb6-72f7ab1edde6",
+"tool": "Salesforce AppExchange",
+"kind": "product",
+"url": "https://appexchange.salesforce.com/",
+"status": "fetched",
+"chars": 1986,
+"date": "2026-11-13"
+},
+{
+"uuid": "0134fff1-ada5-4225-901a-213299d63a79",
+"tool": "Salesforce CPQ",
+"kind": "product",
+"url": "https://salesforce.com/cpq",
+"status": "fetched",
+"chars": 13160,
+"date": "2026-11-13"
+},
+{
+"uuid": "8ee63ce3-f198-458a-b712-299510b7d122",
+"tool": "Salesforce Revenue Cloud",
+"kind": "product",
+"url": "https://www.salesforce.com/sales/revenue-lifecycle-management/revenue-cloud/",
+"status": "fetched",
+"chars": 32354,
+"date": "2026-11-13"
+},
+{
+"uuid": "f1c3daa5-f7dd-42c8-a2cb-f8f3c67e07ad",
+"tool": "Salesforge",
+"kind": "company",
+"url": "https://salesforge.ai",
+"status": "fetched",
+"chars": 21234,
+"date": "2026-11-13"
+},
+{
+"uuid": "6f479d3f-2d29-4c4f-9ba8-9866b3e90b74",
+"tool": "Salesloft",
+"kind": "company",
+"url": "https://salesloft.com",
+"status": "fetched",
+"chars": 3804,
+"date": "2026-11-13"
+}
+]

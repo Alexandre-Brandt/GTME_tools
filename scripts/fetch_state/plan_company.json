@@ -1,0 +1,2446 @@
+{
+"units": [
+{
+"uuid": "d8532335-060c-43ec-843f-53c88fe1cb32",
+"tool": "11x",
+"kind": "company",
+"url": "https://11x.ai"
+},
+{
+"uuid": "1127cd0f-a8ff-432e-9014-05b5a078cefb",
+"tool": "AgentGPT",
+"kind": "company",
+"url": "https://reworkd.ai"
+},
+{
+"uuid": "1127cd0f-a8ff-432e-9014-05b5a078cefb",
+"tool": "AgentGPT",
+"kind": "product",
+"url": "https://agentgpt.reworkd.ai"
+},
+{
+"uuid": "d3cb64fa-15c7-442a-9c0c-0985a7e287c7",
+"tool": "Aimfox",
+"kind": "company",
+"url": "https://aimfox.com"
+},
+{
+"uuid": "07d1434a-223e-4cc6-9031-bb361976fadc",
+"tool": "Aircall",
+"kind": "company",
+"url": "https://aircall.io"
+},
+{
+"uuid": "07d1434a-223e-4cc6-9031-bb361976fadc",
+"tool": "Aircall",
+"kind": "product",
+"url": "https://aircall.io/call-center-software-features/"
+},
+{
+"uuid": "053fddb9-d2ae-42c2-a13d-dc0dcdf85230",
+"tool": "Airtable",
+"kind": "company",
+"url": "https://airtable.com"
+},
+{
+"uuid": "c276428e-2a78-4cd5-8625-bd41007b84e1",
+"tool": "Airtop",
+"kind": "company",
+"url": "https://airtop.ai"
+},
+{
+"uuid": "a86a6990-a205-4644-94fa-459384dc4b56",
+"tool": "Albacross",
+"kind": "company",
+"url": "https://albacross.com"
+},
+{
+"uuid": "a86a6990-a205-4644-94fa-459384dc4b56",
+"tool": "Albacross",
+"kind": "product",
+"url": "https://try.albacross.com/visitor-tracking"
+},
+{
+"uuid": "5f0c0f63-d894-433e-a4ea-74be5cd0bffe",
+"tool": "Alfa",
+"kind": "company",
+"url": "https://getalfa.ai"
+},
+{
+"uuid": "6c8a867d-ec47-4039-9a3c-0f1c13a45a10",
+"tool": "AlignedUp",
+"kind": "company",
+"url": "https://alignedup.com"
+},
+{
+"uuid": "ba17332e-1bf3-4e01-a6cb-eedfd3950609",
+"tool": "Along",
+"kind": "company",
+"url": "https://alongspace.com"
+},
+{
+"uuid": "fac0a812-40ca-4e02-bdf9-54403726dab3",
+"tool": "Amplemarket",
+"kind": "company",
+"url": "https://amplemarket.com"
+},
+{
+"uuid": "081c5701-061a-455d-9914-f1c8e163cef2",
+"tool": "Apify",
+"kind": "company",
+"url": "https://apify.com"
+},
+{
+"uuid": "f1f3f3f8-6a86-4cb0-a0ad-de2bb50f470e",
+"tool": "Apollo.io",
+"kind": "company",
+"url": "https://apollo.io"
+},
+{
+"uuid": "3685af13-bc0a-4e6d-8662-61d2bb37ecb1",
+"tool": "AskElephant",
+"kind": "company",
+"url": "https://askelephant.ai"
+},
+{
+"uuid": "3685af13-bc0a-4e6d-8662-61d2bb37ecb1",
+"tool": "AskElephant",
+"kind": "product",
+"url": "https://askelephant.ai/product/ai-chat"
+},
+{
+"uuid": "0acc11e8-705f-450a-901f-507666838eb8",
+"tool": "Attention",
+"kind": "company",
+"url": "https://attention.com"
+},
+{
+"uuid": "0acc11e8-705f-450a-901f-507666838eb8",
+"tool": "Attention",
+"kind": "product",
+"url": "https://www.attention.com/ads/conversation-intelligence-software/"
+},
+{
+"uuid": "cd48c8bf-ea97-457b-a359-8b9f84b98de4",
+"tool": "axiom.ai",
+"kind": "company",
+"url": "https://axiom.ai"
+},
+{
+"uuid": "cd48c8bf-ea97-457b-a359-8b9f84b98de4",
+"tool": "axiom.ai",
+"kind": "product",
+"url": "https://axiom.ai/web-automation"
+},
+{
+"uuid": "c94269d0-fab9-4049-ba75-c5623c25f592",
+"tool": "BetterContact",
+"kind": "company",
+"url": "https://bettercontact.rocks"
+},
+{
+"uuid": "fc41dcab-deeb-4cfd-86d0-f1f1f9be59fb",
+"tool": "Bison",
+"kind": "company",
+"url": "https://emailbison.com"
+},
+{
+"uuid": "db005d74-2616-44e7-a744-968a7373d6bb",
+"tool": "BlitzAPI",
+"kind": "company",
+"url": "https://blitz-api.ai"
+},
+{
+"uuid": "4e3d1031-a7bf-4670-a2c0-bb08de486a11",
+"tool": "Booking.com",
+"kind": "company",
+"url": "https://booking.com"
+},
+{
+"uuid": "d35a6145-3275-4271-ba04-ec2a081447d6",
+"tool": "BookStack",
+"kind": "company",
+"url": "https://bookstackapp.com"
+},
+{
+"uuid": "42e05288-af2c-4034-9aee-a444dded7ba9",
+"tool": "Botdog",
+"kind": "company",
+"url": "https://botdog.co"
+},
+{
+"uuid": "9842aad7-5f0e-4f02-9f69-2ead4586c126",
+"tool": "BounceBan",
+"kind": "company",
+"url": "https://bounceban.com"
+},
+{
+"uuid": "b217dc18-77da-45c5-90ab-57cc476509d4",
+"tool": "Brevo",
+"kind": "company",
+"url": "https://brevo.com"
+},
+{
+"uuid": "6aa7b993-8efa-4a92-aa63-5e8555a194a0",
+"tool": "Bright Data",
+"kind": "company",
+"url": "https://brightdata.com"
+},
+{
+"uuid": "2c5511a8-e345-46d0-8873-efda410f10da",
+"tool": "BuiltWith",
+"kind": "company",
+"url": "https://builtwith.com"
+},
+{
+"uuid": "612d298f-ed63-4cb0-b2c3-9c743a71e2e8",
+"tool": "Cacheflow",
+"kind": "company",
+"url": "https://getcacheflow.com"
+},
+{
+"uuid": "2b5b10f3-58d0-433c-ae22-820b6299dafd",
+"tool": "Calendly",
+"kind": "company",
+"url": "https://calendly.com"
+},
+{
+"uuid": "2aa4931d-1dd7-446b-91ff-c59527aaeb85",
+"tool": "Catalyst",
+"kind": "company",
+"url": "https://catalyst.io"
+},
+{
+"uuid": "ba0d87f9-a6b1-481b-be4f-23e6b3ee1522",
+"tool": "Cello",
+"kind": "company",
+"url": "https://cello.so"
+},
+{
+"uuid": "ba0d87f9-a6b1-481b-be4f-23e6b3ee1522",
+"tool": "Cello",
+"kind": "product",
+"url": "https://cello.so/product-overview/affiliate-referrals/"
+},
+{
+"uuid": "115d558b-48bf-4cae-b7c0-874fff1c0e89",
+"tool": "Chargebee",
+"kind": "company",
+"url": "https://chargebee.com"
+},
+{
+"uuid": "2de5b638-cee7-4f41-a736-3512780fcc96",
+"tool": "ChartMogul",
+"kind": "company",
+"url": "https://chartmogul.com"
+},
+{
+"uuid": "c5a459b7-a555-4705-b428-1992b69de902",
+"tool": "ChatGPT / OpenAI",
+"kind": "company",
+"url": "https://openai.com"
+},
+{
+"uuid": "ab7e3b7f-2648-4369-8506-7df16d36eb2d",
+"tool": "Clari",
+"kind": "company",
+"url": "https://clari.com"
+},
+{
+"uuid": "da417a13-1b1e-4f3a-a3ff-4c1599fb5c50",
+"tool": "Claude / Anthropic",
+"kind": "company",
+"url": "https://anthropic.com"
+},
+{
+"uuid": "da417a13-1b1e-4f3a-a3ff-4c1599fb5c50",
+"tool": "Claude / Anthropic",
+"kind": "product",
+"url": "https://claude.com"
+},
+{
+"uuid": "b729c8c5-5120-44bc-8b0b-b53f62281a0a",
+"tool": "Claude Agent SDK",
+"kind": "company",
+"url": "https://anthropic.com"
+},
+{
+"uuid": "58871959-b679-455d-9a32-52127fc38bc1",
+"tool": "Claude Code",
+"kind": "company",
+"url": "https://anthropic.com"
+},
+{
+"uuid": "e80df2fb-2513-40eb-8047-3554bf0a34a6",
+"tool": "Claude Cowork",
+"kind": "company",
+"url": "https://anthropic.com"
+},
+{
+"uuid": "1cda11dc-be76-4346-8135-7ec2956bf710",
+"tool": "Clay API (unofficial)",
+"kind": "company",
+"url": "https://claygenius.io"
+},
+{
+"uuid": "d74164ef-d885-4789-9615-e2deef22e187",
+"tool": "Clay Chrome extension (Frontier)",
+"kind": "company",
+"url": "https://clay.com"
+},
+{
+"uuid": "9d27aecb-5408-406e-ad22-488bbffca5f2",
+"tool": "Claygent",
+"kind": "company",
+"url": "https://clay.com"
+},
+{
+"uuid": "9d27aecb-5408-406e-ad22-488bbffca5f2",
+"tool": "Claygent",
+"kind": "product",
+"url": "https://www.clay.com/claygent"
+},
+{
+"uuid": "0914c9cc-b79d-49bf-b0d2-2f52922a5f88",
+"tool": "Clearbit",
+"kind": "company",
+"url": "https://clearbit.com"
+},
+{
+"uuid": "850dd538-7bc8-4bfc-9012-0a1e9d4b5dec",
+"tool": "Clearcue",
+"kind": "company",
+"url": "https://clearcue.ai"
+},
+{
+"uuid": "ca01bb3f-2386-457d-975f-50d6b2f2a3d3",
+"tool": "Close CRM",
+"kind": "company",
+"url": "https://close.com"
+},
+{
+"uuid": "1ffdbc61-d59b-4d8f-a5a2-9a5659749ba4",
+"tool": "Closely",
+"kind": "company",
+"url": "https://closelyhq.com"
+},
+{
+"uuid": "6ce484a6-64fe-4bfc-92c7-a2bcdf8e1e39",
+"tool": "CloudTalk",
+"kind": "company",
+"url": "https://cloudtalk.io"
+},
+{
+"uuid": "fa159f36-684f-4b40-93a6-1b2e9adddb29",
+"tool": "Cognee",
+"kind": "company",
+"url": "https://cognee.ai"
+},
+{
+"uuid": "1f728191-7949-4748-bdaa-5541887a5efd",
+"tool": "Cognism",
+"kind": "company",
+"url": "https://cognism.com"
+},
+{
+"uuid": "54b9f59c-df82-4f27-a4da-2da754dadcda",
+"tool": "Confluence",
+"kind": "company",
+"url": "https://atlassian.com"
+},
+{
+"uuid": "54b9f59c-df82-4f27-a4da-2da754dadcda",
+"tool": "Confluence",
+"kind": "product",
+"url": "https://www.atlassian.com/software/confluence/knowledge-base"
+},
+{
+"uuid": "2c684fcc-f87f-4061-b14f-126c0a205a3a",
+"tool": "copy.ai",
+"kind": "company",
+"url": "https://copy.ai"
+},
+{
+"uuid": "2c684fcc-f87f-4061-b14f-126c0a205a3a",
+"tool": "copy.ai",
+"kind": "product",
+"url": "https://www.copy.ai/platform/building-workflows"
+},
+{
+"uuid": "c97f2ec7-2bd4-4daf-be12-6b1224f1b714",
+"tool": "Cost",
+"kind": "company",
+"url": "https://lcobuilder.com"
+},
+{
+"uuid": "8aa14c0f-1b00-4fd4-8e88-aa4f5bebddd6",
+"tool": "Cursor",
+"kind": "company",
+"url": "https://cursor.com"
+},
+{
+"uuid": "759eb9ec-6689-4abb-808c-1b87ec27a49f",
+"tool": "DALL-E",
+"kind": "company",
+"url": "https://openai.com"
+},
+{
+"uuid": "52a1b2e5-b718-425d-ad6f-69891c6c96fe",
+"tool": "DataCamp",
+"kind": "company",
+"url": "https://datacamp.com"
+},
+{
+"uuid": "e754e054-7a98-44bc-8996-24b0144de975",
+"tool": "Datagma",
+"kind": "company",
+"url": "https://datagma.com"
+},
+{
+"uuid": "975da191-77af-4428-b136-ddcb2e6ccae7",
+"tool": "Day.ai",
+"kind": "company",
+"url": "https://day.ai"
+},
+{
+"uuid": "16119bcf-a849-4162-98a0-5d7bbe1b8c15",
+"tool": "Dealfront",
+"kind": "company",
+"url": "https://dealfront.com"
+},
+{
+"uuid": "43b7da90-a6df-4673-a108-282daa6931b9",
+"tool": "DealHub",
+"kind": "company",
+"url": "https://dealhub.io"
+},
+{
+"uuid": "7355236a-65c9-4342-8f96-9620c3eefebb",
+"tool": "DeepSeek R1",
+"kind": "company",
+"url": "https://deepseek.com"
+},
+{
+"uuid": "71b7d99b-e6d0-4838-ba40-f0f9bf7a0b62",
+"tool": "Default",
+"kind": "company",
+"url": "https://default.com"
+},
+{
+"uuid": "71b7d99b-e6d0-4838-ba40-f0f9bf7a0b62",
+"tool": "Default",
+"kind": "product",
+"url": "https://default.com/product/routing"
+},
+{
+"uuid": "2ea0308e-be94-4f4f-a76b-4a8287fc79ed",
+"tool": "Delphi.ai",
+"kind": "company",
+"url": "https://delphi.ai"
+},
+{
+"uuid": "c0971dea-5cca-46a1-aad5-75428afa3b03",
+"tool": "Demodesk",
+"kind": "company",
+"url": "https://demodesk.com"
+},
+{
+"uuid": "c0971dea-5cca-46a1-aad5-75428afa3b03",
+"tool": "Demodesk",
+"kind": "product",
+"url": "https://demodesk.com/agents/ai-assistant"
+},
+{
+"uuid": "87fc909a-6c81-4ab4-882a-7824643e6b34",
+"tool": "Dialfire",
+"kind": "company",
+"url": "https://dialfire.com"
+},
+{
+"uuid": "87fc909a-6c81-4ab4-882a-7824643e6b34",
+"tool": "Dialfire",
+"kind": "product",
+"url": "https://dialfire.com/en/features"
+},
+{
+"uuid": "0de3321d-8e3a-4a11-bf6d-2f4f84323541",
+"tool": "DMARCDKIM.com",
+"kind": "company",
+"url": "https://dmarcdkim.com"
+},
+{
+"uuid": "a1e5eb0e-84ae-423c-9814-344374966564",
+"tool": "DocuSign (docgen)",
+"kind": "company",
+"url": "https://docusign.com"
+},
+{
+"uuid": "d8fd4ac7-e0de-4781-85d0-0641a7a1925b",
+"tool": "Drift",
+"kind": "company",
+"url": "https://drift.com"
+},
+{
+"uuid": "3d00fb83-a635-4498-a1e2-c4254514aa35",
+"tool": "Dropcontact",
+"kind": "company",
+"url": "https://dropcontact.com"
+},
+{
+"uuid": "dec40336-9a31-477b-8380-41a413cf0e18",
+"tool": "Dust",
+"kind": "company",
+"url": "https://dust.tt"
+},
+{
+"uuid": "e2f1fa75-8a15-4f8b-a78d-1f0023be95bd",
+"tool": "Eloqua",
+"kind": "company",
+"url": "https://oracle.com"
+},
+{
+"uuid": "e2f1fa75-8a15-4f8b-a78d-1f0023be95bd",
+"tool": "Eloqua",
+"kind": "product",
+"url": "https://www.oracle.com/eloqua/"
+},
+{
+"uuid": "ef4ecd0a-2206-412d-96ed-259b7fc04b53",
+"tool": "EmailGuard",
+"kind": "company",
+"url": "https://emailguard.io"
+},
+{
+"uuid": "d5398df0-956b-47ba-a0f4-9a0393b0732e",
+"tool": "Emlen",
+"kind": "company",
+"url": "https://emlen.io"
+},
+{
+"uuid": "eb8bf39a-c8c5-4abd-b8c1-b15d6f28d2e3",
+"tool": "Everflow",
+"kind": "company",
+"url": "https://everflow.io"
+},
+{
+"uuid": "f7c79b1b-34c8-4a46-8e86-da78e22d45ea",
+"tool": "Exa",
+"kind": "company",
+"url": "https://exa.ai"
+},
+{
+"uuid": "ff514712-3dc1-483d-9605-a1a320941b7c",
+"tool": "Facebook Ads",
+"kind": "company",
+"url": "https://facebook.com"
+},
+{
+"uuid": "ff514712-3dc1-483d-9605-a1a320941b7c",
+"tool": "Facebook Ads",
+"kind": "product",
+"url": "https://www.facebook.com/business/tools/ads-manager"
+},
+{
+"uuid": "f97dd5fb-6098-4f71-b9c2-019e7f7601f9",
+"tool": "FindyMail",
+"kind": "company",
+"url": "https://findymail.com"
+},
+{
+"uuid": "f97dd5fb-6098-4f71-b9c2-019e7f7601f9",
+"tool": "FindyMail",
+"kind": "product",
+"url": "https://www.findymail.com/email-verifier/"
+},
+{
+"uuid": "48d84a21-1f2e-4873-8ca9-5d256fa5ca06",
+"tool": "Firecrawl",
+"kind": "company",
+"url": "https://firecrawl.dev"
+},
+{
+"uuid": "6877a1ef-a6f5-4f3c-aa76-e32ad6f06cfc",
+"tool": "Fivetran",
+"kind": "company",
+"url": "https://fivetran.com"
+},
+{
+"uuid": "32204ba4-00bc-4f56-996b-2aea373e8d17",
+"tool": "Flowla",
+"kind": "company",
+"url": "https://flowla.com"
+},
+{
+"uuid": "32204ba4-00bc-4f56-996b-2aea373e8d17",
+"tool": "Flowla",
+"kind": "product",
+"url": "https://flowla.com/digital-sales-rooms"
+},
+{
+"uuid": "b5db1bdf-09bc-4a28-b757-dc9105568c3f",
+"tool": "Forager",
+"kind": "company",
+"url": "https://forager.ai"
+},
+{
+"uuid": "c59d593b-928c-4b62-bf3b-230775736f59",
+"tool": "Framer",
+"kind": "company",
+"url": "https://framer.com"
+},
+{
+"uuid": "c59d593b-928c-4b62-bf3b-230775736f59",
+"tool": "Framer",
+"kind": "product",
+"url": "https://www.framer.com/website-builder"
+},
+{
+"uuid": "fe76df0c-6dc7-4584-91ad-0f648bb008fe",
+"tool": "Freckle",
+"kind": "company",
+"url": "https://freckle.io"
+},
+{
+"uuid": "b7e7b4c2-73fb-4156-be97-632316f52097",
+"tool": "FullEnrich",
+"kind": "company",
+"url": "https://fullenrich.com"
+},
+{
+"uuid": "a09fd486-d373-44f5-95ad-14c5929ccc43",
+"tool": "G2",
+"kind": "company",
+"url": "https://g2.com"
+},
+{
+"uuid": "37c75747-15c5-4479-b0bb-51407f61c129",
+"tool": "Gainsight",
+"kind": "company",
+"url": "https://gainsight.com"
+},
+{
+"uuid": "37c75747-15c5-4479-b0bb-51407f61c129",
+"tool": "Gainsight",
+"kind": "product",
+"url": "https://www.gainsight.com/solutions/gainsight-for-customer-success-teams/"
+},
+{
+"uuid": "f4889613-2d23-4ae0-8ccb-b35f7085f91e",
+"tool": "Gamma",
+"kind": "company",
+"url": "https://gamma.app"
+},
+{
+"uuid": "7dd4552c-4114-4763-b4d3-5cde83ec6a31",
+"tool": "GitHub",
+"kind": "company",
+"url": "https://github.com"
+},
+{
+"uuid": "4d61614b-c681-4d45-a9bf-6e6532fb3519",
+"tool": "Glyphic",
+"kind": "company",
+"url": "https://glyphic.ai"
+},
+{
+"uuid": "393472af-5199-416f-a902-d54b39c6b192",
+"tool": "Gmail",
+"kind": "company",
+"url": "https://google.com"
+},
+{
+"uuid": "393472af-5199-416f-a902-d54b39c6b192",
+"tool": "Gmail",
+"kind": "product",
+"url": "https://workspace.google.com/products/gmail"
+},
+{
+"uuid": "9ef840aa-91ee-4666-aa7a-624bfaf74b14",
+"tool": "Gong",
+"kind": "company",
+"url": "https://gong.io"
+},
+{
+"uuid": "9ef840aa-91ee-4666-aa7a-624bfaf74b14",
+"tool": "Gong",
+"kind": "product",
+"url": "https://www.gong.io/conversation-intelligence"
+},
+{
+"uuid": "80b5a273-c0cf-43c1-8fc3-6e932905403c",
+"tool": "Google Apps Script",
+"kind": "company",
+"url": "https://google.com"
+},
+{
+"uuid": "9151e08a-71ac-49c9-917d-22618baf1181",
+"tool": "Google Calendar",
+"kind": "company",
+"url": "https://google.com"
+},
+{
+"uuid": "9151e08a-71ac-49c9-917d-22618baf1181",
+"tool": "Google Calendar",
+"kind": "product",
+"url": "https://workspace.google.com/products/calendar"
+},
+{
+"uuid": "7a2ca665-7bae-4a53-9c17-a74847ff46d6",
+"tool": "Google Gemini",
+"kind": "company",
+"url": "https://gemini.google"
+},
+{
+"uuid": "9a7b5523-f466-4792-a3f4-26a8bb796eaf",
+"tool": "Google Maps",
+"kind": "company",
+"url": "https://google.com"
+},
+{
+"uuid": "5ba5ca18-d8fb-44e9-ac0c-a357ea9176b3",
+"tool": "Google Sheets",
+"kind": "company",
+"url": "https://google.com"
+},
+{
+"uuid": "0ef4c93b-2950-462b-877c-8b5db2c4a328",
+"tool": "Google Workspace",
+"kind": "company",
+"url": "https://google.com"
+},
+{
+"uuid": "0ef4c93b-2950-462b-877c-8b5db2c4a328",
+"tool": "Google Workspace",
+"kind": "product",
+"url": "https://workspace.google.com"
+},
+{
+"uuid": "4f1a1184-2802-4c65-a31c-1c48edc1d019",
+"tool": "Granola",
+"kind": "company",
+"url": "https://granola.ai"
+},
+{
+"uuid": "83469614-220b-4c56-aa5d-4a241e09ae82",
+"tool": "Graph.one",
+"kind": "company",
+"url": "https://graph.one"
+},
+{
+"uuid": "3e0f37c0-8b2b-4744-9f2f-c864e8b4a2a6",
+"tool": "Grok",
+"kind": "company",
+"url": "https://x.ai"
+},
+{
+"uuid": "f2b687a8-8991-40b9-842c-c7d076855d87",
+"tool": "Groove",
+"kind": "company",
+"url": "https://groove.co"
+},
+{
+"uuid": "d40aadf6-ae1a-4617-99cf-89a9933ab482",
+"tool": "Guru",
+"kind": "company",
+"url": "https://getguru.com"
+},
+{
+"uuid": "66e77082-f23f-4ad3-a964-ee638d443eea",
+"tool": "Handy",
+"kind": "company",
+"url": "https://handy.computer"
+},
+{
+"uuid": "d74e28ef-c328-41a6-86b2-e03e456453fa",
+"tool": "Happenstance",
+"kind": "company",
+"url": "https://happenstance.ai"
+},
+{
+"uuid": "135142e7-4400-437a-98a8-f07c9aa97c27",
+"tool": "Heymarket",
+"kind": "company",
+"url": "https://heymarket.com"
+},
+{
+"uuid": "62130717-f9ed-48b5-be07-d0efd59e8029",
+"tool": "HeyReach",
+"kind": "company",
+"url": "https://heyreach.io"
+},
+{
+"uuid": "1b1e2e6c-14f0-416b-b57f-55d244c3290f",
+"tool": "HG Insights",
+"kind": "company",
+"url": "https://hginsights.com"
+},
+{
+"uuid": "14b0ab99-c4c8-4b5c-8475-e8d7f752e02b",
+"tool": "HitHorizons",
+"kind": "company",
+"url": "https://hithorizons.com"
+},
+{
+"uuid": "0464735f-cfb3-45e0-b191-62e5c5796563",
+"tool": "HubSpot",
+"kind": "company",
+"url": "https://hubspot.com"
+},
+{
+"uuid": "0464735f-cfb3-45e0-b191-62e5c5796563",
+"tool": "HubSpot",
+"kind": "product",
+"url": "https://www.hubspot.com/crm"
+},
+{
+"uuid": "223483de-0d3c-4c60-a6f7-5b1a5063e231",
+"tool": "HubSpot Breeze",
+"kind": "company",
+"url": "https://hubspot.com"
+},
+{
+"uuid": "ba614197-ad12-489c-ad05-df938e49428e",
+"tool": "HubSpot Marketing Hub",
+"kind": "company",
+"url": "https://hubspot.com"
+},
+{
+"uuid": "9517b8aa-4716-4574-8196-e4ac34c1cba5",
+"tool": "HubSpot Service Hub",
+"kind": "company",
+"url": "https://hubspot.com"
+},
+{
+"uuid": "9517b8aa-4716-4574-8196-e4ac34c1cba5",
+"tool": "HubSpot Service Hub",
+"kind": "product",
+"url": "https://www.hubspot.com/products/service/customer-success-management?lang=en-US"
+},
+{
+"uuid": "72e519a1-17dc-435e-88fb-7e53d9f91b9e",
+"tool": "Hunter.io",
+"kind": "company",
+"url": "https://hunter.io"
+},
+{
+"uuid": "efd07b8c-ef2a-4690-9a00-1989848728d0",
+"tool": "Hyperline",
+"kind": "company",
+"url": "https://hyperline.co"
+},
+{
+"uuid": "efd07b8c-ef2a-4690-9a00-1989848728d0",
+"tool": "Hyperline",
+"kind": "product",
+"url": "https://www.hyperline.co/products/cpq"
+},
+{
+"uuid": "773076cf-c4d8-4322-81c4-ff674c6cf918",
+"tool": "Hyperspell",
+"kind": "company",
+"url": "https://hyperspell.com"
+},
+{
+"uuid": "0adc9532-feeb-4362-afef-390b89d0ebc4",
+"tool": "Indeed",
+"kind": "company",
+"url": "https://indeed.com"
+},
+{
+"uuid": "576a78ff-3232-4797-b742-4fa7a0f904bb",
+"tool": "Instantly",
+"kind": "company",
+"url": "https://instantly.ai"
+},
+{
+"uuid": "c670f3b7-2c3b-4c23-a46d-f4ac9cea28bd",
+"tool": "Intercom",
+"kind": "company",
+"url": "https://intercom.com"
+},
+{
+"uuid": "562c85e0-8c0e-4140-a813-44d91f69480f",
+"tool": "Jiminny",
+"kind": "company",
+"url": "https://jiminny.com"
+},
+{
+"uuid": "364e4809-508c-46e6-821c-9fca8ec77d64",
+"tool": "Juicebox",
+"kind": "company",
+"url": "https://juicebox.ai"
+},
+{
+"uuid": "ab7d9dba-9f86-4e4b-972f-216bd90e9a85",
+"tool": "Jungler",
+"kind": "company",
+"url": "https://jungler.ai"
+},
+{
+"uuid": "9c513b0d-1586-4892-b489-ab59855625b0",
+"tool": "JustCall",
+"kind": "company",
+"url": "https://justcall.io"
+},
+{
+"uuid": "9cbc557c-15a0-48d6-b7b7-9d80a4ecb4aa",
+"tool": "Kickscale",
+"kind": "company",
+"url": "https://kickscale.com"
+},
+{
+"uuid": "9cbc557c-15a0-48d6-b7b7-9d80a4ecb4aa",
+"tool": "Kickscale",
+"kind": "product",
+"url": "https://kickscale.com/en/product/forecasting"
+},
+{
+"uuid": "7c86092c-61e0-4c01-be34-3d266c0d0a07",
+"tool": "Kiflo",
+"kind": "company",
+"url": "https://kiflo.com"
+},
+{
+"uuid": "554ae8d0-9432-427b-a116-96e7414e8351",
+"tool": "Kixie",
+"kind": "company",
+"url": "https://kixie.com"
+},
+{
+"uuid": "69b6eec4-0752-4e93-9729-0c07b85fa034",
+"tool": "La Growth Machine (LGM)",
+"kind": "company",
+"url": "https://lagrowthmachine.com"
+},
+{
+"uuid": "9c7b2884-71a5-41af-8b82-a34708c33152",
+"tool": "LangChain",
+"kind": "company",
+"url": "https://langchain.com"
+},
+{
+"uuid": "696a1b1a-8459-4676-bd9d-972919b397c3",
+"tool": "Langdock",
+"kind": "company",
+"url": "https://langdock.com"
+},
+{
+"uuid": "696a1b1a-8459-4676-bd9d-972919b397c3",
+"tool": "Langdock",
+"kind": "product",
+"url": "https://langdock.com/products/assistants"
+},
+{
+"uuid": "597e38ea-220b-47ea-8c77-864f8b24fdd6",
+"tool": "Leadfeeder",
+"kind": "company",
+"url": "https://leadfeeder.com"
+},
+{
+"uuid": "597e38ea-220b-47ea-8c77-864f8b24fdd6",
+"tool": "Leadfeeder",
+"kind": "product",
+"url": "https://leadfeeder.com/web-visitors"
+},
+{
+"uuid": "7be153d7-0da7-47f8-a125-552ac94a1690",
+"tool": "LeadMagic",
+"kind": "company",
+"url": "https://leadmagic.io"
+},
+{
+"uuid": "7be153d7-0da7-47f8-a125-552ac94a1690",
+"tool": "LeadMagic",
+"kind": "product",
+"url": "https://www.leadmagic.io/product/email-validation"
+},
+{
+"uuid": "bb92b726-1fba-4fdc-998a-7b6bb1fa85f1",
+"tool": "Leadsforge",
+"kind": "company",
+"url": "https://leadsforge.ai"
+},
+{
+"uuid": "c3808006-75df-426f-9f69-bfaa1d8458cb",
+"tool": "LeanData",
+"kind": "company",
+"url": "https://leandata.com"
+},
+{
+"uuid": "813a09db-1d78-4d20-ab4f-bb8b990621b9",
+"tool": "lemlist",
+"kind": "company",
+"url": "https://lemlist.com"
+},
+{
+"uuid": "813a09db-1d78-4d20-ab4f-bb8b990621b9",
+"tool": "lemlist",
+"kind": "product",
+"url": "https://www.lemlist.com/sales-engagement"
+},
+{
+"uuid": "8e56eda9-791b-440b-8a42-55292d8ee4bd",
+"tool": "Lightfield",
+"kind": "company",
+"url": "https://lightfield.app"
+},
+{
+"uuid": "38877742-d144-4cfc-94b3-a21bbfdda312",
+"tool": "Lindy",
+"kind": "company",
+"url": "https://lindy.ai"
+},
+{
+"uuid": "38877742-d144-4cfc-94b3-a21bbfdda312",
+"tool": "Lindy",
+"kind": "product",
+"url": "https://www.lindy.ai/solutions/email"
+},
+{
+"uuid": "67f576ab-6da5-40af-b4d5-57535b19c131",
+"tool": "Linked Helper",
+"kind": "company",
+"url": "https://linkedhelper.com"
+},
+{
+"uuid": "7f75f565-dece-4eaa-b0ea-b18880966949",
+"tool": "LinkedIn Ads",
+"kind": "company",
+"url": "https://linkedin.com"
+},
+{
+"uuid": "59dbafe1-c20f-40bb-b0a5-91d62c2b829d",
+"tool": "LinkedIn MCP Server",
+"kind": "company",
+"url": "https://github.com"
+},
+{
+"uuid": "59dbafe1-c20f-40bb-b0a5-91d62c2b829d",
+"tool": "LinkedIn MCP Server",
+"kind": "product",
+"url": "https://github.com/stickerdaniel/linkedin-mcp-server"
+},
+{
+"uuid": "ba1987d1-aff0-4b89-a658-a431854496d5",
+"tool": "LinkedIn Sales Navigator",
+"kind": "company",
+"url": "https://linkedin.com"
+},
+{
+"uuid": "8800eeea-9fa0-40fd-bdf1-cfcc95d55ea3",
+"tool": "Linkup",
+"kind": "company",
+"url": "https://linkup.so"
+},
+{
+"uuid": "ac51dd57-2cf5-4055-8134-ef9735062b5b",
+"tool": "Livestorm",
+"kind": "company",
+"url": "https://livestorm.co"
+},
+{
+"uuid": "76a4da1c-b44a-49c3-a429-d989889886d5",
+"tool": "Llama",
+"kind": "company",
+"url": "https://llama.com"
+},
+{
+"uuid": "97ebf7b1-f17b-40f0-8b07-8a254ffeb08e",
+"tool": "Loom",
+"kind": "company",
+"url": "https://loom.com"
+},
+{
+"uuid": "97ebf7b1-f17b-40f0-8b07-8a254ffeb08e",
+"tool": "Loom",
+"kind": "product",
+"url": "https://www.loom.com/lp/screen-capture-lp"
+},
+{
+"uuid": "53ff8f9b-1789-460f-a41c-2915ffc8b4f2",
+"tool": "Loops",
+"kind": "company",
+"url": "https://loops.so"
+},
+{
+"uuid": "53ff8f9b-1789-460f-a41c-2915ffc8b4f2",
+"tool": "Loops",
+"kind": "product",
+"url": "https://loops.so/marketing-email"
+},
+{
+"uuid": "9a363964-bf2b-47e1-945b-7a20e777f841",
+"tool": "Lovable",
+"kind": "company",
+"url": "https://lovable.dev"
+},
+{
+"uuid": "e0d15203-eeae-48e4-8eb7-36f764f7a9e7",
+"tool": "Lucidchart",
+"kind": "company",
+"url": "https://lucidchart.com"
+},
+{
+"uuid": "e0d15203-eeae-48e4-8eb7-36f764f7a9e7",
+"tool": "Lucidchart",
+"kind": "product",
+"url": "https://www.lucidchart.com/pages/landing/process-mapping"
+},
+{
+"uuid": "e36b6163-b805-454f-ab2b-416742aae29e",
+"tool": "Lusha",
+"kind": "company",
+"url": "https://lusha.com"
+},
+{
+"uuid": "e9810700-8c0b-440b-80c4-54cc13cbc025",
+"tool": "Mailchimp",
+"kind": "company",
+"url": "https://mailchimp.com"
+},
+{
+"uuid": "bb42ad3d-649a-4e30-91ab-a08a8fc9d426",
+"tool": "Maildoso",
+"kind": "company",
+"url": "https://maildoso.ai"
+},
+{
+"uuid": "d7951910-c82b-4a1e-a238-4e94a3f118d5",
+"tool": "Mailgun",
+"kind": "company",
+"url": "https://mailgun.com"
+},
+{
+"uuid": "c62bbd92-11b2-427f-8f08-8d4e2a41a9ee",
+"tool": "Mailreef",
+"kind": "company",
+"url": "https://mailreef.com"
+},
+{
+"uuid": "9b1678f6-0b65-4e9d-971e-5cd92a2c5b46",
+"tool": "Make (make.com)",
+"kind": "company",
+"url": "https://make.com"
+},
+{
+"uuid": "5e7a2202-7294-48b7-931d-e388d4fae3f4",
+"tool": "Mapbox",
+"kind": "company",
+"url": "https://mapbox.com"
+},
+{
+"uuid": "266ea04e-dd5d-4143-9ec3-6261eb87e82a",
+"tool": "Master Inbox",
+"kind": "company",
+"url": "https://masterinbox.com"
+},
+{
+"uuid": "9c6ef64a-efe9-4a5c-a3ab-bfd428ca9bd8",
+"tool": "Maxio",
+"kind": "company",
+"url": "https://maxio.com"
+},
+{
+"uuid": "112dd5a1-035a-4624-8f3b-0c9bcbd17414",
+"tool": "Microsoft 365",
+"kind": "company",
+"url": "https://microsoft.com"
+},
+{
+"uuid": "36063062-6c96-4a6c-b717-0f68f7de0850",
+"tool": "Microsoft Dynamics",
+"kind": "company",
+"url": "https://microsoft.com"
+},
+{
+"uuid": "63513570-3d0f-4e71-be5f-212d2b54afe2",
+"tool": "Microsoft Exchange",
+"kind": "company",
+"url": "https://microsoft.com"
+},
+{
+"uuid": "7eea53ce-ef4b-49f5-8c43-03122cb2f593",
+"tool": "Microsoft Outlook",
+"kind": "company",
+"url": "https://microsoft.com"
+},
+{
+"uuid": "2986bfc1-7063-4e38-907a-5aa705115cf7",
+"tool": "Microsoft Power Automate",
+"kind": "company",
+"url": "https://microsoft.com"
+},
+{
+"uuid": "dd782f78-3b2f-426c-9e0e-5600c4e50aaa",
+"tool": "Microsoft Power BI",
+"kind": "company",
+"url": "https://microsoft.com"
+},
+{
+"uuid": "6dcb29cf-f026-45d3-abb3-42458dfe79cd",
+"tool": "Microsoft SharePoint",
+"kind": "company",
+"url": "https://microsoft.com"
+},
+{
+"uuid": "26722293-dfc2-424f-83a8-0601eba7153b",
+"tool": "Microsoft Teams",
+"kind": "company",
+"url": "https://microsoft.com"
+},
+{
+"uuid": "cdf09082-9867-4afd-9710-6b7bb4bfbeb1",
+"tool": "MillionVerifier",
+"kind": "company",
+"url": "https://millionverifier.com"
+},
+{
+"uuid": "4d46306e-831e-437f-b45d-5c69a08487f4",
+"tool": "Miro",
+"kind": "company",
+"url": "https://miro.com"
+},
+{
+"uuid": "6312093b-6eeb-47f9-a61c-99ef5967fb73",
+"tool": "Mission Inbox",
+"kind": "company",
+"url": "https://missioninbox.com"
+},
+{
+"uuid": "781e4265-c89e-416e-a242-c999bbed5177",
+"tool": "Mixmax",
+"kind": "company",
+"url": "https://mixmax.com"
+},
+{
+"uuid": "fe2ace94-3ef9-4344-b6fe-e6533310b133",
+"tool": "Modern Relay",
+"kind": "company",
+"url": "https://modernrelay.com"
+},
+{
+"uuid": "01a3fa06-c9b2-4099-bfd3-ee3c6f44224f",
+"tool": "Momentum",
+"kind": "company",
+"url": "https://momentum.io"
+},
+{
+"uuid": "76f109e1-512c-4da1-8f84-d2cbac7c3177",
+"tool": "Monaco",
+"kind": "company",
+"url": "https://monaco.com"
+},
+{
+"uuid": "44937709-5871-4612-a358-e59063a5a350",
+"tool": "MyHammer",
+"kind": "company",
+"url": "https://my-hammer.de"
+},
+{
+"uuid": "ebcf0035-3692-4885-b191-2ad2ac4b5845",
+"tool": "n8n",
+"kind": "company",
+"url": "https://n8n.io"
+},
+{
+"uuid": "9e030fa2-ac58-4bdd-85fa-00275debb3c3",
+"tool": "n8n MCP",
+"kind": "company",
+"url": "https://n8n-mcp.com"
+},
+{
+"uuid": "87bb5e57-73d9-4c2f-8fc1-ae755127405f",
+"tool": "Nationalize API",
+"kind": "company",
+"url": "https://nationalize.io"
+},
+{
+"uuid": "0c83a168-8e7d-4814-9ab4-01e637166b43",
+"tool": "Needle",
+"kind": "company",
+"url": "https://needle.app"
+},
+{
+"uuid": "f11cc109-61b3-465a-b8b2-10b7ca6e0dc8",
+"tool": "Neon",
+"kind": "company",
+"url": "https://neon.com"
+},
+{
+"uuid": "9a07e461-f615-412f-af70-ec2360863b49",
+"tool": "Nooks",
+"kind": "company",
+"url": "https://nooks.ai"
+},
+{
+"uuid": "d763211f-1400-408e-abe4-5a3febbe3669",
+"tool": "North Data",
+"kind": "company",
+"url": "https://northdata.com"
+},
+{
+"uuid": "a1330b90-4f92-4dea-9b32-f65f5af2675a",
+"tool": "Notion",
+"kind": "company",
+"url": "https://notion.com"
+},
+{
+"uuid": "02ddc16f-6a2d-4802-a9d1-c07b890d40c6",
+"tool": "Nuacom",
+"kind": "company",
+"url": "https://nuacom.com"
+},
+{
+"uuid": "fa5819c1-af95-4d8c-b26a-69474738c0d4",
+"tool": "Nue",
+"kind": "company",
+"url": "https://nue.io"
+},
+{
+"uuid": "ba9e2e2b-8640-4bd0-b04f-6da8b62f8a6b",
+"tool": "Octave",
+"kind": "company",
+"url": "https://octavehq.com"
+},
+{
+"uuid": "9578ee6b-c8cc-4fe0-88f2-937a9380ec7f",
+"tool": "Octoparse",
+"kind": "company",
+"url": "https://octoparse.com"
+},
+{
+"uuid": "e6760576-5ca2-490b-9332-b37aab61b043",
+"tool": "Odoo",
+"kind": "company",
+"url": "https://odoo.com"
+},
+{
+"uuid": "03dfb0a7-e656-430b-8820-12e35a2627b6",
+"tool": "Offene Register",
+"kind": "company",
+"url": "https://offeneregister.de"
+},
+{
+"uuid": "5480d459-bae7-4b72-965f-12d1790dee37",
+"tool": "Ontora",
+"kind": "company",
+"url": "https://ontora.com"
+},
+{
+"uuid": "94459f42-8cd0-4117-ad34-22b99db54cec",
+"tool": "OpenRegister",
+"kind": "company",
+"url": "https://openregister.de"
+},
+{
+"uuid": "d984a4b8-1f2c-4ee3-b9bb-a1673b365f9b",
+"tool": "Optilyz",
+"kind": "company",
+"url": "https://optilyz.com"
+},
+{
+"uuid": "5ce02035-5a3b-40d7-aef0-b1986967972c",
+"tool": "Orum",
+"kind": "company",
+"url": "https://orum.com"
+},
+{
+"uuid": "2f475707-55d3-494a-b0a8-eab26d270345",
+"tool": "Outreach",
+"kind": "company",
+"url": "https://outreach.io"
+},
+{
+"uuid": "3856607c-059d-462a-8d84-10c193c58ea8",
+"tool": "Oxygen",
+"kind": "company",
+"url": "https://oxygen-agent.com"
+},
+{
+"uuid": "54af55a9-6187-43f3-b72b-d712d111f02e",
+"tool": "Pardot",
+"kind": "company",
+"url": "https://salesforce.com"
+},
+{
+"uuid": "29fdb9fb-cfba-4e02-9091-d2f807f932bd",
+"tool": "People.ai",
+"kind": "company",
+"url": "https://people.ai"
+},
+{
+"uuid": "6c9516a1-a583-4460-affd-9f3149770f9a",
+"tool": "Perplexity",
+"kind": "company",
+"url": "https://perplexity.ai"
+},
+{
+"uuid": "b25c714f-7efc-4b7b-866f-7a65051f79d5",
+"tool": "PhantomBuster",
+"kind": "company",
+"url": "https://phantombuster.com"
+},
+{
+"uuid": "a5d91af9-7b12-4320-a4d7-d71c6c270e3d",
+"tool": "PhariaAI (Aleph Alpha)",
+"kind": "company",
+"url": "https://aleph-alpha.com"
+},
+{
+"uuid": "7449ed07-54a4-482a-9737-d015deeef81a",
+"tool": "pipe0",
+"kind": "company",
+"url": "https://pipe0.com"
+},
+{
+"uuid": "6dd467b4-56ce-4975-88d1-7bfdd6a77cea",
+"tool": "Pipedrive",
+"kind": "company",
+"url": "https://pipedrive.com"
+},
+{
+"uuid": "0401f4a9-f033-44db-9b3f-28476943bd13",
+"tool": "Planable",
+"kind": "company",
+"url": "https://planable.io"
+},
+{
+"uuid": "466df87d-51ba-4def-8099-17e3fc5ff81f",
+"tool": "Playwright",
+"kind": "company",
+"url": "https://playwright.dev"
+},
+{
+"uuid": "1e3e74f3-b5b8-42cf-8c3d-6e49b85061d6",
+"tool": "PostgreSQL",
+"kind": "company",
+"url": "https://postgresql.org"
+},
+{
+"uuid": "156dfdc6-28d9-4bf2-bcca-8d565a45e628",
+"tool": "Postmark",
+"kind": "company",
+"url": "https://postmarkapp.com"
+},
+{
+"uuid": "156dfdc6-28d9-4bf2-bcca-8d565a45e628",
+"tool": "Postmark",
+"kind": "product",
+"url": "https://postmarkapp.com/transactional-email"
+},
+{
+"uuid": "b5b114fd-49e2-4944-bb00-dba20c7b35c5",
+"tool": "Predict Leads",
+"kind": "company",
+"url": "https://predictleads.com"
+},
+{
+"uuid": "07cb76da-5dbc-4349-8839-8fc41952d436",
+"tool": "Primeforge",
+"kind": "company",
+"url": "https://primeforge.ai"
+},
+{
+"uuid": "e4516e7c-5adf-438a-b95f-71462de0ec22",
+"tool": "Prospeo",
+"kind": "company",
+"url": "https://prospeo.io"
+},
+{
+"uuid": "f86b0466-7365-45c5-a530-98ed6bbd5e77",
+"tool": "PublicWWW",
+"kind": "company",
+"url": "https://publicwww.com"
+},
+{
+"uuid": "4e94e740-4442-4073-b6a0-206df2fa5830",
+"tool": "Puppeteer",
+"kind": "company",
+"url": "https://pptr.dev"
+},
+{
+"uuid": "00a825a7-789f-40bc-98cf-e88d4b720552",
+"tool": "Qontext",
+"kind": "company",
+"url": "https://qontext.ai"
+},
+{
+"uuid": "2014f45d-8e02-4a49-bdcb-3e442b4b8c24",
+"tool": "RapidAPI",
+"kind": "company",
+"url": "https://rapidapi.com"
+},
+{
+"uuid": "27c31a18-14e7-4a90-bf69-c0589b2ca6a1",
+"tool": "RB2B",
+"kind": "company",
+"url": "https://rb2b.com"
+},
+{
+"uuid": "4305759e-75d5-498a-8461-aec4b98e249d",
+"tool": "Re2.ai",
+"kind": "company",
+"url": "https://re2.ai"
+},
+{
+"uuid": "5f5b91c3-e830-4700-899d-38c7b868e11a",
+"tool": "Reachdesk",
+"kind": "company",
+"url": "https://reachdesk.com"
+},
+{
+"uuid": "5f5b91c3-e830-4700-899d-38c7b868e11a",
+"tool": "Reachdesk",
+"kind": "product",
+"url": "https://reachdesk.com/features"
+},
+{
+"uuid": "a2e4101b-d6ac-4e5b-a105-db1d64410525",
+"tool": "registercheck.de",
+"kind": "company",
+"url": "https://registercheck.de"
+},
+{
+"uuid": "a2e4101b-d6ac-4e5b-a105-db1d64410525",
+"tool": "registercheck.de",
+"kind": "product",
+"url": "https://www.registercheck.de/produkte/explorer"
+},
+{
+"uuid": "b8e33030-39f2-4a7b-a2e5-ed16278c9dc0",
+"tool": "Replit",
+"kind": "company",
+"url": "https://replit.com"
+},
+{
+"uuid": "426076f1-b096-4bf6-9caf-7e6ce54789e2",
+"tool": "Reply.io",
+"kind": "company",
+"url": "https://reply.io"
+},
+{
+"uuid": "3b18f534-38a2-477b-981e-3f3cff958198",
+"tool": "Retell API",
+"kind": "company",
+"url": "https://retellai.com"
+},
+{
+"uuid": "7653c821-009d-4e3f-888b-8b89a5036796",
+"tool": "Revenue Hero",
+"kind": "company",
+"url": "https://revenuehero.io"
+},
+{
+"uuid": "7653c821-009d-4e3f-888b-8b89a5036796",
+"tool": "Revenue Hero",
+"kind": "product",
+"url": "https://www.revenuehero.io/routing"
+},
+{
+"uuid": "546faced-6748-4e47-8999-0e50540f4f12",
+"tool": "Salesforce",
+"kind": "company",
+"url": "https://salesforce.com"
+},
+{
+"uuid": "546faced-6748-4e47-8999-0e50540f4f12",
+"tool": "Salesforce",
+"kind": "product",
+"url": "https://www.salesforce.com/crm"
+},
+{
+"uuid": "ac54fe67-96f1-4b43-9a1e-6f20839fd9b2",
+"tool": "Salesforce (SFDC)",
+"kind": "company",
+"url": "https://salesforce.com"
+},
+{
+"uuid": "ac54fe67-96f1-4b43-9a1e-6f20839fd9b2",
+"tool": "Salesforce (SFDC)",
+"kind": "product",
+"url": "https://www.salesforce.com/crm"
+},
+{
+"uuid": "57f4d5b7-e6e0-4833-8659-57904de362ec",
+"tool": "Salesforce Agentforce",
+"kind": "company",
+"url": "https://salesforce.com"
+},
+{
+"uuid": "2ff249da-f4c5-4bda-9eb6-72f7ab1edde6",
+"tool": "Salesforce AppExchange",
+"kind": "company",
+"url": "https://salesforce.com"
+},
+{
+"uuid": "2ff249da-f4c5-4bda-9eb6-72f7ab1edde6",
+"tool": "Salesforce AppExchange",
+"kind": "product",
+"url": "https://appexchange.salesforce.com/"
+},
+{
+"uuid": "0134fff1-ada5-4225-901a-213299d63a79",
+"tool": "Salesforce CPQ",
+"kind": "company",
+"url": "https://salesforce.com"
+},
+{
+"uuid": "0134fff1-ada5-4225-901a-213299d63a79",
+"tool": "Salesforce CPQ",
+"kind": "product",
+"url": "https://salesforce.com/cpq"
+},
+{
+"uuid": "c7500102-b7f4-41ed-98ad-8344fe409b90",
+"tool": "Salesforce Experience Cloud",
+"kind": "company",
+"url": "https://salesforce.com"
+},
+{
+"uuid": "8ee63ce3-f198-458a-b712-299510b7d122",
+"tool": "Salesforce Revenue Cloud",
+"kind": "company",
+"url": "https://salesforce.com"
+},
+{
+"uuid": "8ee63ce3-f198-458a-b712-299510b7d122",
+"tool": "Salesforce Revenue Cloud",
+"kind": "product",
+"url": "https://www.salesforce.com/sales/revenue-lifecycle-management/revenue-cloud/"
+},
+{
+"uuid": "48666941-41a5-4c70-b7c4-4cea967f48ab",
+"tool": "Salesforce Trailhead",
+"kind": "company",
+"url": "https://salesforce.com"
+},
+{
+"uuid": "f1c3daa5-f7dd-42c8-a2cb-f8f3c67e07ad",
+"tool": "Salesforge",
+"kind": "company",
+"url": "https://salesforge.ai"
+},
+{
+"uuid": "6f479d3f-2d29-4c4f-9ba8-9866b3e90b74",
+"tool": "Salesloft",
+"kind": "company",
+"url": "https://salesloft.com"
+},
+{
+"uuid": "ad14578a-d5a8-4bee-89f2-2d90a15aaaa8",
+"tool": "SalesQL",
+"kind": "company",
+"url": "https://salesql.com"
+},
+{
+"uuid": "72523157-cf1a-45dd-b687-124d10b0f4ab",
+"tool": "SalesRobot",
+"kind": "company",
+"url": "https://salesrobot.co"
+},
+{
+"uuid": "72523157-cf1a-45dd-b687-124d10b0f4ab",
+"tool": "SalesRobot",
+"kind": "product",
+"url": "https://www.salesrobot.co/linkedin-automation"
+},
+{
+"uuid": "7854ceac-4a6b-482b-ab71-58ce1f4ddb7c",
+"tool": "SAP Analytics Cloud",
+"kind": "company",
+"url": "https://sap.com"
+},
+{
+"uuid": "967dbb1b-2814-49d0-b25b-701be1106b81",
+"tool": "SAP C4C",
+"kind": "company",
+"url": "https://sap.com"
+},
+{
+"uuid": "1bfad073-89f6-44c5-8758-1e3a3e512605",
+"tool": "ScaledMail",
+"kind": "company",
+"url": "https://scaledmail.com"
+},
+{
+"uuid": "74472259-1aa9-441e-aebd-680c92e4aab1",
+"tool": "Scripe",
+"kind": "company",
+"url": "https://scripe.io"
+},
+{
+"uuid": "25d858c0-f4c5-402f-b4c1-0081b8c43913",
+"tool": "Sectorlens",
+"kind": "company",
+"url": "https://sectorlens.de"
+},
+{
+"uuid": "a4cba862-66df-43c8-8fef-081b3d178ca1",
+"tool": "Semrush",
+"kind": "company",
+"url": "https://semrush.com"
+},
+{
+"uuid": "a4cba862-66df-43c8-8fef-081b3d178ca1",
+"tool": "Semrush",
+"kind": "product",
+"url": "https://www.semrush.com/website/"
+},
+{
+"uuid": "c37662bf-c153-4a55-b653-48b3e61084db",
+"tool": "Sendoso",
+"kind": "company",
+"url": "https://sendoso.com"
+},
+{
+"uuid": "6d75784e-add9-46d4-acf3-b731df968c57",
+"tool": "Sentra",
+"kind": "company",
+"url": "https://sentra.app"
+},
+{
+"uuid": "9dc63446-f442-4f81-b81c-d30bd182f7e8",
+"tool": "Serper",
+"kind": "company",
+"url": "https://serper.dev"
+},
+{
+"uuid": "22fb79ee-b7d1-4a85-ab84-d5e2cec74bb3",
+"tool": "Serpstat",
+"kind": "company",
+"url": "https://serpstat.com"
+},
+{
+"uuid": "22fb79ee-b7d1-4a85-ab84-d5e2cec74bb3",
+"tool": "Serpstat",
+"kind": "product",
+"url": "https://serpstat.com/features"
+},
+{
+"uuid": "a56be7d8-eaba-48c0-8780-4dc22c3b158b",
+"tool": "Shopify",
+"kind": "company",
+"url": "https://shopify.com"
+},
+{
+"uuid": "11cdcfe2-7a91-4b8b-86e6-ddc39ddde6fe",
+"tool": "Shopware",
+"kind": "company",
+"url": "https://shopware.com"
+},
+{
+"uuid": "0b6f1303-b460-4c56-b5dc-db2e0c166e3c",
+"tool": "SimilarWeb",
+"kind": "company",
+"url": "https://similarweb.com"
+},
+{
+"uuid": "888638e0-0eeb-4a17-99a5-0a7efd5c6d43",
+"tool": "Smartlead",
+"kind": "company",
+"url": "https://smartlead.ai"
+},
+{
+"uuid": "0ed60e67-bbfe-4a12-a8fb-192b7d1b5b39",
+"tool": "Snitcher",
+"kind": "company",
+"url": "https://snitcher.com"
+},
+{
+"uuid": "0ed60e67-bbfe-4a12-a8fb-192b7d1b5b39",
+"tool": "Snitcher",
+"kind": "product",
+"url": "https://snitcher.com/product/visitor-id"
+},
+{
+"uuid": "d8e74c12-0968-4147-98e1-d24a1b8fec3f",
+"tool": "Snowflake",
+"kind": "company",
+"url": "https://snowflake.com"
+},
+{
+"uuid": "2e500f5a-0629-42f3-88ee-7f62b34a20cc",
+"tool": "Subskribe",
+"kind": "company",
+"url": "https://subskribe.com"
+},
+{
+"uuid": "8eca138a-7e39-419b-8c15-9298ff5d21be",
+"tool": "Supabase",
+"kind": "company",
+"url": "https://supabase.com"
+},
+{
+"uuid": "cfe8f4bc-2f3a-433a-9d50-2a1f8c586357",
+"tool": "Superchat",
+"kind": "company",
+"url": "https://superchat.com"
+},
+{
+"uuid": "5c6d42af-11f7-42ae-8bc3-d73e8184dccd",
+"tool": "Superhuman",
+"kind": "company",
+"url": "https://superhuman.com"
+},
+{
+"uuid": "f7971779-e9c6-4043-aa62-dded0797aa8e",
+"tool": "Surfe",
+"kind": "company",
+"url": "https://surfe.com"
+},
+{
+"uuid": "04d636b6-e7cf-4760-9dc3-0d3f2628f184",
+"tool": "Swarm",
+"kind": "company",
+"url": "https://theswarm.com"
+},
+{
+"uuid": "8af0539d-9d3c-4f7b-8321-7254aa2702f4",
+"tool": "sweep.io",
+"kind": "company",
+"url": "https://sweep.io"
+},
+{
+"uuid": "4e642fcf-64ee-43a7-92f5-25c6a225042d",
+"tool": "Tableau",
+"kind": "company",
+"url": "https://tableau.com"
+},
+{
+"uuid": "09fb00e1-2666-4978-98a6-febb469aa5f0",
+"tool": "Talon.One",
+"kind": "company",
+"url": "https://talon.one"
+},
+{
+"uuid": "09fb00e1-2666-4978-98a6-febb469aa5f0",
+"tool": "Talon.One",
+"kind": "product",
+"url": "https://www.talon.one/promotion-engine"
+},
+{
+"uuid": "7a65207c-7805-4b8e-a382-cc0e4fdc8b49",
+"tool": "Teamfluence",
+"kind": "company",
+"url": "https://teamfluence.com"
+},
+{
+"uuid": "ee6b4442-b988-45d0-8351-5e82a7217cb5",
+"tool": "Telegram",
+"kind": "company",
+"url": "https://telegram.org"
+},
+{
+"uuid": "be7f77d2-50a1-4f6f-b48a-3507edf8aa7e",
+"tool": "theirstack",
+"kind": "company",
+"url": "https://theirstack.com"
+},
+{
+"uuid": "bac8475d-0f1b-48d4-b21d-6a3f0f9f1503",
+"tool": "TitanX",
+"kind": "company",
+"url": "https://titanx.io"
+},
+{
+"uuid": "6a0e8edc-85a2-4d42-8aa4-4e5f943ad626",
+"tool": "tl;dv",
+"kind": "company",
+"url": "https://tldv.io"
+},
+{
+"uuid": "e88bacd0-0548-42ff-a401-052207268f6a",
+"tool": "Tome",
+"kind": "company",
+"url": "https://tome.app"
+},
+{
+"uuid": "799eee50-51cb-4ae1-8e81-a3dc47f6558e",
+"tool": "Totango",
+"kind": "company",
+"url": "https://totango.com"
+},
+{
+"uuid": "383bcd0e-9422-4a12-af40-5725ea992e80",
+"tool": "tray.ai",
+"kind": "company",
+"url": "https://tray.ai"
+},
+{
+"uuid": "383bcd0e-9422-4a12-af40-5725ea992e80",
+"tool": "tray.ai",
+"kind": "product",
+"url": "https://tray.ai/solutions/ipaas"
+},
+{
+"uuid": "b19e6617-4617-48b2-b803-61117cc4552c",
+"tool": "Trigify",
+"kind": "company",
+"url": "https://trigify.io"
+},
+{
+"uuid": "6fdd1da9-34ef-4668-a40b-27be054ef318",
+"tool": "Trumpet",
+"kind": "company",
+"url": "https://sendtrumpet.com"
+},
+{
+"uuid": "6fdd1da9-34ef-4668-a40b-27be054ef318",
+"tool": "Trumpet",
+"kind": "product",
+"url": "https://sendtrumpet.com/digital-sales-room"
+},
+{
+"uuid": "79957655-9c25-4a67-8b5a-aff91e41570f",
+"tool": "Twain",
+"kind": "company",
+"url": "https://twain.ai"
+},
+{
+"uuid": "527fce68-d5e0-49e4-aead-0be2687be2c3",
+"tool": "Udemy",
+"kind": "company",
+"url": "https://udemy.com"
+},
+{
+"uuid": "2f2fbfc4-56e1-4663-ba33-413555b14d9f",
+"tool": "Unipile",
+"kind": "company",
+"url": "https://unipile.com"
+},
+{
+"uuid": "8b816eda-5fbf-4225-b227-e520ef477c37",
+"tool": "Valuecase",
+"kind": "company",
+"url": "https://valuecase.com"
+},
+{
+"uuid": "8b816eda-5fbf-4225-b227-e520ef477c37",
+"tool": "Valuecase",
+"kind": "product",
+"url": "https://valuecase.com/digital-sales-room"
+},
+{
+"uuid": "51732629-4fde-46e0-af67-82c6418af533",
+"tool": "Vendr",
+"kind": "company",
+"url": "https://vendr.com"
+},
+{
+"uuid": "79bb3532-3044-406f-a643-817c707d4485",
+"tool": "Veo 3",
+"kind": "company",
+"url": "https://deepmind.google"
+},
+{
+"uuid": "79bb3532-3044-406f-a643-817c707d4485",
+"tool": "Veo 3",
+"kind": "product",
+"url": "https://deepmind.google/models/veo"
+},
+{
+"uuid": "2a037dcf-7c99-4bf8-a861-bf253e1f0f5f",
+"tool": "VS Code",
+"kind": "company",
+"url": "https://code.visualstudio.com"
+},
+{
+"uuid": "15615d18-bfe9-438e-ad04-7c442346c999",
+"tool": "Wappalyzer",
+"kind": "company",
+"url": "https://wappalyzer.com"
+},
+{
+"uuid": "52c18fb4-d38a-448e-a7fa-0e221eb95321",
+"tool": "Weflow",
+"kind": "company",
+"url": "https://getweflow.com"
+},
+{
+"uuid": "52c18fb4-d38a-448e-a7fa-0e221eb95321",
+"tool": "Weflow",
+"kind": "product",
+"url": "https://getweflow.com/product/pipeline-management"
+},
+{
+"uuid": "25fa4032-4719-44ec-b717-0f79056dad8e",
+"tool": "WhatsApp",
+"kind": "company",
+"url": "https://whatsapp.com"
+},
+{
+"uuid": "25fa4032-4719-44ec-b717-0f79056dad8e",
+"tool": "WhatsApp",
+"kind": "product",
+"url": "https://business.whatsapp.com/products/business-platform"
+},
+{
+"uuid": "d3f4e2d3-9456-4b8e-aac1-d94ae4821865",
+"tool": "Whisper API",
+"kind": "company",
+"url": "https://openai.com"
+},
+{
+"uuid": "defc13b8-42f8-4f74-95c0-ac3b0b53d098",
+"tool": "Wispr Flow",
+"kind": "company",
+"url": "https://wisprflow.ai"
+},
+{
+"uuid": "5bf136fe-c1d4-4c73-a338-7250d15e3aa7",
+"tool": "Wix",
+"kind": "company",
+"url": "https://wix.com"
+},
+{
+"uuid": "5e6dc06a-e565-45c9-9b71-503d1f9953a7",
+"tool": "Xing",
+"kind": "company",
+"url": "https://xing.com"
+},
+{
+"uuid": "ecd4c740-9dd1-47b2-a978-ee6a36bc97cd",
+"tool": "XLR8",
+"kind": "company",
+"url": "https://getxlr8.ai"
+},
+{
+"uuid": "08ca8c7c-26ee-46c0-a606-529841a770da",
+"tool": "yothere",
+"kind": "company",
+"url": "https://yothere.ai"
+},
+{
+"uuid": "cea06783-8127-4d41-acb4-559bae4d74ed",
+"tool": "Zapier",
+"kind": "company",
+"url": "https://zapier.com"
+},
+{
+"uuid": "5f7143f9-82c8-4164-aad7-46d6570f9ed5",
+"tool": "Zapier Central",
+"kind": "company",
+"url": "https://zapier.com"
+},
+{
+"uuid": "1db6986c-8ae0-4115-b382-2a925f626393",
+"tool": "ZenRows",
+"kind": "company",
+"url": "https://zenrows.com"
+},
+{
+"uuid": "77b1f8c1-8cc7-4928-a455-0d8b53d39b69",
+"tool": "Zero",
+"kind": "company",
+"url": "https://zero.inc"
+},
+{
+"uuid": "f042ce19-645f-4903-829f-7ff9aa94663d",
+"tool": "ZeroBounce",
+"kind": "company",
+"url": "https://zerobounce.net"
+},
+{
+"uuid": "fd8f1d42-e5f7-4560-b5e0-da8d2b3dd98b",
+"tool": "Zoom Phone",
+"kind": "company",
+"url": "https://zoom.com"
+},
+{
+"uuid": "fd8f1d42-e5f7-4560-b5e0-da8d2b3dd98b",
+"tool": "Zoom Phone",
+"kind": "product",
+"url": "https://www.zoom.com/en/products/voip-phone/"
+},
+{
+"uuid": "fd30c375-831c-449f-ba74-9897b26fcac0",
+"tool": "ZoomInfo",
+"kind": "company",
+"url": "https://zoominfo.com"
+},
+{
+"uuid": "114b1afc-7d4e-4713-96e2-a921693e8126",
+"tool": "Zuora (written 'Zoura')",
+"kind": "company",
+"url": "https://zuora.com"
+}
+],
+"batches": [
+[
+0,
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+16,
+17,
+18,
+19
+],
+[
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+63,
+329
+],
+[
+40,
+41,
+43,
+44,
+45,
+42,
+46,
+47,
+48,
+49,
+50,
+51,
+52,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+61,
+62,
+64
+],
+[
+65,
+66,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84
+],
+[
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104
+],
+[
+105,
+168,
+106,
+107,
+111,
+112,
+115,
+116,
+117,
+108,
+109,
+110,
+113,
+114,
+118,
+119,
+120,
+121,
+122,
+123,
+124,
+125,
+126,
+127,
+128,
+129
+],
+[
+130,
+132,
+133,
+134,
+131,
+135,
+136,
+137,
+138,
+139,
+140,
+141,
+142,
+143,
+144,
+145,
+146,
+147,
+148,
+149,
+150,
+151,
+152
+],
+[
+153,
+154,
+155,
+156,
+157,
+158,
+159,
+160,
+161,
+162,
+163,
+164,
+165,
+166,
+167,
+170,
+169,
+171,
+172,
+173,
+174
+],
+[
+175,
+176,
+177,
+178,
+179,
+180,
+181,
+182,
+183,
+184,
+185,
+186,
+187,
+188,
+189,
+190,
+191,
+192,
+193,
+194,
+195,
+196,
+197,
+198,
+199,
+200,
+201
+],
+[
+202,
+203,
+204,
+205,
+206,
+207,
+208,
+209,
+210,
+211,
+212,
+213,
+214,
+215,
+216,
+217,
+218,
+219,
+220,
+221
+],
+[
+222,
+223,
+224,
+225,
+226,
+256,
+258,
+260,
+261,
+263,
+265,
+266,
+268,
+227,
+228,
+229,
+230,
+231,
+232,
+233,
+234,
+235,
+236,
+237,
+238,
+239,
+240,
+241
+],
+[
+242,
+243,
+244,
+245,
+246,
+247,
+248,
+249,
+250,
+251,
+252,
+253,
+254,
+255,
+257,
+259,
+262,
+264,
+267,
+269,
+270
+],
+[
+271,
+272,
+273,
+274,
+275,
+276,
+277,
+278,
+279,
+280,
+281,
+282,
+283,
+284,
+285,
+286,
+287,
+288,
+289,
+290,
+291
+],
+[
+292,
+293,
+294,
+295,
+296,
+297,
+298,
+299,
+300,
+301,
+302,
+303,
+304,
+305,
+306,
+307,
+308,
+309,
+310,
+311
+],
+[
+312,
+313,
+314,
+315,
+316,
+317,
+318,
+319,
+320,
+321,
+322,
+323,
+324,
+325,
+326,
+327,
+328,
+330,
+331,
+332
+],
+[
+333,
+334,
+335,
+336,
+337,
+338,
+339,
+340,
+341,
+342,
+343
+]
+]
+}
