@@ -1,0 +1,297 @@
+UUID,Tool Name,Main category,Tags
+d8532335-060c-43ec-843f-53c88fe1cb32,11x,AI agents,AI agents; AI SDR; Email outreach; AI voice agent
+1127cd0f-a8ff-432e-9014-05b5a078cefb,AgentGPT,AI agents,AI agents; Agent framework
+d3cb64fa-15c7-442a-9c0c-0985a7e287c7,Aimfox,Sales engagement,Sales engagement; LinkedIn automation; AI writing
+07d1434a-223e-4cc6-9031-bb361976fadc,Aircall,Calling & dialers,Calling & dialers; VoIP; Power dialer; SMS; Call recording
+053fddb9-d2ae-42c2-a13d-dc0dcdf85230,Airtable,Data & analytics,Data & analytics; Database; Lightweight CRM; Workflow automation
+c276428e-2a78-4cd5-8625-bd41007b84e1,Airtop,Workflow automation,Workflow automation; Browser automation; RPA; AI agents
+a86a6990-a205-4644-94fa-459384dc4b56,Albacross,Signals & intent,Signals & intent; Website visitor identification; Intent signals; Account enrichment
+5f0c0f63-d894-433e-a4ea-74be5cd0bffe,Alfa,Lead generation,Lead generation; Warm intros; Relationship mapping; Intent signals
+6c8a867d-ec47-4039-9a3c-0f1c13a45a10,AlignedUp,Sales enablement,Sales enablement; Digital sales room; Mutual action plan; Deal intelligence
+ba17332e-1bf3-4e01-a6cb-eedfd3950609,Along,Sales enablement,Sales enablement; Digital sales room; Call recording
+fac0a812-40ca-4e02-bdf9-54403726dab3,Amplemarket,Sales engagement,Sales engagement; Multichannel outreach; Email outreach; LinkedIn automation; Contact data; AI SDR; All-in-one sales platform
+081c5701-061a-455d-9914-f1c8e163cef2,Apify,Web scraping,Web scraping; Data extraction; API marketplace; LinkedIn data
+f1f3f3f8-6a86-4cb0-a0ad-de2bb50f470e,Apollo.io,Lead generation,Lead generation; Contact data; Email finder; Phone numbers; Lead enrichment; Account enrichment; Email outreach; All-in-one sales platform
+3685af13-bc0a-4e6d-8662-61d2bb37ecb1,AskElephant,Conversation intelligence,Conversation intelligence; Meeting notes; Call recording; CRM updates; AI agents
+0acc11e8-705f-450a-901f-507666838eb8,Attention,Conversation intelligence,Conversation intelligence; Call recording; Meeting notes; CRM updates; Deal intelligence
+3abe99ed-53ed-4d5a-835f-e38528f12e5b,Attio,CRM,CRM; Pipeline management; Workflow automation
+cd48c8bf-ea97-457b-a359-8b9f84b98de4,axiom.ai,Workflow automation,Workflow automation; RPA; Browser automation; Data extraction
+c94269d0-fab9-4049-ba75-c5623c25f592,BetterContact,Lead generation,Lead generation; Waterfall enrichment; Email finder; Phone numbers; Lead enrichment
+fc41dcab-deeb-4cfd-86d0-f1f1f9be59fb,Bison,Sales engagement,Sales engagement; Email outreach
+db005d74-2616-44e7-a744-968a7373d6bb,BlitzAPI,Lead generation,Lead generation; Data API; Contact data; People search; Lead enrichment; Account enrichment
+4e3d1031-a7bf-4670-a2c0-bb08de486a11,Booking.com,Lead generation,Lead generation; Data source; Local business data
+d35a6145-3275-4271-ba04-ec2a081447d6,BookStack,Knowledge & company brain,Knowledge & company brain; Knowledge base; Documentation; Open source
+42e05288-af2c-4034-9aee-a444dded7ba9,Botdog,Sales engagement,Sales engagement; LinkedIn automation
+9842aad7-5f0e-4f02-9f69-2ead4586c126,BounceBan,Email infrastructure,Email infrastructure; Email verification
+b217dc18-77da-45c5-90ab-57cc476509d4,Brevo,Email marketing & automation,Email marketing & automation; Email marketing; SMS; Marketing automation
+6aa7b993-8efa-4a92-aa63-5e8555a194a0,Bright Data,Web scraping,Web scraping; Data extraction; Proxies; LinkedIn data; Data API
+2c5511a8-e345-46d0-8873-efda410f10da,BuiltWith,Signals & intent,Signals & intent; Technographics; Account enrichment
+612d298f-ed63-4cb0-b2c3-9c743a71e2e8,Cacheflow,CPQ & billing,CPQ & billing; CPQ; Billing
+2b5b10f3-58d0-433c-ae22-820b6299dafd,Calendly,Lead routing & scheduling,Lead routing & scheduling; Meeting scheduling; Lead routing
+1845a0d9-0285-455d-a1bb-e6dcebe97396,Calltime,Calling & dialers,Calling & dialers; Cold calling
+2aa4931d-1dd7-446b-91ff-c59527aaeb85,Catalyst,Customer success & support,Customer success & support; Customer success
+ba0d87f9-a6b1-481b-be4f-23e6b3ee1522,Cello,Partnerships & referrals,Partnerships & referrals; Referral programs
+115d558b-48bf-4cae-b7c0-874fff1c0e89,Chargebee,CPQ & billing,CPQ & billing; Billing; Subscription analytics
+2de5b638-cee7-4f41-a736-3512780fcc96,ChartMogul,Data & analytics,Data & analytics; Subscription analytics; Revenue analytics
+c5a459b7-a555-4705-b428-1992b69de902,ChatGPT / OpenAI,AI assistants & LLMs,AI assistants & LLMs; LLM; AI assistant; AI research
+ab7e3b7f-2648-4369-8506-7df16d36eb2d,Clari,Forecasting & pipeline,Forecasting & pipeline; Forecasting; Pipeline management; Revenue analytics; Deal intelligence
+da417a13-1b1e-4f3a-a3ff-4c1599fb5c50,Claude / Anthropic,AI assistants & LLMs,AI assistants & LLMs; LLM; AI assistant
+b729c8c5-5120-44bc-8b0b-b53f62281a0a,Claude Agent SDK,Developer tools,Developer tools; Agent framework; AI agents
+58871959-b679-455d-9a32-52127fc38bc1,Claude Code,Developer tools,Developer tools; AI coding; AI agents
+e80df2fb-2513-40eb-8047-3554bf0a34a6,Claude Cowork,AI agents,AI agents; AI assistant; Workflow automation
+c9bc6764-f5c2-4725-ac99-1b239ad9ae47,Clay,Lead generation,Lead generation; Lead enrichment; Account enrichment; Waterfall enrichment; Data transformation; Workflow automation; AI research
+1cda11dc-be76-4346-8135-7ec2956bf710,Clay API (unofficial),Developer tools,Developer tools; Data API; Lead enrichment
+d74164ef-d885-4789-9615-e2deef22e187,Clay Chrome extension (Frontier),Lead generation,Lead generation; LinkedIn data; Lead enrichment; Data extraction
+9d27aecb-5408-406e-ad22-488bbffca5f2,Claygent,Lead generation,Lead generation; AI agents; AI research; Data extraction; Account enrichment
+0914c9cc-b79d-49bf-b0d2-2f52922a5f88,Clearbit,Lead generation,Lead generation; Account enrichment; Lead enrichment; Company data
+850dd538-7bc8-4bfc-9012-0a1e9d4b5dec,Clearcue,Signals & intent,Signals & intent; Intent signals; Social signals
+ca01bb3f-2386-457d-975f-50d6b2f2a3d3,Close CRM,CRM,CRM; Cold calling; Power dialer; Email outreach; SMS
+1ffdbc61-d59b-4d8f-a5a2-9a5659749ba4,Closely,Sales engagement,Sales engagement; LinkedIn automation; Email outreach; Multichannel outreach
+6ce484a6-64fe-4bfc-92c7-a2bcdf8e1e39,CloudTalk,Calling & dialers,Calling & dialers; VoIP; Power dialer; AI voice agent
+fa159f36-684f-4b40-93a6-1b2e9adddb29,Cognee,Knowledge & company brain,Knowledge & company brain; Agent memory; Company brain; Open source
+1f728191-7949-4748-bdaa-5541887a5efd,Cognism,Lead generation,Lead generation; Contact data; Phone numbers; Email finder; Intent signals; Lead enrichment
+54b9f59c-df82-4f27-a4da-2da754dadcda,Confluence,Knowledge & company brain,Knowledge & company brain; Knowledge base; Documentation
+2c684fcc-f87f-4061-b14f-126c0a205a3a,copy.ai,AI agents,AI agents; AI writing; Workflow automation
+c97f2ec7-2bd4-4daf-be12-6b1224f1b714,Cost,AI agents,AI agents; Company brain; Deal intelligence
+8aa14c0f-1b00-4fd4-8e88-aa4f5bebddd6,Cursor,Developer tools,Developer tools; AI coding; Code editor; Vibe coding
+759eb9ec-6689-4abb-808c-1b87ec27a49f,DALL-E,AI assistants & LLMs,AI assistants & LLMs; AI image generation
+52a1b2e5-b718-425d-ad6f-69891c6c96fe,DataCamp,Learning & research,Learning & research; Online courses
+e754e054-7a98-44bc-8996-24b0144de975,Datagma,Lead generation,Lead generation; Phone numbers; Email finder; Lead enrichment
+975da191-77af-4428-b136-ddcb2e6ccae7,Day.ai,CRM,CRM; CRM updates; AI agents
+16119bcf-a849-4162-98a0-5d7bbe1b8c15,Dealfront,Signals & intent,Signals & intent; Website visitor identification; Intent signals; Company data
+43b7da90-a6df-4673-a108-282daa6931b9,DealHub,CPQ & billing,CPQ & billing; CPQ; Billing; Contracts & e-signature; Digital sales room
+7355236a-65c9-4342-8f96-9620c3eefebb,DeepSeek R1,AI assistants & LLMs,AI assistants & LLMs; LLM; Open source
+71b7d99b-e6d0-4838-ba40-f0f9bf7a0b62,Default,Lead routing & scheduling,Lead routing & scheduling; Lead routing; Meeting scheduling; Lead enrichment; Workflow automation
+2ea0308e-be94-4f4f-a76b-4a8287fc79ed,Delphi.ai,AI agents,AI agents; Live chat; AI assistant
+c0971dea-5cca-46a1-aad5-75428afa3b03,Demodesk,Conversation intelligence,Conversation intelligence; Meeting notes; Call recording; CRM updates
+87fc909a-6c81-4ab4-882a-7824643e6b34,Dialfire,Calling & dialers,Calling & dialers; Power dialer; VoIP
+0de3321d-8e3a-4a11-bf6d-2f4f84323541,DMARCDKIM.com,Email infrastructure,Email infrastructure; Email authentication; Deliverability
+a1e5eb0e-84ae-423c-9814-344374966564,DocuSign (docgen),Sales enablement,Sales enablement; Contracts & e-signature; Document generation
+d8fd4ac7-e0de-4781-85d0-0641a7a1925b,Drift,AI agents,AI agents; Live chat; Website visitor identification
+3d00fb83-a635-4498-a1e2-c4254514aa35,Dropcontact,Lead generation,Lead generation; Email finder; Lead enrichment; Data cleaning
+dec40336-9a31-477b-8380-41a413cf0e18,Dust,AI assistants & LLMs,AI assistants & LLMs; AI assistant; AI agents; Company brain
+e2f1fa75-8a15-4f8b-a78d-1f0023be95bd,Eloqua,Email marketing & automation,Email marketing & automation; Marketing automation; Email marketing
+ef4ecd0a-2206-412d-96ed-259b7fc04b53,EmailGuard,Email infrastructure,Email infrastructure; Deliverability
+d5398df0-956b-47ba-a0f4-9a0393b0732e,Emlen,Sales enablement,Sales enablement; Digital sales room
+eb8bf39a-c8c5-4abd-b8c1-b15d6f28d2e3,Everflow,Partnerships & referrals,Partnerships & referrals; Affiliate marketing; Partner management
+f7c79b1b-34c8-4a46-8e86-da78e22d45ea,Exa,Web scraping,Web scraping; Web search API; People search; AI research
+ff514712-3dc1-483d-9605-a1a320941b7c,Facebook Ads,Advertising,Advertising; Paid ads; Retargeting
+f97dd5fb-6098-4f71-b9c2-019e7f7601f9,FindyMail,Lead generation,Lead generation; Email finder; Email verification; Phone numbers
+48d84a21-1f2e-4873-8ca9-5d256fa5ca06,Firecrawl,Web scraping,Web scraping; Data extraction; Data API
+6877a1ef-a6f5-4f3c-aa76-e32ad6f06cfc,Fivetran,Data & analytics,Data & analytics; Data pipelines
+32204ba4-00bc-4f56-996b-2aea373e8d17,Flowla,Sales enablement,Sales enablement; Digital sales room; Mutual action plan
+b5db1bdf-09bc-4a28-b757-dc9105568c3f,Forager,Lead generation,Lead generation; Data API; Contact data; Phone numbers; Email finder; Company data
+c59d593b-928c-4b62-bf3b-230775736f59,Framer,Websites & e-commerce,Websites & e-commerce; Website builder
+fe76df0c-6dc7-4584-91ad-0f648bb008fe,Freckle,Lead generation,Lead generation; Lead enrichment; Data transformation; Workflow automation
+b7e7b4c2-73fb-4156-be97-632316f52097,FullEnrich,Lead generation,Lead generation; Waterfall enrichment; Email finder; Phone numbers; Lead enrichment
+a09fd486-d373-44f5-95ad-14c5929ccc43,G2,Learning & research,Learning & research; Software reviews; Intent signals
+37c75747-15c5-4479-b0bb-51407f61c129,Gainsight,Customer success & support,Customer success & support; Customer success
+f4889613-2d23-4ae0-8ccb-b35f7085f91e,Gamma,Sales enablement,Sales enablement; Presentations
+7dd4552c-4114-4763-b4d3-5cde83ec6a31,GitHub,Developer tools,Developer tools; Code hosting; AI coding
+4d61614b-c681-4d45-a9bf-6e6532fb3519,Glyphic,Conversation intelligence,Conversation intelligence; Call recording; Deal intelligence; AI agents
+393472af-5199-416f-a902-d54b39c6b192,Gmail,Communication & productivity,Communication & productivity; Email client
+9ef840aa-91ee-4666-aa7a-624bfaf74b14,Gong,Conversation intelligence,Conversation intelligence; Call recording; Deal intelligence; Forecasting; Revenue analytics
+80b5a273-c0cf-43c1-8fc3-6e932905403c,Google Apps Script,Developer tools,Developer tools; Workflow automation; Spreadsheet
+9151e08a-71ac-49c9-917d-22618baf1181,Google Calendar,Communication & productivity,Communication & productivity; Calendar; Meeting scheduling
+7a2ca665-7bae-4a53-9c17-a74847ff46d6,Google Gemini,AI assistants & LLMs,AI assistants & LLMs; LLM; AI assistant
+9a7b5523-f466-4792-a3f4-26a8bb796eaf,Google Maps,Lead generation,Lead generation; Data source; Local business data; Maps & geodata
+5ba5ca18-d8fb-44e9-ac0c-a357ea9176b3,Google Sheets,Data & analytics,Data & analytics; Spreadsheet
+0ef4c93b-2950-462b-877c-8b5db2c4a328,Google Workspace,Communication & productivity,Communication & productivity; Email client; Calendar
+4f1a1184-2802-4c65-a31c-1c48edc1d019,Granola,Conversation intelligence,Conversation intelligence; Meeting notes; Transcription
+83469614-220b-4c56-aa5d-4a241e09ae82,Graph.one,Lead generation,Lead generation; Relationship mapping; Warm intros; LinkedIn data
+3e0f37c0-8b2b-4744-9f2f-c864e8b4a2a6,Grok,AI assistants & LLMs,AI assistants & LLMs; LLM; AI assistant
+f2b687a8-8991-40b9-842c-c7d076855d87,Groove,Sales engagement,Sales engagement; Email outreach; Multichannel outreach
+a1bc8e88-7e4e-4f20-b37d-10e0066364fc,Growblocks,Forecasting & pipeline,Forecasting & pipeline; Revenue analytics; Business planning
+d40aadf6-ae1a-4617-99cf-89a9933ab482,Guru,Knowledge & company brain,Knowledge & company brain; Knowledge base; Company brain
+66e77082-f23f-4ad3-a964-ee638d443eea,Handy,Communication & productivity,Communication & productivity; Voice dictation; Transcription; Open source
+d74e28ef-c328-41a6-86b2-e03e456453fa,Happenstance,Lead generation,Lead generation; Relationship mapping; Warm intros; People search
+135142e7-4400-437a-98a8-f07c9aa97c27,Heymarket,Sales engagement,Sales engagement; SMS
+62130717-f9ed-48b5-be07-d0efd59e8029,HeyReach,Sales engagement,Sales engagement; LinkedIn automation
+1b1e2e6c-14f0-416b-b57f-55d244c3290f,HG Insights,Signals & intent,Signals & intent; Technographics; Intent signals; Company data
+14b0ab99-c4c8-4b5c-8475-e8d7f752e02b,HitHorizons,Lead generation,Lead generation; Company data; Company register data
+0464735f-cfb3-45e0-b191-62e5c5796563,HubSpot,CRM,CRM; Marketing automation; Email marketing; Customer support
+223483de-0d3c-4c60-a6f7-5b1a5063e231,HubSpot Breeze,CRM,CRM; AI agents; Lead enrichment; Account enrichment
+ba614197-ad12-489c-ad05-df938e49428e,HubSpot Marketing Hub,Email marketing & automation,Email marketing & automation; Marketing automation; Email marketing
+9517b8aa-4716-4574-8196-e4ac34c1cba5,HubSpot Service Hub,Customer success & support,Customer success & support; Customer support; Live chat
+72e519a1-17dc-435e-88fb-7e53d9f91b9e,Hunter.io,Lead generation,Lead generation; Email finder; Email verification; Email outreach
+efd07b8c-ef2a-4690-9a00-1989848728d0,Hyperline,CPQ & billing,CPQ & billing; Billing; CPQ
+773076cf-c4d8-4322-81c4-ff674c6cf918,Hyperspell,Knowledge & company brain,Knowledge & company brain; Company brain; Agent memory
+0adc9532-feeb-4362-afef-390b89d0ebc4,Indeed,Signals & intent,Signals & intent; Hiring signals; Data source
+576a78ff-3232-4797-b742-4fa7a0f904bb,Instantly,Sales engagement,Sales engagement; Email outreach; Deliverability; Contact data
+c670f3b7-2c3b-4c23-a46d-f4ac9cea28bd,Intercom,Customer success & support,Customer success & support; Customer support; Live chat; AI agents
+562c85e0-8c0e-4140-a813-44d91f69480f,Jiminny,Conversation intelligence,Conversation intelligence; Call recording; Deal intelligence
+364e4809-508c-46e6-821c-9fca8ec77d64,Juicebox,Lead generation,Lead generation; People search; AI research
+ab7d9dba-9f86-4e4b-972f-216bd90e9a85,Jungler,Signals & intent,Signals & intent; Social signals; LinkedIn data
+9c513b0d-1586-4892-b489-ab59855625b0,JustCall,Calling & dialers,Calling & dialers; VoIP; Power dialer; SMS; AI voice agent
+9cbc557c-15a0-48d6-b7b7-9d80a4ecb4aa,Kickscale,Conversation intelligence,Conversation intelligence; Deal intelligence; Call recording; Forecasting
+7c86092c-61e0-4c01-be34-3d266c0d0a07,Kiflo,Partnerships & referrals,Partnerships & referrals; Partner management
+554ae8d0-9432-427b-a116-96e7414e8351,Kixie,Calling & dialers,Calling & dialers; Power dialer; SMS; Lead routing
+69b6eec4-0752-4e93-9729-0c07b85fa034,La Growth Machine (LGM),Sales engagement,Sales engagement; Multichannel outreach; LinkedIn automation; Email outreach
+9c7b2884-71a5-41af-8b82-a34708c33152,LangChain,Developer tools,Developer tools; Agent framework; LLM
+696a1b1a-8459-4676-bd9d-972919b397c3,Langdock,AI assistants & LLMs,AI assistants & LLMs; AI assistant; AI agents
+597e38ea-220b-47ea-8c77-864f8b24fdd6,Leadfeeder,Signals & intent,Signals & intent; Website visitor identification; Intent signals
+7be153d7-0da7-47f8-a125-552ac94a1690,LeadMagic,Lead generation,Lead generation; Email finder; Email verification; Lead enrichment; Data API
+bb92b726-1fba-4fdc-998a-7b6bb1fa85f1,Leadsforge,Lead generation,Lead generation; People search; Contact data; Waterfall enrichment
+c3808006-75df-426f-9f69-bfaa1d8458cb,LeanData,Lead routing & scheduling,Lead routing & scheduling; Lead routing; Meeting scheduling
+813a09db-1d78-4d20-ab4f-bb8b990621b9,lemlist,Sales engagement,Sales engagement; Email outreach; LinkedIn automation; Multichannel outreach; Contact data
+8e56eda9-791b-440b-8a42-55292d8ee4bd,Lightfield,CRM,CRM; CRM updates; AI agents
+38877742-d144-4cfc-94b3-a21bbfdda312,Lindy,AI agents,AI agents; AI writing; Workflow automation
+67f576ab-6da5-40af-b4d5-57535b19c131,Linked Helper,Sales engagement,Sales engagement; LinkedIn automation
+7f75f565-dece-4eaa-b0ea-b18880966949,LinkedIn Ads,Advertising,Advertising; Paid ads
+59dbafe1-c20f-40bb-b0a5-91d62c2b829d,LinkedIn MCP Server,Developer tools,Developer tools; MCP; LinkedIn automation; LinkedIn data
+ba1987d1-aff0-4b89-a658-a431854496d5,LinkedIn Sales Navigator,Lead generation,Lead generation; People search; LinkedIn data; Company data
+8800eeea-9fa0-40fd-bdf1-cfcc95d55ea3,Linkup,Web scraping,Web scraping; Web search API; AI research
+ac51dd57-2cf5-4055-8134-ef9735062b5b,Livestorm,Content & social media,Content & social media; Webinars
+76a4da1c-b44a-49c3-a429-d989889886d5,Llama,AI assistants & LLMs,AI assistants & LLMs; LLM; Open source
+97ebf7b1-f17b-40f0-8b07-8a254ffeb08e,Loom,Content & social media,Content & social media; Video
+53ff8f9b-1789-460f-a41c-2915ffc8b4f2,Loops,Email marketing & automation,Email marketing & automation; Email marketing; Transactional email
+9a363964-bf2b-47e1-945b-7a20e777f841,Lovable,Developer tools,Developer tools; Vibe coding; Website builder
+e0d15203-eeae-48e4-8eb7-36f764f7a9e7,Lucidchart,Communication & productivity,Communication & productivity; Whiteboard & diagrams; Process mapping
+e36b6163-b805-454f-ab2b-416742aae29e,Lusha,Lead generation,Lead generation; Contact data; Email finder; Phone numbers; Lead enrichment
+e9810700-8c0b-440b-80c4-54cc13cbc025,Mailchimp,Email marketing & automation,Email marketing & automation; Email marketing; Marketing automation; SMS
+bb42ad3d-649a-4e30-91ab-a08a8fc9d426,Maildoso,Email infrastructure,Email infrastructure; Mailbox setup; Deliverability
+d7951910-c82b-4a1e-a238-4e94a3f118d5,Mailgun,Email infrastructure,Email infrastructure; Transactional email; Email verification
+c62bbd92-11b2-427f-8f08-8d4e2a41a9ee,Mailreef,Email infrastructure,Email infrastructure; Mailbox setup; Deliverability
+9b1678f6-0b65-4e9d-971e-5cd92a2c5b46,Make (make.com),Workflow automation,Workflow automation; iPaaS; AI agents
+5e7a2202-7294-48b7-931d-e388d4fae3f4,Mapbox,Developer tools,Developer tools; Maps & geodata; Data API
+266ea04e-dd5d-4143-9ec3-6261eb87e82a,Master Inbox,Sales engagement,Sales engagement; Unified inbox; LinkedIn automation; AI agents
+9c6ef64a-efe9-4a5c-a3ab-bfd428ca9bd8,Maxio,CPQ & billing,CPQ & billing; Billing; Subscription analytics
+112dd5a1-035a-4624-8f3b-0c9bcbd17414,Microsoft 365,Communication & productivity,Communication & productivity; Email client; Calendar; Documentation
+36063062-6c96-4a6c-b717-0f68f7de0850,Microsoft Dynamics,CRM,CRM; ERP
+63513570-3d0f-4e71-be5f-212d2b54afe2,Microsoft Exchange,Communication & productivity,Communication & productivity; Email client; Calendar
+7eea53ce-ef4b-49f5-8c43-03122cb2f593,Microsoft Outlook,Communication & productivity,Communication & productivity; Email client; Calendar
+2986bfc1-7063-4e38-907a-5aa705115cf7,Microsoft Power Automate,Workflow automation,Workflow automation; RPA
+dd782f78-3b2f-426c-9e0e-5600c4e50aaa,Microsoft Power BI,Data & analytics,Data & analytics; Business intelligence
+6dcb29cf-f026-45d3-abb3-42458dfe79cd,Microsoft SharePoint,Knowledge & company brain,Knowledge & company brain; Knowledge base; Documentation
+26722293-dfc2-424f-83a8-0601eba7153b,Microsoft Teams,Communication & productivity,Communication & productivity; Team messaging
+cdf09082-9867-4afd-9710-6b7bb4bfbeb1,MillionVerifier,Email infrastructure,Email infrastructure; Email verification
+4d46306e-831e-437f-b45d-5c69a08487f4,Miro,Communication & productivity,Communication & productivity; Whiteboard & diagrams; Process mapping
+6312093b-6eeb-47f9-a61c-99ef5967fb73,Mission Inbox,Email infrastructure,Email infrastructure; Mailbox setup; Deliverability
+781e4265-c89e-416e-a242-c999bbed5177,Mixmax,Sales engagement,Sales engagement; Email outreach; Meeting scheduling
+fe2ace94-3ef9-4344-b6fe-e6533310b133,Modern Relay,Knowledge & company brain,Knowledge & company brain; Company brain; Agent memory
+3355ef6c-ac5c-48c3-9aec-dbcd7c61d97d,Modjo,Conversation intelligence,Conversation intelligence; Call recording; Deal intelligence
+01a3fa06-c9b2-4099-bfd3-ee3c6f44224f,Momentum,Conversation intelligence,Conversation intelligence; CRM updates; Meeting notes; Deal intelligence
+76f109e1-512c-4da1-8f84-d2cbac7c3177,Monaco,CRM,CRM; AI SDR; Email outreach; Contact data
+44937709-5871-4612-a358-e59063a5a350,MyHammer,Lead generation,Lead generation; Data source; Local business data
+ebcf0035-3692-4885-b191-2ad2ac4b5845,n8n,Workflow automation,Workflow automation; AI agents; Open source
+9e030fa2-ac58-4bdd-85fa-00275debb3c3,n8n MCP,Workflow automation,Workflow automation; MCP
+87bb5e57-73d9-4c2f-8fc1-ae755127405f,Nationalize API,Lead generation,Lead generation; Lead enrichment; Data API
+0c83a168-8e7d-4814-9ab4-01e637166b43,Needle,AI agents,AI agents; AI SDR; Email outreach; LinkedIn automation
+f11cc109-61b3-465a-b8b2-10b7ca6e0dc8,Neon,Data & analytics,Data & analytics; Database
+9a07e461-f615-412f-af70-ec2360863b49,Nooks,Calling & dialers,Calling & dialers; Power dialer; Cold calling; AI agents
+d763211f-1400-408e-abe4-5a3febbe3669,North Data,Lead generation,Lead generation; Company data; Company register data
+a1330b90-4f92-4dea-9b32-f65f5af2675a,Notion,Knowledge & company brain,Knowledge & company brain; Knowledge base; Documentation; Lightweight CRM
+02ddc16f-6a2d-4802-a9d1-c07b890d40c6,Nuacom,Calling & dialers,Calling & dialers; VoIP
+fa5819c1-af95-4d8c-b26a-69474738c0d4,Nue,CPQ & billing,CPQ & billing; CPQ; Billing
+ba9e2e2b-8640-4bd0-b04f-6da8b62f8a6b,Octave,AI agents,AI agents; AI writing; Company brain
+9578ee6b-c8cc-4fe0-88f2-937a9380ec7f,Octoparse,Web scraping,Web scraping; Data extraction
+e6760576-5ca2-490b-9332-b37aab61b043,Odoo,CRM,CRM; ERP; Open source
+03dfb0a7-e656-430b-8820-12e35a2627b6,Offene Register,Lead generation,Lead generation; Company register data; Company data
+5480d459-bae7-4b72-965f-12d1790dee37,Ontora,Knowledge & company brain,Knowledge & company brain; Process mapping; AI agents
+94459f42-8cd0-4117-ad34-22b99db54cec,OpenRegister,Lead generation,Lead generation; Company register data; Data API
+d984a4b8-1f2c-4ee3-b9bb-a1673b365f9b,Optilyz,Sales engagement,Sales engagement; Direct mail
+5ce02035-5a3b-40d7-aef0-b1986967972c,Orum,Calling & dialers,Calling & dialers; Power dialer; Cold calling; AI agents
+2f475707-55d3-494a-b0a8-eab26d270345,Outreach,Sales engagement,Sales engagement; Email outreach; Multichannel outreach; Forecasting
+3856607c-059d-462a-8d84-10c193c58ea8,Oxygen,CRM,CRM; AI agents; Email outreach
+54af55a9-6187-43f3-b72b-d712d111f02e,Pardot,Email marketing & automation,Email marketing & automation; Marketing automation; Email marketing
+29fdb9fb-cfba-4e02-9091-d2f807f932bd,People.ai,Forecasting & pipeline,Forecasting & pipeline; Revenue analytics; Deal intelligence; CRM updates
+6c9516a1-a583-4460-affd-9f3149770f9a,Perplexity,AI assistants & LLMs,AI assistants & LLMs; AI research; AI assistant
+b25c714f-7efc-4b7b-866f-7a65051f79d5,PhantomBuster,Web scraping,Web scraping; LinkedIn data; LinkedIn automation; Data extraction
+a5d91af9-7b12-4320-a4d7-d71c6c270e3d,PhariaAI (Aleph Alpha),AI assistants & LLMs,AI assistants & LLMs; LLM; AI assistant
+06ef96a6-27fe-442e-a4d2-6ff9f9a1a94b,Pigment,Forecasting & pipeline,Forecasting & pipeline; Business planning; Forecasting
+7449ed07-54a4-482a-9737-d015deeef81a,pipe0,Lead generation,Lead generation; Lead enrichment; Account enrichment; Waterfall enrichment; Data transformation; Workflow automation
+6dd467b4-56ce-4975-88d1-7bfdd6a77cea,Pipedrive,CRM,CRM; Pipeline management
+0401f4a9-f033-44db-9b3f-28476943bd13,Planable,Content & social media,Content & social media; Social media content
+466df87d-51ba-4def-8099-17e3fc5ff81f,Playwright,Developer tools,Developer tools; Browser automation; Data extraction; Open source
+1e3e74f3-b5b8-42cf-8c3d-6e49b85061d6,PostgreSQL,Data & analytics,Data & analytics; Database; Open source
+156dfdc6-28d9-4bf2-bcca-8d565a45e628,Postmark,Email infrastructure,Email infrastructure; Transactional email
+b5b114fd-49e2-4944-bb00-dba20c7b35c5,Predict Leads,Signals & intent,Signals & intent; Hiring signals; Company data; Data API
+07cb76da-5dbc-4349-8839-8fc41952d436,Primeforge,Email infrastructure,Email infrastructure; Mailbox setup; Deliverability
+e4516e7c-5adf-438a-b95f-71462de0ec22,Prospeo,Lead generation,Lead generation; Email finder; Phone numbers; People search; Lead enrichment
+f86b0466-7365-45c5-a530-98ed6bbd5e77,PublicWWW,Signals & intent,Signals & intent; Technographics
+4e94e740-4442-4073-b6a0-206df2fa5830,Puppeteer,Developer tools,Developer tools; Browser automation; Data extraction; Open source
+00a825a7-789f-40bc-98cf-e88d4b720552,Qontext,Knowledge & company brain,Knowledge & company brain; Company brain; Agent memory
+2014f45d-8e02-4a49-bdcb-3e442b4b8c24,RapidAPI,Developer tools,Developer tools; API marketplace; Data API
+27c31a18-14e7-4a90-bf69-c0589b2ca6a1,RB2B,Signals & intent,Signals & intent; Website visitor identification; Intent signals
+4305759e-75d5-498a-8461-aec4b98e249d,Re2.ai,Lead generation,Lead generation; Local business data; Contact data
+5f5b91c3-e830-4700-899d-38c7b868e11a,Reachdesk,Sales engagement,Sales engagement; Gifting; Direct mail
+a2e4101b-d6ac-4e5b-a105-db1d64410525,registercheck.de,Lead generation,Lead generation; Company register data; Company data
+b8e33030-39f2-4a7b-a2e5-ed16278c9dc0,Replit,Developer tools,Developer tools; Vibe coding; Website builder; AI coding
+426076f1-b096-4bf6-9caf-7e6ce54789e2,Reply.io,Sales engagement,Sales engagement; Email outreach; Multichannel outreach; AI SDR; Contact data
+3b18f534-38a2-477b-981e-3f3cff958198,Retell API,AI agents,AI agents; AI voice agent
+7653c821-009d-4e3f-888b-8b89a5036796,Revenue Hero,Lead routing & scheduling,Lead routing & scheduling; Lead routing; Meeting scheduling
+546faced-6748-4e47-8999-0e50540f4f12,Salesforce,CRM,CRM
+ac54fe67-96f1-4b43-9a1e-6f20839fd9b2,Salesforce (SFDC),CRM,CRM
+57f4d5b7-e6e0-4833-8659-57904de362ec,Salesforce Agentforce,AI agents,AI agents; AI SDR; Customer support
+2ff249da-f4c5-4bda-9eb6-72f7ab1edde6,Salesforce AppExchange,CRM,CRM; App marketplace
+0134fff1-ada5-4225-901a-213299d63a79,Salesforce CPQ,CPQ & billing,CPQ & billing; CPQ
+c7500102-b7f4-41ed-98ad-8344fe409b90,Salesforce Experience Cloud,Partnerships & referrals,Partnerships & referrals; Partner management
+8ee63ce3-f198-458a-b712-299510b7d122,Salesforce Revenue Cloud,CPQ & billing,CPQ & billing; CPQ; Billing
+48666941-41a5-4c70-b7c4-4cea967f48ab,Salesforce Trailhead,Learning & research,Learning & research; Online courses
+f1c3daa5-f7dd-42c8-a2cb-f8f3c67e07ad,Salesforge,Sales engagement,Sales engagement; Email outreach; LinkedIn automation; Multichannel outreach; AI SDR; Mailbox setup
+6f479d3f-2d29-4c4f-9ba8-9866b3e90b74,Salesloft,Sales engagement,Sales engagement; Email outreach; Multichannel outreach; Power dialer; Forecasting
+ad14578a-d5a8-4bee-89f2-2d90a15aaaa8,SalesQL,Lead generation,Lead generation; Email finder; Phone numbers; LinkedIn data
+72523157-cf1a-45dd-b687-124d10b0f4ab,SalesRobot,Sales engagement,Sales engagement; LinkedIn automation; Email outreach; AI SDR
+7854ceac-4a6b-482b-ab71-58ce1f4ddb7c,SAP Analytics Cloud,Data & analytics,Data & analytics; Business intelligence; Business planning
+967dbb1b-2814-49d0-b25b-701be1106b81,SAP C4C,CRM,CRM
+805f7aa4-7fce-4ad1-a646-0e6471065993,SAP Integration Suite,Workflow automation,Workflow automation; iPaaS
+1bfad073-89f6-44c5-8758-1e3a3e512605,ScaledMail,Email infrastructure,Email infrastructure; Mailbox setup; Deliverability
+74472259-1aa9-441e-aebd-680c92e4aab1,Scripe,Content & social media,Content & social media; Social media content; AI writing
+25d858c0-f4c5-402f-b4c1-0081b8c43913,Sectorlens,Signals & intent,Signals & intent; Hiring signals; Technographics
+a4cba862-66df-43c8-8fef-081b3d178ca1,Semrush,Signals & intent,Signals & intent; Web traffic data; SEO
+c37662bf-c153-4a55-b653-48b3e61084db,Sendoso,Sales engagement,Sales engagement; Gifting; Direct mail
+6d75784e-add9-46d4-acf3-b731df968c57,Sentra,Knowledge & company brain,Knowledge & company brain; Company brain; Agent memory
+9dc63446-f442-4f81-b81c-d30bd182f7e8,Serper,Web scraping,Web scraping; Web search API
+22fb79ee-b7d1-4a85-ab84-d5e2cec74bb3,Serpstat,Signals & intent,Signals & intent; Web traffic data; SEO
+a56be7d8-eaba-48c0-8780-4dc22c3b158b,Shopify,Websites & e-commerce,Websites & e-commerce; E-commerce; Website builder
+11cdcfe2-7a91-4b8b-86e6-ddc39ddde6fe,Shopware,Websites & e-commerce,Websites & e-commerce; E-commerce
+0b6f1303-b460-4c56-b5dc-db2e0c166e3c,SimilarWeb,Signals & intent,Signals & intent; Web traffic data; Intent signals
+a26f916e-da3b-46f9-90be-e4b7fe65e765,Slack,Communication & productivity,Communication & productivity; Team messaging; Community
+888638e0-0eeb-4a17-99a5-0a7efd5c6d43,Smartlead,Sales engagement,Sales engagement; Email outreach; Deliverability
+0ed60e67-bbfe-4a12-a8fb-192b7d1b5b39,Snitcher,Signals & intent,Signals & intent; Website visitor identification; Intent signals
+d8e74c12-0968-4147-98e1-d24a1b8fec3f,Snowflake,Data & analytics,Data & analytics; Data warehouse
+2e500f5a-0629-42f3-88ee-7f62b34a20cc,Subskribe,CPQ & billing,CPQ & billing; CPQ; Billing
+8eca138a-7e39-419b-8c15-9298ff5d21be,Supabase,Data & analytics,Data & analytics; Database; Open source
+cfe8f4bc-2f3a-433a-9d50-2a1f8c586357,Superchat,Customer success & support,Customer success & support; Customer support; Messaging apps
+5c6d42af-11f7-42ae-8bc3-d73e8184dccd,Superhuman,Communication & productivity,Communication & productivity; Email client; AI writing
+f7971779-e9c6-4043-aa62-dded0797aa8e,Surfe,Lead generation,Lead generation; LinkedIn data; Email finder; Phone numbers; Lead enrichment; CRM updates
+04d636b6-e7cf-4760-9dc3-0d3f2628f184,Swarm,Lead generation,Lead generation; Relationship mapping; Warm intros
+8af0539d-9d3c-4f7b-8321-7254aa2702f4,sweep.io,CRM,CRM; Lead routing; Workflow automation
+4e642fcf-64ee-43a7-92f5-25c6a225042d,Tableau,Data & analytics,Data & analytics; Business intelligence
+09fb00e1-2666-4978-98a6-febb469aa5f0,Talon.One,Partnerships & referrals,Partnerships & referrals; Loyalty & promotions; Referral programs
+7a65207c-7805-4b8e-a382-cc0e4fdc8b49,Teamfluence,Signals & intent,Signals & intent; Social signals; LinkedIn data
+ee6b4442-b988-45d0-8351-5e82a7217cb5,Telegram,Communication & productivity,Communication & productivity; Messaging apps; Community
+be7f77d2-50a1-4f6f-b48a-3507edf8aa7e,theirstack,Signals & intent,Signals & intent; Technographics; Hiring signals; Data API
+bac8475d-0f1b-48d4-b21d-6a3f0f9f1503,TitanX,Calling & dialers,Calling & dialers; Phone numbers; Power dialer; Cold calling
+6a0e8edc-85a2-4d42-8aa4-4e5f943ad626,tl;dv,Conversation intelligence,Conversation intelligence; Meeting notes; Call recording; Transcription
+e88bacd0-0548-42ff-a401-052207268f6a,Tome,Sales enablement,Sales enablement; Presentations
+799eee50-51cb-4ae1-8e81-a3dc47f6558e,Totango,Customer success & support,Customer success & support; Customer success
+383bcd0e-9422-4a12-af40-5725ea992e80,tray.ai,Workflow automation,Workflow automation; iPaaS; AI agents
+b19e6617-4617-48b2-b803-61117cc4552c,Trigify,Signals & intent,Signals & intent; Social signals; LinkedIn data
+6fdd1da9-34ef-4668-a40b-27be054ef318,Trumpet,Sales enablement,Sales enablement; Digital sales room; Mutual action plan
+79957655-9c25-4a67-8b5a-aff91e41570f,Twain,Sales engagement,Sales engagement; AI writing; Email outreach; AI research
+527fce68-d5e0-49e4-aead-0be2687be2c3,Udemy,Learning & research,Learning & research; Online courses
+2f2fbfc4-56e1-4663-ba33-413555b14d9f,Unipile,Developer tools,Developer tools; Messaging apps; LinkedIn automation; Data API
+8b816eda-5fbf-4225-b227-e520ef477c37,Valuecase,Sales enablement,Sales enablement; Digital sales room; Mutual action plan; Customer success
+51732629-4fde-46e0-af67-82c6418af533,Vendr,Learning & research,Learning & research; Software pricing
+79bb3532-3044-406f-a643-817c707d4485,Veo 3,AI assistants & LLMs,AI assistants & LLMs; AI video generation
+2a037dcf-7c99-4bf8-a861-bf253e1f0f5f,VS Code,Developer tools,Developer tools; Code editor
+15615d18-bfe9-438e-ad04-7c442346c999,Wappalyzer,Signals & intent,Signals & intent; Technographics
+4e8ea830-b22a-4c5f-928f-bb73991f417b,Webflow,Websites & e-commerce,Websites & e-commerce; Website builder
+52c18fb4-d38a-448e-a7fa-0e221eb95321,Weflow,Forecasting & pipeline,Forecasting & pipeline; Pipeline management; Forecasting; CRM updates
+25fa4032-4719-44ec-b717-0f79056dad8e,WhatsApp,Communication & productivity,Communication & productivity; Messaging apps; Community
+d3f4e2d3-9456-4b8e-aac1-d94ae4821865,Whisper API,AI assistants & LLMs,AI assistants & LLMs; Transcription
+defc13b8-42f8-4f74-95c0-ac3b0b53d098,Wispr Flow,Communication & productivity,Communication & productivity; Voice dictation
+5bf136fe-c1d4-4c73-a338-7250d15e3aa7,Wix,Websites & e-commerce,Websites & e-commerce; Website builder; E-commerce
+5e6dc06a-e565-45c9-9b71-503d1f9953a7,Xing,Lead generation,Lead generation; Data source; People search
+ecd4c740-9dd1-47b2-a978-ee6a36bc97cd,XLR8,Content & social media,Content & social media; Social media content; AI writing
+08ca8c7c-26ee-46c0-a606-529841a770da,yothere,Developer tools,Developer tools; Voice dictation; AI coding
+cea06783-8127-4d41-acb4-559bae4d74ed,Zapier,Workflow automation,Workflow automation; iPaaS; AI agents
+5f7143f9-82c8-4164-aad7-46d6570f9ed5,Zapier Central,Workflow automation,Workflow automation; AI agents
+0c757686-1147-4d0e-87d6-4ef249c49575,Zapmail,Email infrastructure,Email infrastructure; Mailbox setup; Deliverability
+1db6986c-8ae0-4115-b382-2a925f626393,ZenRows,Web scraping,Web scraping; Data extraction; Proxies
+77b1f8c1-8cc7-4928-a455-0d8b53d39b69,Zero,CRM,CRM; CRM updates; AI agents
+f042ce19-645f-4903-829f-7ff9aa94663d,ZeroBounce,Email infrastructure,Email infrastructure; Email verification; Deliverability
+fd8f1d42-e5f7-4560-b5e0-da8d2b3dd98b,Zoom Phone,Calling & dialers,Calling & dialers; VoIP
+fd30c375-831c-449f-ba74-9897b26fcac0,ZoomInfo,Lead generation,Lead generation; Contact data; Company data; Intent signals; Lead enrichment; Account enrichment
+114b1afc-7d4e-4713-96e2-a921693e8126,Zuora (written 'Zoura'),CPQ & billing,CPQ & billing; Billing; CPQ

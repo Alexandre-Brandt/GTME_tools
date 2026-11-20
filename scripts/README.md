@@ -39,6 +39,30 @@ python3 -I scripts/fetch_pages.py status
 - `scripts/fetch_state/` holds the plans and results of the 2026-11-13 run (642 records). `state_retry_00.json` is the advanced-depth retry; it overrides the earlier failures in `merge`.
 - Pricing pages with almost no pricing words were deleted by hand after the run (15 of them) and marked failed in the state files. The script does not do that check yet.
 
+## pricing_flags.py (freemium and trial, step 4)
+
+Fills `Has freemium`, `Has trial` (`Yes` / `No` / `Unknown`) and `For manual review` in `output/combined_tools_enriched.csv` from the saved pricing pages.
+
+```
+python3 -I scripts/pricing_flags.py report out.tsv   # dry run: one row per tool with the matched phrase
+python3 -I scripts/pricing_flags.py apply            # write the three columns to the CSV
+```
+
+- Safe to rerun: `apply` recomputes the three columns from the pages every time, so **manual edits to those columns are overwritten**. Put lasting corrections in `OVERRIDE` (or `UNRESOLVED`) inside the script.
+- The matching rules and why they are the way they are: `output/next_steps.md`, step 4.
+
+## categories.py (main category and tags)
+
+Copies `Main category` and `Tags` from `data/tool_categories.csv` (the hand-edited source) into `output/combined_tools_enriched.csv`.
+
+```
+python3 -I scripts/categories.py check   # unknown categories/tags, missing or duplicate UUIDs
+python3 -I scripts/categories.py apply   # runs check first, then writes the two columns
+```
+
+- The allowed main categories and tags are the two lists at the top of the script. Add a tag there before using it.
+- Tags are separated by `; ` and the first tag is always the main category.
+
 ## Not saved on purpose
 
 - The WebSearch/Tavily URL enrichment, the Tavily clean-ups and the 10-pair duplicate merge were done as one-off steps in the session and are not scripts. What was decided and why is in `output/next_steps.md`.

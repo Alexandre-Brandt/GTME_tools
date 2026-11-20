@@ -8,8 +8,8 @@
 [ ] Store .md file with referred UUID in data/websites-markdown
 
 ## Categorization
-[ ] Refine tool categories (look at categorization at Statista, Sales Tech  
-[ ] Get category for each tool, store in new column.  
+[x] Refine tool categories (look at categorization at Statista, Sales Tech  
+[x] Get category for each tool, store in new column.  
 [ ] Use Apify to get G2 rating for each tool.  
 [ ] Get LinkedIn URL for each tool/company  
 [ ] Use Apify LinkedIn URL to get Company City, Country (location)  
