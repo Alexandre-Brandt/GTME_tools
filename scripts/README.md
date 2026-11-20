@@ -89,15 +89,17 @@ Set up once:
 
    Every push to `main` then rebuilds and redeploys the site at `https://gtme-tools.<subdomain>.workers.dev`.
 2. In Zero Trust, choose the **Free** plan (up to 50 users; it may ask for a card even at $0). The team name is `alex-gtm-tools`.
-3. Gate the site: open the Worker → **Settings → Domains & Routes**, find the `workers.dev` row and enable **Cloudflare Access**. This creates an Access application in Zero Trust.
-4. In Zero Trust → **Access → Applications**, open that application and set its policy:
-   - Action **Allow**, include **Emails**, then list the people who may log in.
-   - Login method: **One-time PIN** (a code sent by email; no passwords).
-5. Check the gate. In a private browser window:
-   - The site and `/data.json` should both show the Cloudflare login page.
-   - An email that isn't on the list should be refused.
+3. Gate the site: open the Worker → **Access** tab → **Protect this Worker behind Access**.
+   - Scope: **All traffic**. The default, "Previews only", leaves the live site public.
+   - Authentication policy: one of the two preconfigured policies, either of which lets in only the owner today:
+     - **Email domain** (`bingo-films.com`, with a one-time code sent by email)
+     - **Cloudflare account** (members of this Cloudflare account only)
+   - Click **Apply Access**.
+4. Check the gate. In a private browser window:
+   - `https://gtme-tools.alexandre-3d6.workers.dev` and `/data.json` should both show the Cloudflare login page.
+   - After you log in, the site loads.
 
-To give someone access, add their email to the policy. No redeploy is needed. Per-branch preview URLs are switched off in `wrangler.jsonc`, so only `main` is ever online.
+To give someone outside the domain access, go to Zero Trust → **Access → Policies** and create an Allow policy that includes **Emails**. Attach it to the `gtme-tools` application, and make sure **One-time PIN** is enabled as a login method. No redeploy is needed. Per-branch preview URLs are switched off in `wrangler.jsonc`, so only `main` is ever online.
 
 ## Not saved on purpose
 

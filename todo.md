@@ -17,7 +17,7 @@
 ## Interface
 [x] Generate HTML interface for database (site/, see scripts/README.md)  
 [x] Bar chart on count(rows) per Category (plus Has freemium, Has trial)  
-[ ] Host on Cloudflare (Worker, static assets), gated with Cloudflare Access  
+[x] Host on Cloudflare (Worker, static assets), gated with Cloudflare Access  
 [ ] Bar chart on count(rows) per Country  
 [ ] Filter: Categories, G2 rating, City, Country (Categories done)  
 [ ] Allow user to add comments to entry "comments" column and "date reviewed" column.

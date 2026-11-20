@@ -99,7 +99,7 @@ Totals: 294 rows have a Company URL, 59 a Product URL, 8 a Pricing URL.
 - Decisions: "Revenue operations" and "Marketing" were rejected as too wide and split (Lead routing & scheduling, Forecasting & pipeline; Email marketing & automation, Advertising, Websites & e-commerce, Content & social media). Features of a parent product take the parent's main category with an `AI agents` tag (HubSpot Breeze -> CRM, Claygent -> Lead generation).
 - Judgment calls worth a look: Alfa, Twain, Drift, Delphi.ai, Monaco, FindyMail, Airtop, axiom.ai, Salesforce Agentforce. Calltime, Cost, Growblocks and Sectorlens are based on the chat description only.
 
-### 4c. Website: BUILT (2026-11-20), hosting not set up yet
+### 4c. Website: DONE (2026-11-20), live at https://gtme-tools.alexandre-3d6.workers.dev (behind a login)
 - Stack (free):
   - `scripts/build_site.py` writes `site/data.json`.
   - `site/` is a single static page: Tabulator 6.3.1 + Chart.js 4.4.7 from CDNs, no bundler.
@@ -120,7 +120,10 @@ Totals: 294 rows have a Company URL, 59 a Product URL, 8 a Pricing URL.
   - Freemium Unknown → 212 tools.
   - Tag "AI agents" → 35 tools, including HubSpot Breeze.
   - Invalid hash values are ignored, and there were no console errors.
-- To do: the one-time Cloudflare setup (Workers flow) in `scripts/README.md` ("Hosting").
+- Hosting set up on 2026-11-20 (steps in `scripts/README.md`, "Hosting"):
+  - Every push to `main` redeploys.
+  - Cloudflare Access (Worker → Access tab, scope **All traffic**) uses one of the two preconfigured policies (the `bingo-films.com` email domain, or the Cloudflare account). Either way only the owner can log in. Checked in a private window: the site and `/data.json` both show the login page.
+  - Nobody else is invited yet.
 - Later: comments and a "date reviewed" per tool (in `todo.md`) would need storage. On the same free stack: Pages Functions + D1, with the user taken from the `Cf-Access-Authenticated-User-Email` header.
 
 ### 5. Optional
@@ -142,4 +145,4 @@ Totals: 294 rows have a Company URL, 59 a Product URL, 8 a Pricing URL.
 - Subagents share that cap, and several stopped partway when it ran out. Their unfinished rows were left unsearched, not recorded as failures.
 - Tavily search results are small when `include_domains` is used, so a batch of 12-14 parallel calls fits comfortably in one turn.
 - Scripts are in `scripts/` (see `scripts/README.md`): the chat analysis that builds the per-group CSVs and the page fetch. The URL enrichment and the duplicate merge were one-off steps and are not saved as scripts; the rules above are enough to recreate them.
-- Steps 1-4c are done (4c still needs the Cloudflare setup). Next: manual review of the `For manual review` rows and of the categories, then step 5 or the rest of `todo.md` (G2 ratings, LinkedIn URLs, locations, HTML interface).
+- Steps 1-4c are done. Next: manual review of the `For manual review` rows and of the categories, then step 5 or the rest of `todo.md` (G2 ratings, LinkedIn URLs, locations, HTML interface).
