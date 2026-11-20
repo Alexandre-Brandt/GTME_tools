@@ -63,6 +63,42 @@ python3 -I scripts/categories.py apply   # runs check first, then writes the two
 - The allowed main categories and tags are the two lists at the top of the script. Add a tag there before using it.
 - Tags are separated by `; ` and the first tag is always the main category.
 
+## build_site.py (website)
+
+Writes `site/data.json` from `output/combined_tools_enriched.csv`. The website itself is `site/index.html`, `site/app.js` and `site/style.css`: plain files with no build step. Tabulator 6.3.1 (table) and Chart.js 4.4.7 (charts) are loaded from CDNs at pinned versions.
+
+```
+python3 -I scripts/build_site.py              # writes site/data.json
+python3 -m http.server -d site 8000           # preview at http://localhost:8000
+```
+
+- Only the columns listed in `COLUMNS` are published. **`Mentioned by` (people's names) and the internal pipeline columns are left out on purpose.** Don't add them.
+- `site/data.json` is generated and gitignored. Cloudflare builds it on every deploy.
+- Filters are kept in the URL hash, so a filtered view can be bookmarked or shared, e.g. `#main=CRM&freemium=Yes`.
+
+### Hosting: Cloudflare Pages + Cloudflare Access (free)
+
+Set up once:
+
+1. Sign up at https://dash.cloudflare.com/sign-up.
+2. Go to **Workers & Pages → Create → Pages → Connect to Git** and pick the `GTME_tools` repo. Settings:
+   - Production branch: `main`
+   - Framework preset: None
+   - Build command: `python3 scripts/build_site.py`
+   - Build output directory: `site`
+
+   Every push to `main` then rebuilds and redeploys the site at `https://<project>.pages.dev`.
+3. Open **Zero Trust** in the dashboard sidebar. Pick a team name and the **Free** plan (up to 50 users; it may ask for a card even at $0).
+4. Under **Zero Trust → Access → Applications → Add an application → Self-hosted**:
+   - Domains: `<project>.pages.dev` and `*.<project>.pages.dev` (the second covers preview builds).
+   - Policy: action **Allow**, include **Emails**, then list the people who may log in.
+   - Login method: **One-time PIN** (a code sent by email; no passwords to manage).
+5. Check the gate. In a private browser window:
+   - The site and `https://<project>.pages.dev/data.json` should both show the Cloudflare login page.
+   - An email that isn't on the list should be refused.
+
+To give someone access, add their email to the policy. No redeploy is needed.
+
 ## Not saved on purpose
 
 - The WebSearch/Tavily URL enrichment, the Tavily clean-ups and the 10-pair duplicate merge were done as one-off steps in the session and are not scripts. What was decided and why is in `output/next_steps.md`.

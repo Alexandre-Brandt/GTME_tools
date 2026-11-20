@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>GTM tools</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><rect x='1' y='9' width='3' height='6' rx='1' fill='%232a78d6'/><rect x='6.5' y='5' width='3' height='10' rx='1' fill='%232a78d6'/><rect x='12' y='1' width='3' height='14' rx='1' fill='%232a78d6'/></svg>">
+  <!-- Libraries are pinned to exact versions so a new release can't change the site. -->
+  <link rel="stylesheet" href="https://unpkg.com/tabulator-tables@6.3.1/dist/css/tabulator_simple.min.css">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://unpkg.com/tabulator-tables@6.3.1/dist/js/tabulator.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="page-header">
+    <div>
+      <h1>GTM tools</h1>
+      <p class="muted">Tools mentioned in the Berlin RevOps Chapter and Clay Club Berlin WhatsApp groups.</p>
+    </div>
+    <p class="muted small" id="built"></p>
+  </header>
+
+  <main>
+    <section class="filters" aria-label="Filters">
+      <input type="search" id="q" placeholder="Search name, tag or description" aria-label="Search">
+      <select id="main" aria-label="Main category"><option value="">All categories</option></select>
+
+      <div class="tag-picker" id="tag-picker">
+        <button type="button" id="tag-button" aria-haspopup="true" aria-expanded="false">Tags</button>
+        <div class="tag-panel" id="tag-panel" hidden>
+          <input type="search" id="tag-search" placeholder="Find a tag" aria-label="Find a tag">
+          <div class="tag-list" id="tag-list" role="group" aria-label="Tags"></div>
+        </div>
+      </div>
+
+      <select id="freemium" aria-label="Has freemium">
+        <option value="">Freemium: any</option>
+        <option>Yes</option><option>No</option><option>Unknown</option>
+      </select>
+      <select id="trial" aria-label="Has trial">
+        <option value="">Trial: any</option>
+        <option>Yes</option><option>No</option><option>Unknown</option>
+      </select>
+      <label class="check"><input type="checkbox" id="review"> Needs manual review</label>
+      <button type="button" id="reset" class="link-button">Reset</button>
+    </section>
+
+    <div class="chips" id="chips" aria-live="polite"></div>
+
+    <section class="charts" aria-label="Charts">
+      <figure class="card chart-main">
+        <figcaption><strong>Tools per main category</strong><span class="muted small">Click a bar to filter</span></figcaption>
+        <div class="chart-box" id="main-box"><canvas id="chart-main" aria-label="Number of tools per main category" role="img"></canvas></div>
+      </figure>
+      <div class="chart-side">
+        <figure class="card">
+          <figcaption><strong>Has freemium</strong><span class="muted small">Free plan on the pricing page</span></figcaption>
+          <div class="chart-box small-box"><canvas id="chart-freemium" aria-label="Number of tools per freemium value" role="img"></canvas></div>
+        </figure>
+        <figure class="card">
+          <figcaption><strong>Has trial</strong><span class="muted small">Free trial on the pricing page</span></figcaption>
+          <div class="chart-box small-box"><canvas id="chart-trial" aria-label="Number of tools per trial value" role="img"></canvas></div>
+        </figure>
+        <p class="muted small note">"Unknown" means the pricing page doesn't say, or there is no pricing page.</p>
+      </div>
+    </section>
+
+    <section class="card table-card" aria-label="Tools">
+      <div class="table-head">
+        <strong id="count">Loading…</strong>
+        <span class="muted small">Click a row for details</span>
+      </div>
+      <div id="table"></div>
+    </section>
+  </main>
+</body>
+</html>

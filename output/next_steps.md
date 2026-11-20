@@ -1,6 +1,6 @@
 # Tool enrichment: status and next steps
 
-Last updated: 2026-11-20 (after step 4, freemium and trial, and the categorization)
+Last updated: 2026-11-20 (after step 4, freemium and trial, the categorization and the website)
 
 ## Where things stand
 
@@ -13,6 +13,7 @@ Last updated: 2026-11-20 (after step 4, freemium and trial, and the categorizati
 | `data/stats/` | The per-group 3-KPI files (`clayclub_stats.md`, `revopschat_stats.md`). |
 | `data/transcripts/` | The two WhatsApp exports (source data). |
 | `scripts/` | Python scripts for the chat analysis and the page fetch, plus the fetch run state. See `scripts/README.md`. |
+| `site/` | Static website over the working CSV (search, filters, charts). `site/data.json` is built by `scripts/build_site.py` and not committed. See step 4c. |
 | `data/websites-markdown/` | 542 fetched pages (about 7 MB): `<UUID>.md` = company homepage (288), `<UUID>_product.md` = product page (53), `<UUID>_pricing.md` = pricing page (201). Each file starts with a front-matter block (uuid, tool, source_url, title, fetched date). |
 
 Both combined files share the same `UUID` per tool (left-most column). Use it as the join key for fetched markdown.
@@ -98,6 +99,30 @@ Totals: 294 rows have a Company URL, 59 a Product URL, 8 a Pricing URL.
 - Decisions: "Revenue operations" and "Marketing" were rejected as too wide and split (Lead routing & scheduling, Forecasting & pipeline; Email marketing & automation, Advertising, Websites & e-commerce, Content & social media). Features of a parent product take the parent's main category with an `AI agents` tag (HubSpot Breeze -> CRM, Claygent -> Lead generation).
 - Judgment calls worth a look: Alfa, Twain, Drift, Delphi.ai, Monaco, FindyMail, Airtop, axiom.ai, Salesforce Agentforce. Calltime, Cost, Growblocks and Sectorlens are based on the chat description only.
 
+### 4c. Website: BUILT (2026-11-20), hosting not set up yet
+- Stack (free):
+  - `scripts/build_site.py` writes `site/data.json`.
+  - `site/` is a single static page: Tabulator 6.3.1 + Chart.js 4.4.7 from CDNs, no bundler.
+  - Cloudflare Pages builds and hosts it, and Cloudflare Access gates it with email one-time codes for an allow-list.
+- Why not the colleague's setup (GitHub Pages + Supabase login in the browser):
+  - GitHub Pages can't publish a private repo for free.
+  - Login in the browser hides the page, but the data file can still be downloaded directly. Cloudflare Access blocks it at the server.
+- Published columns: name, main category, tags, chat description, URLs, freemium, trial, review note. **`Mentioned by` is not published** (people's names). Neither are the pipeline columns.
+- Features:
+  - Search across name, tags and description.
+  - Filters: main category, tags (any of), freemium, trial, "needs manual review".
+  - Charts per main category, freemium and trial. Each chart counts with every *other* filter applied, and clicking a bar filters.
+  - Clicking a row opens details.
+  - The filter state is kept in the URL hash, so a view can be shared.
+- Tested locally in headless Chrome (light and dark mode):
+  - Search "clay" → 6 tools.
+  - CRM → 17 tools.
+  - Freemium Unknown → 212 tools.
+  - Tag "AI agents" → 35 tools, including HubSpot Breeze.
+  - Invalid hash values are ignored, and there were no console errors.
+- To do: the one-time Cloudflare setup in `scripts/README.md` ("Hosting").
+- Later: comments and a "date reviewed" per tool (in `todo.md`) would need storage. On the same free stack: Pages Functions + D1, with the user taken from the `Cf-Access-Authenticated-User-Email` header.
+
 ### 5. Optional
 - Rows with no Product URL are mostly "homepage is the product". Take real product pages from the homepage fetch (step 3) rather than searching.
 - Optionally re-check the 14 `found (retry)` rows with Tavily (about 14 searches).
@@ -117,4 +142,4 @@ Totals: 294 rows have a Company URL, 59 a Product URL, 8 a Pricing URL.
 - Subagents share that cap, and several stopped partway when it ran out. Their unfinished rows were left unsearched, not recorded as failures.
 - Tavily search results are small when `include_domains` is used, so a batch of 12-14 parallel calls fits comfortably in one turn.
 - Scripts are in `scripts/` (see `scripts/README.md`): the chat analysis that builds the per-group CSVs and the page fetch. The URL enrichment and the duplicate merge were one-off steps and are not saved as scripts; the rules above are enough to recreate them.
-- Steps 1-4b are done. Next: manual review of the `For manual review` rows and of the categories, then step 5 or the rest of `todo.md` (G2 ratings, LinkedIn URLs, locations, HTML interface).
+- Steps 1-4c are done (4c still needs the Cloudflare setup). Next: manual review of the `For manual review` rows and of the categories, then step 5 or the rest of `todo.md` (G2 ratings, LinkedIn URLs, locations, HTML interface).

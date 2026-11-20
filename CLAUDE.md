@@ -18,6 +18,8 @@ python3 -I scripts/pricing_flags.py apply            # write Has freemium / Has 
 python3 -I scripts/categories.py check               # validate data/tool_categories.csv
 python3 -I scripts/categories.py apply               # copy Main category / Tags into the working CSV
 python3 -I scripts/fetch_pages.py status             # page-fetch state (full workflow in scripts/README.md)
+python3 -I scripts/build_site.py                     # website data: site/data.json
+python3 -m http.server -d site 8000                  # preview the website locally
 ```
 
 `scripts/README.md` documents every script.
@@ -30,6 +32,8 @@ python3 -I scripts/fetch_pages.py status             # page-fetch state (full wo
 4. `scripts/fetch_pages.py` saves pages to `data/websites-markdown/` as `<UUID>.md` (homepage), `<UUID>_product.md` and `<UUID>_pricing.md`, each with a front-matter header. The `tavily_extract` call is an MCP tool, so a session makes the call and the script plans the batches and ingests the results. Run state is kept in `scripts/fetch_state/`.
 5. `scripts/pricing_flags.py` reads only the saved `_pricing.md` files.
 6. `scripts/categories.py` merges `data/tool_categories.csv` into the working CSV.
+
+7. `scripts/build_site.py` publishes a subset of the working CSV as `site/data.json` (generated and gitignored). `site/` is a static page (Tabulator + Chart.js from CDNs at pinned versions, no bundler) hosted on Cloudflare Pages. The page is gated by Cloudflare Access (an email allow-list). Pushing to `main` rebuilds and redeploys it.
 
 `UUID` (left-most column) is the join key across the CSVs and the markdown files.
 
@@ -46,6 +50,7 @@ python3 -I scripts/fetch_pages.py status             # page-fetch state (full wo
 - Only record URLs that actually appeared in search results, never guessed ones. Sub-products use the parent's domain.
 - CSV writing: UTF-8, no BOM, `csv.DictWriter(..., lineterminator='\n')`. Keep the column order.
 - `data/clayclub_tools.csv`, `data/revopschat_tools.csv` and `data/stats/` are original outputs. Leave them unchanged.
+- **Never publish `Mentioned by`** (names of people in the WhatsApp groups) or the transcripts on the website. `COLUMNS` in `build_site.py` is the allow-list of published columns.
 
 ## Working with the user
 

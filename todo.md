@@ -15,8 +15,9 @@
 [ ] Use Apify LinkedIn URL to get Company City, Country (location)  
 
 ## Interface
-[ ] Generate HTML interface for database  
-[ ] Bar chart on count(rows) per Category  
+[x] Generate HTML interface for database (site/, see scripts/README.md)  
+[x] Bar chart on count(rows) per Category (plus Has freemium, Has trial)  
+[ ] Host on Cloudflare Pages, gated with Cloudflare Access  
 [ ] Bar chart on count(rows) per Country  
-[ ] Filter: Categories, G2 rating, City, Country  
+[ ] Filter: Categories, G2 rating, City, Country (Categories done)  
 [ ] Allow user to add comments to entry "comments" column and "date reviewed" column.
