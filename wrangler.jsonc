@@ -1,0 +1,13 @@
+// Cloudflare Worker that serves the static site in site/ (no server code).
+// Workers Builds runs `python3 scripts/build_site.py` first (creates site/data.json), then `npx wrangler deploy`.
+// The name must match the project name in the Cloudflare dashboard.
+{
+  "name": "gtme-tools",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./site"
+  },
+  "workers_dev": true,
+  // No per-branch preview URLs: only main is deployed, behind Cloudflare Access.
+  "preview_urls": false
+}

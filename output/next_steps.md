@@ -103,7 +103,7 @@ Totals: 294 rows have a Company URL, 59 a Product URL, 8 a Pricing URL.
 - Stack (free):
   - `scripts/build_site.py` writes `site/data.json`.
   - `site/` is a single static page: Tabulator 6.3.1 + Chart.js 4.4.7 from CDNs, no bundler.
-  - Cloudflare Pages builds and hosts it, and Cloudflare Access gates it with email one-time codes for an allow-list.
+  - A Cloudflare Worker with static assets (`wrangler.jsonc`) builds and hosts it. This was planned as Cloudflare Pages, but the dashboard now sends new sites to Workers. Cloudflare Access gates it with email one-time codes for an allow-list.
 - Why not the colleague's setup (GitHub Pages + Supabase login in the browser):
   - GitHub Pages can't publish a private repo for free.
   - Login in the browser hides the page, but the data file can still be downloaded directly. Cloudflare Access blocks it at the server.
@@ -120,7 +120,7 @@ Totals: 294 rows have a Company URL, 59 a Product URL, 8 a Pricing URL.
   - Freemium Unknown → 212 tools.
   - Tag "AI agents" → 35 tools, including HubSpot Breeze.
   - Invalid hash values are ignored, and there were no console errors.
-- To do: the one-time Cloudflare setup in `scripts/README.md` ("Hosting").
+- To do: the one-time Cloudflare setup (Workers flow) in `scripts/README.md` ("Hosting").
 - Later: comments and a "date reviewed" per tool (in `todo.md`) would need storage. On the same free stack: Pages Functions + D1, with the user taken from the `Cf-Access-Authenticated-User-Email` header.
 
 ### 5. Optional

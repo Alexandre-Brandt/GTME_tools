@@ -76,28 +76,28 @@ python3 -m http.server -d site 8000           # preview at http://localhost:8000
 - `site/data.json` is generated and gitignored. Cloudflare builds it on every deploy.
 - Filters are kept in the URL hash, so a filtered view can be bookmarked or shared, e.g. `#main=CRM&freemium=Yes`.
 
-### Hosting: Cloudflare Pages + Cloudflare Access (free)
+### Hosting: Cloudflare Workers (static assets) + Cloudflare Access (free)
+
+`wrangler.jsonc` (at the project root) tells Cloudflare to serve the `site/` folder. There is no server code. Cloudflare now sends new static sites to Workers instead of Pages, which is why this is a Worker.
 
 Set up once:
 
-1. Sign up at https://dash.cloudflare.com/sign-up.
-2. Go to **Workers & Pages → Create → Pages → Connect to Git** and pick the `GTME_tools` repo. Settings:
-   - Production branch: `main`
-   - Framework preset: None
+1. Go to **Compute → Workers & Pages → Create application → Import a repository** and pick `GTME_tools`. Settings:
+   - Project name: `gtme-tools` (must match `name` in `wrangler.jsonc`)
    - Build command: `python3 scripts/build_site.py`
-   - Build output directory: `site`
+   - Deploy command: `npx wrangler deploy`
 
-   Every push to `main` then rebuilds and redeploys the site at `https://<project>.pages.dev`.
-3. Open **Zero Trust** in the dashboard sidebar. Pick a team name and the **Free** plan (up to 50 users; it may ask for a card even at $0).
-4. Under **Zero Trust → Access → Applications → Add an application → Self-hosted**:
-   - Domains: `<project>.pages.dev` and `*.<project>.pages.dev` (the second covers preview builds).
-   - Policy: action **Allow**, include **Emails**, then list the people who may log in.
-   - Login method: **One-time PIN** (a code sent by email; no passwords to manage).
+   Every push to `main` then rebuilds and redeploys the site at `https://gtme-tools.<subdomain>.workers.dev`.
+2. In Zero Trust, choose the **Free** plan (up to 50 users; it may ask for a card even at $0). The team name is `alex-gtm-tools`.
+3. Gate the site: open the Worker → **Settings → Domains & Routes**, find the `workers.dev` row and enable **Cloudflare Access**. This creates an Access application in Zero Trust.
+4. In Zero Trust → **Access → Applications**, open that application and set its policy:
+   - Action **Allow**, include **Emails**, then list the people who may log in.
+   - Login method: **One-time PIN** (a code sent by email; no passwords).
 5. Check the gate. In a private browser window:
-   - The site and `https://<project>.pages.dev/data.json` should both show the Cloudflare login page.
+   - The site and `/data.json` should both show the Cloudflare login page.
    - An email that isn't on the list should be refused.
 
-To give someone access, add their email to the policy. No redeploy is needed.
+To give someone access, add their email to the policy. No redeploy is needed. Per-branch preview URLs are switched off in `wrangler.jsonc`, so only `main` is ever online.
 
 ## Not saved on purpose
 

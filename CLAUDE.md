@@ -33,7 +33,7 @@ python3 -m http.server -d site 8000                  # preview the website local
 5. `scripts/pricing_flags.py` reads only the saved `_pricing.md` files.
 6. `scripts/categories.py` merges `data/tool_categories.csv` into the working CSV.
 
-7. `scripts/build_site.py` publishes a subset of the working CSV as `site/data.json` (generated and gitignored). `site/` is a static page (Tabulator + Chart.js from CDNs at pinned versions, no bundler) hosted on Cloudflare Pages. The page is gated by Cloudflare Access (an email allow-list). Pushing to `main` rebuilds and redeploys it.
+7. `scripts/build_site.py` publishes a subset of the working CSV as `site/data.json` (generated and gitignored). `site/` is a static page (Tabulator + Chart.js from CDNs at pinned versions, no bundler) served by a Cloudflare Worker with static assets only (`wrangler.jsonc`, `*.workers.dev`). The page is gated by Cloudflare Access (an email allow-list). Pushing to `main` rebuilds and redeploys it.
 
 `UUID` (left-most column) is the join key across the CSVs and the markdown files.
 
